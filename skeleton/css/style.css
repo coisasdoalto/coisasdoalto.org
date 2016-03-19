@@ -1,0 +1,27 @@
+.text-center {
+	text-align: center;
+}
+
+/* ================ NAV ================ */
+
+.nav {
+	margin-top: 10%;
+}
+
+.nav .button {
+	width: 100%;
+	box-sizing: border-box;
+}
+
+@media (min-width: 550px) {
+	.nav .button {
+		width: auto;
+		box-sizing: border-box;
+	}
+}
+
+/* ================ BODY ================ */
+
+.body {
+	margin-top: 5%;
+}
