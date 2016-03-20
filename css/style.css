@@ -1,3 +1,11 @@
-.menu {
-	margin-top: 1rem !important;
+.verse {
+	margin: 1rem auto !important;
+}
+
+.verse p {
+	margin: 0 0 0.4em;
+}
+
+.verse footer {
+	text-align: right;
 }
