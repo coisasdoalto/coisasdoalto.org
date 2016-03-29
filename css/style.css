@@ -9,3 +9,11 @@
 .verse footer {
 	text-align: right;
 }
+
+.accordion .title {
+	font-weight: bold;
+}
+
+.accordion .content a {
+	/*color: rgba(0,0,0,.87);*/
+}
