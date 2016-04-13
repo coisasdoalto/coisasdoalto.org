@@ -1,23 +1,15 @@
+body {
+	background-color: #FAFAFA;
+}
+
 .verse {
-	margin: 1rem auto !important;
+	padding: 5em;
 }
 
-.verse p {
-	margin: 0 0 0.4em;
-}
-
-.verse footer {
-	text-align: right;
-}
-
-.accordion .title {
-	font-weight: bold;
-}
-
-.accordion .content a {
-	/*color: rgba(0,0,0,.87);*/
+.text-center {
+	text-align: center;
 }
 
 .content-section {
-	margin-bottom: 20px;
+	margin-bottom: 50px;
 }
