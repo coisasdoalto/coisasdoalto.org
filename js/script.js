@@ -11,3 +11,7 @@ $('.ui.menu')
 $('.ui.accordion')
 .accordion()
 ;
+
+$('.ui.dropdown')
+.dropdown()
+;
