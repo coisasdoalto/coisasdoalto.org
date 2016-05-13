@@ -9,9 +9,9 @@ $('.ui.menu')
 });
 
 $('.ui.accordion')
-.accordion()
+  .accordion()
 ;
 
 $('.ui.dropdown')
-.dropdown()
+  .dropdown()
 ;
