@@ -14,3 +14,13 @@ body {
 .content-section {
 	margin-bottom: 50px;
 }
+
+.igreja-sem-placa {
+	background: url("../images/igreja-sem-placa.jpg") center no-repeat !important;
+	background-size: cover !important;
+}
+
+.igreja-sem-placa * {
+	color: #fff !important;
+	font-weight: 500 !important;
+}
