@@ -20,7 +20,26 @@ body {
 	background-size: cover !important;
 }
 
-.igreja-sem-placa * {
+.ir-ao-inferno {
+	background: url("../images/ir-ao-inferno.jpg") center no-repeat !important;
+	background-size: cover !important;
+}
+
+.olhando-para-jesus {
+	background: url("../images/olhando-para-jesus.jpg") center no-repeat !important;
+	background-size: cover !important;
+}
+
+.seguranca-certeza-gozo {
+	background: url("../images/seguranca-certeza-gozo.jpg") center no-repeat !important;
+	background-size: cover !important;
+}
+
+.igreja-sem-placa *, .ir-ao-inferno *, .olhando-para-jesus *, .seguranca-certeza-gozo * {
 	color: #fff !important;
 	font-weight: 500 !important;
+}
+
+.shadow-for-bright-bg {
+	text-shadow: 0px 0px 3px rgba(0, 0, 0, 0.8);
 }
