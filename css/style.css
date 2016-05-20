@@ -23,7 +23,7 @@ body {
 	text-align: center;
 }
 
-.ler p {
+.ler p, .ler li {
 	line-height: 1.7em;
 }
 
