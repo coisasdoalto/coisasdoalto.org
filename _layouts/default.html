@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body>
+
+    <div class="ui stackable grid container">
+
+      {% include header.html %}
+
+      <div class="three wide column">
+        {% include menu.html %}
+      </div>
+
+      <div class="thirteen wide column">
+        {{ content }}
+      </div>
+
+    </div>
+
+    <script src="http://code.jquery.com/jquery-1.12.0.min.js"></script>
+    <script src="semantic/dist/semantic.min.js"></script>
+    <script src="js/script.js" charset="utf-8"></script>
+
+  </body>
+
+</html>
