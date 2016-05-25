@@ -61,4 +61,15 @@ layout: default
     </div>
   </a>
 
+{% for post in site.categories.artigos %}
+  <a class="ui card seguranca-certeza-gozo" href="#">
+    <div class="content">
+      <div class="header">{{ post.title }}</div>
+      <div class="description">
+        <p>{{ post.excerpt }}</p>
+      </div>
+    </div>
+  </a>
+{% endfor %}
+
 </div>
