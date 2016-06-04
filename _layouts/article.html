@@ -16,12 +16,26 @@ layout: default
 
   {{ content }}
 
-  <div class="ui centered grid">
+  <!-- <div class="ui centered grid">
     <div class="ten wide column">
       <div class="ui fluid buttons">
         <button class="ui button">One</button>
         <button class="ui button">Two</button>
         <button class="ui button">Three</button>
+      </div>
+    </div>
+  </div> -->
+
+  <div class="ui center aligned grid">
+    <div class="ui column">
+      <a href="#" class="ui labeled icon button" data-content="Reportar um erro no texto"><i class="font icon"></i> Reportar um erro</a>
+      <div class="ui left labeled button" tabindex="0">
+        <a class="ui basic right pointing label">
+          {{ site.url }}{{ page.url }}
+        </a>
+        <div class="ui icon button" data-content="Copiar link desta página">
+          <i class="copy icon"></i>
+        </div>
       </div>
     </div>
   </div>

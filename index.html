@@ -61,8 +61,8 @@ layout: default
     </div>
   </a>
 
-{% for post in site.categories.artigos %}
-  <a class="ui card seguranca-certeza-gozo" href="#">
+{% for post in site.posts %}
+  <a class="ui card {{ post.css-class }}" href="{{ post.url }}">
     <div class="content">
       <div class="header">{{ post.title }}</div>
       <div class="description">
