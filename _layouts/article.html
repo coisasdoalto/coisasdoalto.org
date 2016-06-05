@@ -3,13 +3,14 @@ layout: default
 ---
 
 <div class="ui breadcrumb">
-  <a href="{{ site.url }}/index.html" class="section">Início</a>
+  <a href="{{ site.baseurl }}/index.html" class="section">Início</a>
   <i class="right arrow icon divider"></i>
-  <div class="active section">Igreja sem placa?</div>
+  <div class="active section">{{ page.title }}</div>
 </div>
 
 <div class="ui very padded segment ler">
   <h1>{{ page.title }}</h1>
+  <h3><em>Por: {{ page.author }}</em></h3>
   <div class="ui message">
   	<p>{{ page.excerpt }}</p>
   </div>
