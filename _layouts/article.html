@@ -9,11 +9,23 @@ layout: default
 </div>
 
 <div class="ui very padded segment ler">
-  <h1>{{ page.title }}</h1>
-  <h3><em>Por: {{ page.author }}</em></h3>
-  <div class="ui message">
+
+  <h1 class="ui left aligned header">{{ page.title }}
+    {% if page.excerpt %}
+      <div class="sub header"><em>{{ page.excerpt }}</em></div>
+    {% endif %}
+  </h1>
+  {% if page.author %}
+    <div class="ui right aligned tiny divi header">Por: {{ page.author }}</div>
+  {% endif %}
+  <hr>
+  <br>
+
+  <!-- <span><em>Por: {{ page.author }}</em></span> -->
+
+  <!-- <div class="ui message">
   	<p>{{ page.excerpt }}</p>
-  </div>
+  </div> -->
 
   {{ content }}
 
