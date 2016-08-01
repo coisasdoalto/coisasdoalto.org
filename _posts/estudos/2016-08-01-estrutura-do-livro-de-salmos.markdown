@@ -9,12 +9,9 @@ css-class:
 author:
 ---
 
-# Índice
-
 <!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
-- [Índice](#ndice)
-- [Introdução](#introduo)
+- [Divisões](#divises)
 - [Expressões Hebraicas](#expresses-hebraicas)
 - [Poesia Hebraica](#poesia-hebraica)
 	- [Gêneros](#gneros)
@@ -23,9 +20,7 @@ author:
 
 <!-- /TOC -->
 
-# Introdução
-
-Teste de um parágrafo bem comprido. Teste de um parágrafo bem comprido. Teste de um parágrafo bem comprido. Teste de um parágrafo bem comprido.
+# Divisões
 
 Salmos é dividido em 5 livros (pentateuco) (a Bíblia toda também é um pentateuco, 4 divisões no AT + NT = 5).
 
