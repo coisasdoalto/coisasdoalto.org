@@ -291,11 +291,3 @@ Nos livros dos salmos, mas também em:
 Poemas são compostos às vezes de estrofes e cada estrofe de versos. Quando não há estrofes, sempre existem os versos. Num hino, por exemplo, cada linha corresponde a um verso dentro da estrofe. Por isso, pedir que se cante o verso 2 do hino “x” é uma expressão errada, porque significa literalmente que deveríamos cantar apenas a segunda linha daquele hino!
 
 Em português e na maioria dos idiomas de origem europeu, hoje em dia a rima final dos versos em uma estrofe é a característica principal. Isso não era sempre assim. Nas línguas germânicas, por exemplo, até os primórdios dos tempos medievais, não se usava a rima, mas sim outras formas poéticas como a consonância de letras iniciais das sílabas principais em um verso. Exemplo em saxão antigo (idioma mãe do baixo alemão e do inglês moderno):
-
-<div class="ui message">
-
-<div class="header">Changes in Service</div>
-
-We just updated our privacy policy here to better service our customers. We recommend reviewing the changes.
-
-</div>
