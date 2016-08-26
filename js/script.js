@@ -1,4 +1,4 @@
-$('.ui.menu')
+$('.ui.menu.navegacao')
 .on('click', '.item', function() {
   if(!$(this).hasClass('dropdown')) {
     $(this)

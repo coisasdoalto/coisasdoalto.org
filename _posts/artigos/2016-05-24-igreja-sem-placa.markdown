@@ -4,6 +4,7 @@ title: Igreja sem placa?
 excerpt: Uma descrição das assembleias que se congregam no Nome do Senhor Jesus Cristo, na condição de membros do Corpo de Cristo (e não de uma denominação).
 categories: artigos
 css-class: igreja-sem-placa
+author: R. K. Campbell
 ---
 
 
