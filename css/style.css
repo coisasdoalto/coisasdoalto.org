@@ -27,6 +27,15 @@ body {
 	line-height: 1.7em;
 }
 
+.ler .custom-table {
+  margin: 1em auto;
+  max-width: 90%;
+}
+
+.ler .custom-table > table {
+  margin-top: 1em;
+}
+
 .igreja-sem-placa {
 	background: url("../images/igreja-sem-placa.jpg") center no-repeat !important;
 	background-size: cover !important;

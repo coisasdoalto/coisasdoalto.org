@@ -1,0 +1,27 @@
+---
+layout: default2
+---
+
+
+<div class="ui text container">
+  
+  <div class="ui breadcrumb segment">
+    <a href="{{ site.baseurl }}/index.html" class="section">Início</a>
+    <i class="right arrow icon divider"></i>
+    <div class="active section">{{ page.title }}</div>
+  </div>
+
+  <h1 class="ui left aligned header">{{ page.title }}
+    {% if page.excerpt %}
+      <div class="sub header"><em>{{ page.excerpt }}</em></div>
+    {% endif %}
+  </h1>
+  {% if page.author %}
+    <div class="ui right aligned tiny divi header">Por: {{ page.author }}</div>
+  {% endif %}
+  <hr>
+
+</div>
+
+
+{{ content }}
