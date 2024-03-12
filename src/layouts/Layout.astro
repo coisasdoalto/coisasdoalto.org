@@ -1,11 +1,14 @@
 ---
 import Header from "../components/Header.astro";
+import Sidebar from "../components/Sidebar.astro";
 
 interface Props {
   title: string;
+  articleTitle: string;
+  author?: string;
 }
 
-const { title } = Astro.props;
+const { title, articleTitle, author } = Astro.props;
 ---
 
 <!doctype html>
@@ -23,57 +26,7 @@ const { title } = Astro.props;
 
     <div class="w-full px-4 mx-auto max-w-8xl">
       <div class="lg:flex">
-        <aside
-          id="sidebar"
-          class="fixed inset-0 z-20 flex-none hidden h-full w-72 lg:static lg:h-auto lg:overflow-y-visible lg:pt-0 lg:w-48 lg:block"
-          aria-labelledby="sidebar-label"
-        >
-          <h4 id="sidebar-label" class="sr-only">Browse</h4>
-          <div
-            id="navWrapper"
-            class="overflow-y-auto z-20 h-full bg-white scrolling-touch max-w-2xs lg:h-[calc(100vh-3rem)] lg:block lg:sticky top-0 dark:bg-gray-900 lg:mr-0"
-          >
-            <nav
-              id="nav"
-              class="pt-16 px-1 pl-3 lg:pl-0 lg:pt-2 font-normal text-base lg:text-sm pb-10 lg:pb-20 sticky?lg:h-(screen-18)"
-              aria-label="Docs navigation"
-            >
-              <ul class="mb-0 list-unstyled">
-                <li class="mt-8">
-                  <h5
-                    class="mb-2 text-sm font-semibold tracking-wide text-gray-900 uppercase lg:text-xs dark:text-white"
-                  >
-                    Artigos
-                  </h5>
-                  <ul class="py-1 list-unstyled fw-normal small">
-                    <li>
-                      <a
-                        href="#"
-                        data-sidebar-item=""
-                        class="py-2 transition-colors duration-200 relative flex items-center flex-wrap font-medium hover:text-gray-900 text-gray-500 dark:text-gray-400 dark:hover:text-white"
-                        >Um
-                      </a>
-                    </li>
-                    <li>
-                      <a
-                        href="#"
-                        data-sidebar-item=""
-                        class="py-2 transition-colors duration-200 relative flex items-center flex-wrap font-medium hover:text-gray-900 text-gray-500 dark:text-gray-400 dark:hover:text-white"
-                        >Dois
-                      </a>
-                    </li>
-                  </ul>
-                </li>
-              </ul>
-            </nav>
-          </div>
-        </aside>
-
-        <div
-          class="fixed inset-0 z-10 hidden bg-gray-900/50 dark:bg-gray-900/60"
-          id="sidebarBackdrop"
-        >
-        </div>
+        <Sidebar />
 
         <main
           id="content-wrapper"
@@ -84,41 +37,29 @@ const { title } = Astro.props;
               class="flex-auto max-w-4xl min-w-0 pt-6 lg:px-8 lg:pt-8 pb:12 xl:pb-24 lg:pb-16"
             >
               <div
-                class="pb-4 mb-8 border-b border-gray-200 dark:border-gray-800"
+                class="max-w-full prose dark:prose-invert
+                         prose-h1:font-bold
+                       prose-a:text-blue-600 prose-img:rounded-xl"
               >
-                <h1
-                  class="inline-block mb-2 text-3xl font-extrabold tracking-tight text-gray-900 dark:text-white"
-                  id="content"
+                <div
+                  class="pb-4 mb-8 border-b border-gray-200 dark:border-gray-800"
                 >
-                  Coisas do Alto
-                </h1>
-                <p class="mb-4 text-lg text-gray-600 dark:text-gray-400">
-                  Read more about
-                </p>
+                  <h1 class="mb-0">{articleTitle}</h1>
+
+                  {author && <p class="mt-2 mb-0">Autor: {author}</p>}
+                </div>
               </div>
 
               <div id="mainContent">
-                <h2 class="relative group">
-                  Um
-                  <span id="changelog" class="absolute -top-[140px]"></span>
-                  <a
-                    class="ml-2 text-blue-700 opacity-0 transition-opacity dark:text-blue-500 group-hover:opacity-100"
-                    href="#um"
-                    aria-label="Link to this section: Um">#</a
-                  >
-                </h2><p>um</p>
+                <div
+                  class="max-w-full prose dark:prose-invert
+                         prose-h1:font-bold
+                       prose-a:text-blue-600 prose-img:rounded-xl"
+                >
+                  <slot />
+                </div>
 
-                <h3 class="relative group">
-                  Dois
-                  <span id="v230" class="absolute -top-[140px]"></span>
-                  <a
-                    class="ml-2 text-blue-700 opacity-0 transition-opacity dark:text-blue-500 group-hover:opacity-100"
-                    href="#v230"
-                    aria-label="Link to this section: v2.3.0">#</a
-                  >
-                </h3>
-
-                <aside
+                <!-- <aside
                   class="flex mt-6 mb-8 font-medium leading-6"
                   aria-label="Previous and next page navigation"
                 >
@@ -159,9 +100,9 @@ const { title } = Astro.props;
                         d="M1 5h12m0 0L9 1m4 4L9 9"></path>
                     </svg></a
                   >
-                </aside>
+                </aside> -->
 
-                <aside
+                <!-- <aside
                   class="p-4 my-8 bg-white border border-gray-200 rounded-lg shadow-md sm:p-6 lg:p-8 dark:bg-gray-800 dark:border-gray-700"
                   aria-label="Subscribe to the Coisas do Alto newsletter"
                 >
@@ -240,7 +181,7 @@ const { title } = Astro.props;
                       href="#">Privacy Policy</a
                     >.
                   </div>
-                </aside>
+                </aside> -->
               </div>
             </div>
 
@@ -249,7 +190,7 @@ const { title } = Astro.props;
                 class="flex overflow-y-auto sticky top-0 flex-col justify-between pt-10 pb-6 h-[calc(100vh-5rem)]"
               >
                 <div class="mb-8">
-                  <h4
+                  <!-- <h4
                     class="pl-2.5 mb-2 text-sm font-semibold tracking-wide text-gray-900 uppercase dark:text-white lg:text-xs"
                   >
                     On this page
@@ -271,7 +212,7 @@ const { title } = Astro.props;
                         </ul>
                       </li>
                     </ul>
-                  </nav>
+                  </nav> -->
                 </div>
               </div>
             </div>
