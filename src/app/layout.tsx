@@ -1,16 +1,24 @@
-import '@mantine/core/styles.css';
-import React from 'react';
-import { MantineProvider, ColorSchemeScript } from '@mantine/core';
-import { theme } from '../theme';
+import { Metadata } from 'next';
 
-export const metadata = {
-  title: 'Mantine Next.js template',
-  description: 'I am using Mantine with Next.js!',
+import { ColorSchemeScript, MantineProvider } from '@mantine/core';
+
+import { theme } from '~/theme';
+
+import { HOME_OG_IMAGE_URL } from '~/lib/constants';
+
+import '@mantine/core/styles.css';
+
+export const metadata: Metadata = {
+  title: 'Coisas do Alto',
+  description: 'Uma coletânea de artigos cristãos sobre as Coisas do Alto',
+  openGraph: {
+    images: [HOME_OG_IMAGE_URL],
+  },
 };
 
 export default function RootLayout({ children }: { children: any }) {
   return (
-    <html lang="en">
+    <html lang="pt-BR">
       <head>
         <ColorSchemeScript />
         <link rel="shortcut icon" href="/favicon.svg" />
