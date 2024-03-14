@@ -27,6 +27,13 @@ export function VerticalNavigation({ onNavigation }: { onNavigation: () => void 
           href="/posts/igreja-sem-placa"
           onClick={onNavigation}
         />
+
+        <NavLink
+          label="A Ceia do Senhor: Uma Refeição de Ação de Graças"
+          component={Link}
+          href="/posts/a-ceia-do-senhor-uma-refeicao-de-acao-de-gracas"
+          onClick={onNavigation}
+        />
       </NavLink>
 
       <NavLink

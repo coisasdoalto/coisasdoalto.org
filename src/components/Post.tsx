@@ -17,13 +17,13 @@ export async function Post({ post }: PostProps) {
 
           <hr />
 
-          <div>
+          {/* <div>
             {post.tags.map((tag) => (
               <span key={tag}>
                 {tag}
               </span>
             ))}
-          </div>
+          </div> */}
         </header>
 
         <div

@@ -9,9 +9,9 @@ import {
   Container,
   Flex,
   AppShell as MantineAppShell,
+  useMantineColorScheme,
   useMantineTheme,
 } from '@mantine/core';
-import { useColorScheme } from '@mantine/hooks';
 import Link from 'next/link';
 
 import { DarkModeToggle } from './DarkModeToggle';
@@ -19,7 +19,7 @@ import { VerticalNavigation } from './VerticalNavigation';
 
 export default function AppShell({ children }: PropsWithChildren) {
   const theme = useMantineTheme();
-  const colorScheme = useColorScheme();
+  const { colorScheme } = useMantineColorScheme();
   const [opened, setOpened] = useState(false);
 
   return (
@@ -29,10 +29,7 @@ export default function AppShell({ children }: PropsWithChildren) {
           background: colorScheme === 'dark' ? theme.colors.dark[8] : theme.colors.gray[0],
         },
       }}
-      aside={{
-        breakpoint: 'lg',
-        width: { sm: 200, lg: 300 },
-      }}
+      aside={{ width: 300, breakpoint: 'md', collapsed: { desktop: false, mobile: true } }}
       header={{
         height: { base: 50, md: 70 },
       }}
@@ -43,11 +40,7 @@ export default function AppShell({ children }: PropsWithChildren) {
       }}
     >
       <MantineAppShell.Header p="md">
-        <Flex
-          h="100%"
-          align="center"
-          justify="center"
-        >
+        <Flex h="100%" align="center" justify="center">
           <Burger
             opened={opened}
             onClick={() => setOpened((o) => !o)}
@@ -75,11 +68,11 @@ export default function AppShell({ children }: PropsWithChildren) {
         />
       </MantineAppShell.Navbar>
 
-      <MantineAppShell.Main px={0} py={16}>
-        <Container px={0} py={16}>
-          {children}
-        </Container>
+      <MantineAppShell.Main>
+        <Container pt="md">{children}</Container>
       </MantineAppShell.Main>
+
+      {/* <MantineAppShell.Aside p="md">Aside</MantineAppShell.Aside> */}
     </MantineAppShell>
   );
 }
