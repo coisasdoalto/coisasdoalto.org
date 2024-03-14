@@ -20,7 +20,7 @@ export function getPostBySlug(slug: string): Post {
 
   const parsedContent = postSchema.parse({ ...data, slug: realSlug, content });
 
-  return { ...parsedContent, content, slug };
+  return { ...parsedContent, content, slug: realSlug };
 }
 
 export function getAllPosts(): Post[] {
