@@ -13,7 +13,7 @@ export default function HomePage() {
       <Center mt="lg">
         <Stack>
           {allPosts.map((post) => (
-            <Anchor href={`/posts/${post.slug}`}>
+            <Anchor key={post.slug} href={`/posts/${post.slug}`}>
               <Text>{post.title}</Text>
             </Anchor>
           ))}

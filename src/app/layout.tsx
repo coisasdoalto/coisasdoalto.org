@@ -1,6 +1,7 @@
 import { Metadata } from 'next';
 
 import { ColorSchemeScript, MantineProvider } from '@mantine/core';
+import dynamic from 'next/dynamic';
 
 import { theme } from '~/theme';
 
@@ -16,6 +17,8 @@ export const metadata: Metadata = {
   },
 };
 
+const AppShell = dynamic(() => import('~/components/AppShell'), { ssr: false });
+
 export default function RootLayout({ children }: { children: any }) {
   return (
     <html lang="pt-BR">
@@ -28,7 +31,11 @@ export default function RootLayout({ children }: { children: any }) {
         />
       </head>
       <body>
-        <MantineProvider theme={theme}>{children}</MantineProvider>
+        <MantineProvider theme={theme}>
+          <AppShell>
+            {children}
+          </AppShell>
+        </MantineProvider>
       </body>
     </html>
   );

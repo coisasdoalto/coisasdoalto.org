@@ -1,0 +1,4 @@
+body {
+  color: var(--mantine-color-red-5);
+  background: var(--mantine-color-indigo-9);
+}
