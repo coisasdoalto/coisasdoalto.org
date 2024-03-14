@@ -1,12 +1,12 @@
-import markdownToHtml from '~/lib/markdownToHtml';
-import type { Post } from '~/types/post';
+import markdownToHtml from '~/lib/markdownToHtml'
+import type { Post } from '~/types/post'
 
 type PostProps = {
   post: Post
-};
+}
 
 export async function Post({ post }: PostProps) {
-  const content = await markdownToHtml(post.content);
+  const content = await markdownToHtml(post.content)
 
   return (
     <div>
@@ -19,9 +19,7 @@ export async function Post({ post }: PostProps) {
 
           {/* <div>
             {post.tags.map((tag) => (
-              <span key={tag}>
-                {tag}
-              </span>
+              <span key={tag}>{tag}</span>
             ))}
           </div> */}
         </header>
@@ -30,9 +28,8 @@ export async function Post({ post }: PostProps) {
           dangerouslySetInnerHTML={{
             __html: content,
           }}
-        >
-        </div>
+        ></div>
       </div>
     </div>
-  );
+  )
 }

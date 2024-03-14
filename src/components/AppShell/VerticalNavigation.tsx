@@ -1,10 +1,14 @@
-'use client';
+'use client'
 
-import { Box, NavLink } from '@mantine/core';
-import { IconBooks, IconHome, IconInfoSquare } from '@tabler/icons-react';
-import Link from 'next/link';
+import { Box, NavLink } from '@mantine/core'
+import { IconBooks, IconHome, IconInfoSquare } from '@tabler/icons-react'
+import Link from 'next/link'
 
-export function VerticalNavigation({ onNavigation }: { onNavigation: () => void }) {
+export function VerticalNavigation({
+  onNavigation,
+}: {
+  onNavigation: () => void
+}) {
   return (
     <Box>
       <NavLink
@@ -44,5 +48,5 @@ export function VerticalNavigation({ onNavigation }: { onNavigation: () => void 
         onClick={onNavigation}
       />
     </Box>
-  );
+  )
 }

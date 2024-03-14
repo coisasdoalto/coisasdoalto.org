@@ -1,13 +1,14 @@
-import { Metadata } from 'next';
+import { ReactNode } from 'react'
 
-import { ColorSchemeScript, MantineProvider } from '@mantine/core';
-import dynamic from 'next/dynamic';
+import { Metadata } from 'next'
 
-import { theme } from '~/theme';
+import { ColorSchemeScript, MantineProvider } from '@mantine/core'
+import dynamic from 'next/dynamic'
 
-import { HOME_OG_IMAGE_URL } from '~/lib/constants';
+import { HOME_OG_IMAGE_URL } from '~/lib/constants'
+import { theme } from '~/theme'
 
-import '@mantine/core/styles.css';
+import '@mantine/core/styles.css'
 
 export const metadata: Metadata = {
   title: 'Coisas do Alto',
@@ -15,11 +16,11 @@ export const metadata: Metadata = {
   openGraph: {
     images: [HOME_OG_IMAGE_URL],
   },
-};
+}
 
-const AppShell = dynamic(() => import('~/components/AppShell'), { ssr: false });
+const AppShell = dynamic(() => import('~/components/AppShell'), { ssr: false })
 
-export default function RootLayout({ children }: { children: any }) {
+export default function RootLayout({ children }: { children: ReactNode }) {
   return (
     <html lang="pt-BR">
       <head>
@@ -32,11 +33,9 @@ export default function RootLayout({ children }: { children: any }) {
       </head>
       <body>
         <MantineProvider theme={theme}>
-          <AppShell>
-            {children}
-          </AppShell>
+          <AppShell>{children}</AppShell>
         </MantineProvider>
       </body>
     </html>
-  );
+  )
 }

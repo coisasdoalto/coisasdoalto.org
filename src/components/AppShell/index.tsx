@@ -1,6 +1,6 @@
-'use client';
+'use client'
 
-import { PropsWithChildren, useState } from 'react';
+import { PropsWithChildren, useState } from 'react'
 
 import {
   Breadcrumbs,
@@ -11,25 +11,32 @@ import {
   AppShell as MantineAppShell,
   useMantineColorScheme,
   useMantineTheme,
-} from '@mantine/core';
-import Link from 'next/link';
+} from '@mantine/core'
+import Link from 'next/link'
 
-import { DarkModeToggle } from './DarkModeToggle';
-import { VerticalNavigation } from './VerticalNavigation';
+import { DarkModeToggle } from './DarkModeToggle'
+import { VerticalNavigation } from './VerticalNavigation'
 
 export default function AppShell({ children }: PropsWithChildren) {
-  const theme = useMantineTheme();
-  const { colorScheme } = useMantineColorScheme();
-  const [opened, setOpened] = useState(false);
+  const theme = useMantineTheme()
+  const { colorScheme } = useMantineColorScheme()
+  const [opened, setOpened] = useState(false)
 
   return (
     <MantineAppShell
       styles={{
         main: {
-          background: colorScheme === 'dark' ? theme.colors.dark[8] : theme.colors.gray[0],
+          background:
+            colorScheme === 'dark'
+              ? theme.colors.dark[8]
+              : theme.colors.gray[0],
         },
       }}
-      aside={{ width: 300, breakpoint: 'md', collapsed: { desktop: false, mobile: true } }}
+      aside={{
+        width: 300,
+        breakpoint: 'md',
+        collapsed: { desktop: false, mobile: true },
+      }}
       header={{
         height: { base: 50, md: 70 },
       }}
@@ -63,7 +70,7 @@ export default function AppShell({ children }: PropsWithChildren) {
       <MantineAppShell.Navbar p="md">
         <VerticalNavigation
           onNavigation={() => {
-            setOpened(false);
+            setOpened(false)
           }}
         />
       </MantineAppShell.Navbar>
@@ -74,5 +81,5 @@ export default function AppShell({ children }: PropsWithChildren) {
 
       {/* <MantineAppShell.Aside p="md">Aside</MantineAppShell.Aside> */}
     </MantineAppShell>
-  );
+  )
 }

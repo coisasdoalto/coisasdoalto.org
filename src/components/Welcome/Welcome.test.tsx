@@ -1,13 +1,13 @@
-import { render, screen } from '~/test-utils';
+import { render, screen } from '~/test-utils'
 
-import { Welcome } from '.';
+import { Welcome } from '.'
 
 describe('Welcome component', () => {
   it('has correct Next.js theming section link', () => {
-    render(<Welcome />);
+    render(<Welcome />)
     expect(screen.getByText('this guide')).toHaveAttribute(
       'href',
-      'https://mantine.dev/guides/next/'
-    );
-  });
-});
+      'https://mantine.dev/guides/next/',
+    )
+  })
+})

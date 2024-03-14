@@ -1,5 +1,5 @@
 module.exports = {
-  extends: ['mantine', 'plugin:@next/next/recommended', 'plugin:jest/recommended'],
+  extends: ['@rocketseat/eslint-config/next', 'next/core-web-vitals', 'plugin:jest/recommended'],
   plugins: ['testing-library', 'jest'],
   overrides: [
     {

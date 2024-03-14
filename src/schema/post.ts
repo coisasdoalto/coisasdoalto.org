@@ -1,4 +1,4 @@
-import { z } from 'zod';
+import { z } from 'zod'
 
 export const postSchema = z.object({
   title: z.string(),
@@ -6,4 +6,4 @@ export const postSchema = z.object({
   date: z.coerce.date(),
   excerpt: z.string().optional(),
   tags: z.array(z.string()),
-});
+})

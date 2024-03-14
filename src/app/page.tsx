@@ -1,9 +1,9 @@
-import { Anchor, Center, Stack, Text, Title } from '@mantine/core';
+import { Anchor, Center, Stack, Text, Title } from '@mantine/core'
 
-import { getAllPosts } from '~/lib/api';
+import { getAllPosts } from '~/lib/api'
 
 export default function HomePage() {
-  const allPosts = getAllPosts();
+  const allPosts = getAllPosts()
 
   return (
     <>
@@ -20,5 +20,5 @@ export default function HomePage() {
         </Stack>
       </Center>
     </>
-  );
+  )
 }
