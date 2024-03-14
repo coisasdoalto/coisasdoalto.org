@@ -1,33 +1,33 @@
-import fs from 'fs';
-import { join } from 'path';
+import fs from "node:fs";
+import { join } from "node:path";
 
-import matter from 'gray-matter';
+import matter from "gray-matter";
 
-import { postSchema } from '~/schema/post';
-import { Post } from '~/types/post';
+import { postSchema } from "~/schema/post";
+import type { Post } from "~/types/post";
 
-const postsDirectory = join(process.cwd(), '_posts');
+const postsDirectory = join(process.cwd(), "_posts");
 
 export function getPostSlugs() {
-  return fs.readdirSync(postsDirectory);
+	return fs.readdirSync(postsDirectory);
 }
 
 export function getPostBySlug(slug: string): Post {
-  const realSlug = slug.replace(/\.md$/, '');
-  const fullPath = join(postsDirectory, `${realSlug}.md`);
-  const fileContents = fs.readFileSync(fullPath, 'utf8');
-  const { data, content } = matter(fileContents);
+	const realSlug = slug.replace(/\.md$/, "");
+	const fullPath = join(postsDirectory, `${realSlug}.md`);
+	const fileContents = fs.readFileSync(fullPath, "utf8");
+	const { data, content } = matter(fileContents);
 
-  const parsedContent = postSchema.parse({ ...data, slug: realSlug, content });
+	const parsedContent = postSchema.parse({ ...data, slug: realSlug, content });
 
-  return { ...parsedContent, content, slug: realSlug };
+	return { ...parsedContent, content, slug: realSlug };
 }
 
 export function getAllPosts(): Post[] {
-  const slugs = getPostSlugs();
-  const posts = slugs
-    .map((slug) => getPostBySlug(slug))
-    // sort posts by date in descending order
-    .sort((post1, post2) => (post1.date > post2.date ? -1 : 1));
-  return posts;
+	const slugs = getPostSlugs();
+	const posts = slugs
+		.map((slug) => getPostBySlug(slug))
+		// sort posts by date in descending order
+		.sort((post1, post2) => (post1.date > post2.date ? -1 : 1));
+	return posts;
 }

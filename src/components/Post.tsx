@@ -1,38 +1,38 @@
-import markdownToHtml from '~/lib/markdownToHtml';
-import type { Post } from '~/types/post';
+import markdownToHtml from "~/lib/markdownToHtml";
+import type { Post as PostType } from "~/types/post";
 
 type PostProps = {
-  post: Post
+	post: PostType;
 };
 
 export async function Post({ post }: PostProps) {
-  const content = await markdownToHtml(post.content);
+	const content = await markdownToHtml(post.content);
 
-  return (
-    <div>
-      <div>
-        <header>
-          <h1>{post.title}</h1>
-          <h2>Autor: {post.author}</h2>
+	return (
+		<div>
+			<div>
+				<header>
+					<h1>{post.title}</h1>
+					<h2>Autor: {post.author}</h2>
 
-          <hr />
+					<hr />
 
-          {/* <div>
+					{/* <div>
             {post.tags.map((tag) => (
               <span key={tag}>
                 {tag}
               </span>
             ))}
           </div> */}
-        </header>
+				</header>
 
-        <div
-          dangerouslySetInnerHTML={{
-            __html: content,
-          }}
-        >
-        </div>
-      </div>
-    </div>
-  );
+				<div
+					// biome-ignore lint/security/noDangerouslySetInnerHtml: We need it to render post
+					dangerouslySetInnerHTML={{
+						__html: content,
+					}}
+				/>
+			</div>
+		</div>
+	);
 }
