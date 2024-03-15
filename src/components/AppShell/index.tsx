@@ -14,13 +14,14 @@ import {
 } from "@mantine/core";
 import Link from "next/link";
 
+import { useDisclosure } from "@mantine/hooks";
 import { DarkModeToggle } from "./DarkModeToggle";
 import { VerticalNavigation } from "./VerticalNavigation";
 
 export default function AppShell({ children }: PropsWithChildren) {
 	const theme = useMantineTheme();
 	const { colorScheme } = useMantineColorScheme();
-	const [opened, setOpened] = useState(false);
+	const [opened, { toggle, close }] = useDisclosure();
 
 	return (
 		<MantineAppShell
@@ -41,8 +42,8 @@ export default function AppShell({ children }: PropsWithChildren) {
 				height: { base: 50, md: 70 },
 			}}
 			navbar={{
-				breakpoint: "md",
-				width: { sm: 200, lg: 300 },
+				breakpoint: "sm",
+				width: 300,
 				collapsed: { mobile: !opened },
 			}}
 		>
@@ -50,11 +51,11 @@ export default function AppShell({ children }: PropsWithChildren) {
 				<Flex h="100%" align="center" justify="center">
 					<Burger
 						opened={opened}
-						onClick={() => setOpened((o) => !o)}
+						onClick={toggle}
 						size="sm"
 						color={theme.colors.gray[6]}
 						mr="xl"
-						hiddenFrom="lg"
+						hiddenFrom="sm"
 					/>
 
 					<Breadcrumbs style={{ marginRight: "auto" }}>
@@ -68,18 +69,12 @@ export default function AppShell({ children }: PropsWithChildren) {
 			</MantineAppShell.Header>
 
 			<MantineAppShell.Navbar p="md">
-				<VerticalNavigation
-					onNavigation={() => {
-						setOpened(false);
-					}}
-				/>
+				<VerticalNavigation onNavigation={close} />
 			</MantineAppShell.Navbar>
 
 			<MantineAppShell.Main>
 				<Container pt="md">{children}</Container>
 			</MantineAppShell.Main>
-
-			{/* <MantineAppShell.Aside p="md">Aside</MantineAppShell.Aside> */}
 		</MantineAppShell>
 	);
 }
