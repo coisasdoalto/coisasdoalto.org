@@ -25,7 +25,7 @@ const docxPostsDirPath = path.resolve("data");
 		// TODO: enchance data with AI
 		const postMetadata = {
 			title: post.replace(".docx", ""),
-			date: dayjs(new Date(), "yyyy-MM-dd"),
+			date: dayjs(new Date()).format("YYYY-MM-DD"),
 			excerpt: "",
 			author: "",
 			tags: [],
