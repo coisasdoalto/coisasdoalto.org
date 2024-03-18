@@ -22,12 +22,21 @@ const docxPostsDirPath = path.resolve("data");
 				.quiet()
 		).stdout.trim();
 
+		const title = post.replace(".docx", "");
+		const author = (() => {
+			const match = title.match(/(?<=\s-\s)[^-]+$/);
+
+			if (!match) return "";
+
+			return match[0];
+		})();
+
 		// TODO: enchance data with AI
 		const postMetadata = {
-			title: post.replace(".docx", ""),
+			title,
 			date: dayjs(new Date()).format("YYYY-MM-DD"),
 			excerpt: "",
-			author: "",
+			author,
 			tags: [],
 		};
 
