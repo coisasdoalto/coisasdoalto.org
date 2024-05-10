@@ -1,10 +1,12 @@
 ---
-title: 'Colossenses 1,10-18 - William Kelly'
-date: '2024-03-17'
-excerpt: ''
+title: "Colossenses 1,10-18"
+date: "2024-03-17"
+excerpt: ""
 author: William Kelly
 tags: []
+status: published
 ---
+
 Mas observe novamente que, do início ao fim, até chegarmos um pouco mais
 adiante, o Apóstolo não toca nos assuntos em que eles erraram. Em
 Colossenses 2, ele lhes diz claramente em que pecaram. É muito

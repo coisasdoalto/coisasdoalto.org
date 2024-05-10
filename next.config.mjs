@@ -5,7 +5,7 @@ const withBundleAnalyzer = bundleAnalyzer({
 });
 
 export default withBundleAnalyzer({
-	// output: 'export',
+	output: "export",
 	reactStrictMode: false,
 	eslint: {
 		ignoreDuringBuilds: true,

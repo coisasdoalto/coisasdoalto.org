@@ -1,10 +1,12 @@
 ---
-title: O Talmud - William Kelly
-date: '2024-03-17'
-excerpt: ''
+title: O Talmud
+date: "2024-03-17"
+excerpt: ""
 author: William Kelly
 tags: []
+status: published
 ---
+
 Se o redator de um artigo recente na \"Quarterly\" pretendia pegar os
 homens de surpresa, seus amigos têm motivos para felicitá-lo.
 High-churchmen prestaram homenagem; low-churchmen, e não-churchmen, até

@@ -1,10 +1,12 @@
 ---
 title: 09_GÁLATAS (TRADUÇÃO - JUDSON) COMPLETO DEFINITIVO_Marcos Tuler
-date: '2024-03-17'
-excerpt: ''
-author: ''
+date: "2024-03-17"
+excerpt: ""
+author: ""
 tags: []
+status: draft
 ---
+
 **GÁLATAS**
 
 **[F. B. Hole]{.smallcaps}**
@@ -149,7 +151,7 @@ a Sua aversão por um ato tão horrendo? Certamente pronunciando sobre
 eles a solene maldição de Deus.
 
 Note-se que esses homens não estavam contestando o evangelho. Eles o
-estavam *pervertendo*. Para cada um que renega o evangelho,
+estavam _pervertendo_. Para cada um que renega o evangelho,
 encontraremos muitos a pervertê-lo. Com habilidade, eles lhe dão aquele
 toque sutil, que deturpa por completo o seu verdadeiro caráter.
 Estejamos atentos às suas ações.
@@ -172,7 +174,7 @@ estava muito acima de qualquer opinião humana.
 Por esse motivo, nenhum pregador nos dias de hoje pode estar à altura de
 Paulo. Não nos convém adotar o seu tom de autoridade, pois todos nós
 aprendemos o evangelho por meio de homens. A Palavra de Deus não veio
-*de* nós, e sim *para* nós (veja 1 Co 14:36). Portanto, faremos bem se
+_de_ nós, e sim _para_ nós (veja 1 Co 14:36). Portanto, faremos bem se
 ouvirmos com deferência o que os nossos irmãos têm a dizer, caso se
 sintam no direito de nos questionar sobre qualquer assunto. No entanto,
 a suprema corte de apelação é, obviamente, a Palavra de Deus.
@@ -482,24 +484,24 @@ forma impulsiva, por do medo do homem.
 Nessas poucas palavras dos lábios de Paulo, o Espírito de Deus revelou a
 verdadeira interioridade da ação de Pedro, por mais inocente que tenha
 parecido à maioria. Foram apenas duas perguntas e duas afirmações, mas
-como se mostraram eficazes! Elas destruíram completamente a *postura
-equivocada* de Pedro.
+como se mostraram eficazes! Elas destruíram completamente a _postura
+equivocada_ de Pedro.
 
 No entanto, não satisfeito com isso, o Espírito de Deus levou Paulo a
-proclamar imediatamente a *verdadeira* posição. Ele havia percebido
+proclamar imediatamente a _verdadeira_ posição. Ele havia percebido
 desde o início que Pedro e seus seguidores **"não andavam bem e
 direitamente conforme a verdade do evangelho"**, de modo que agora, com
-muita clareza, mas em poucas palavras, ele declara *a verdade do
-evangelho*. No entanto, ele não o afirma como uma proposição
+muita clareza, mas em poucas palavras, ele declara _a verdade do
+evangelho_. No entanto, ele não o afirma como uma proposição
 doutrinária, mas como uma questão de experiência --- a experiência dele
 próprio. Ele agora não diz "nós", mas "eu", pronome que ocorre diversas
 vezes nos versículos 19 e 20.
 
-No livro de Atos, temos exemplos memoráveis da *pregação do evangelho*
-pelos lábios de Paulo. Em Romanos 1--8, temos a *exposição do evangelho*
-pela sua pena. Em Gálatas 1, temos a *defesa do evangelho* em suas
-características mais marcantes. Agora iremos considerar a *verdade do
-evangelho*.
+No livro de Atos, temos exemplos memoráveis da _pregação do evangelho_
+pelos lábios de Paulo. Em Romanos 1--8, temos a _exposição do evangelho_
+pela sua pena. Em Gálatas 1, temos a _defesa do evangelho_ em suas
+características mais marcantes. Agora iremos considerar a _verdade do
+evangelho_.
 
 Nos versículos finais do segundo capítulo, Paulo fala apenas por si
 mesmo. Antes disso (vv. 15-17), ele usou o pronome "nós", pois se
@@ -519,7 +521,7 @@ própria ação da Lei! É o que está declarado no versículo 19.
 
 No entanto, aqui ele estava muito vivo e confrontando Pedro
 corajosamente! Como então ele morreu para a Lei? E em que sentido era
-verdade que ele havia morrido *pela* Lei? Ambas as perguntas são
+verdade que ele havia morrido _pela_ Lei? Ambas as perguntas são
 respondidas nesta notável declaração: **"Estou crucificado com
 Cristo"**.
 
@@ -539,25 +541,25 @@ Portanto, mais uma vez, a crucificação de Cristo não foi apenas um ato
 de homens maus. Da perspectiva divina, a própria essência de tudo isso
 reside naquele ato divino pelo qual Cristo foi feito pecado por nós e
 sofreu por nós a maldição da Lei (ver Gl 3:13). Morrendo sob a maldição
-da Lei, Cristo morreu *pela* Lei, e Paulo, na condição de crucificado
+da Lei, Cristo morreu _pela_ Lei, e Paulo, na condição de crucificado
 com Cristo, podia dizer que havia morrido para a Lei e pela Lei, a fim
 de viver para Deus.
 
 A força desta grandiosa passagem talvez se torne mais clara se
 considerarmos as cinco preposições utilizadas.
 
-1\. *Para.* Indica o fim que se tem em vista. Viver para Deus é viver
+1\. _Para._ Indica o fim que se tem em vista. Viver para Deus é viver
 com Deus como o fim de sua existência.
 
-2\. *Com.* Indica identificação ou associação. Somos crucificados com
+2\. _Com._ Indica identificação ou associação. Somos crucificados com
 Cristo por causa da identificação completa que Ele efetuou em Sua morte
 por nós. Consequentemente, a morte dEle foi a nossa morte. Nós morremos
 com Ele.
 
-3\. *Em.* Aqui significa natureza. Embora crucificados, vivemos. Ainda
+3\. _Em._ Aqui significa natureza. Embora crucificados, vivemos. Ainda
 somos pessoas vivas na Terra, mas não vivemos mais a velha natureza.
 Vivemos uma vida de uma nova ordem, uma vida cuja natureza, em uma
-palavra, é *Cristo*. Saulo de Tarso foi crucificado com Cristo. No
+palavra, é _Cristo_. Saulo de Tarso foi crucificado com Cristo. No
 entanto, o indivíduo conhecido como Saulo de Tarso ainda estava vivo.
 Ainda vivo, mas em outra natureza. Ao observá-lo, não se via a natureza
 de Saulo de Tarso se expressando, mas Cristo. Foi por isso que ele não
@@ -565,10 +567,10 @@ manteve o antigo nome: logo após a conversão, tornou-se conhecido como
 Paulo, que significa "pequeno". Ele devia ser pequeno para que Cristo
 vivesse nele.
 
-4\. *Pela.* Apresenta o *Objeto* que controlava a alma de Paulo e
+4\. _Pela._ Apresenta o _Objeto_ que controlava a alma de Paulo e
 tornava possível a nova natureza. Em nossa atual condição, quando a vida
 que agora vivemos na carne --- ou seja, em nosso corpo mortal --- chegar
-ao fim, viveremos pela *visão* do Filho de Deus. Enquanto isso, vivemos
+ao fim, viveremos pela _visão_ do Filho de Deus. Enquanto isso, vivemos
 pela fé nEle. Se a fé está em atividade conosco, Ele se torna uma
 realidade viva e brilhante impressa em nossa alma. Quanto mais Ele
 estiver diante de nós objetivamente, como "o objeto brilhante e
@@ -585,7 +587,7 @@ possa vê-lo objetivamente. Isso ilustra o que queremos dizer: as pessoas
 podem ver Cristo vivendo em nós, se Ele estiver como a impressão do
 Objeto em nossa alma.
 
-5\. *Por.* Aqui consiste em uma preposição de substituição. Representa o
+5\. _Por._ Aqui consiste em uma preposição de substituição. Representa o
 poder e o móbil da maravilhosa vida de Paulo. O amor do Filho de Deus o
 constrangia, e esse amor encontrava expressão em Sua morte sacrifical e
 substitutiva.
@@ -632,7 +634,7 @@ levava à frustração ou a deixar de lado a graça de Deus. Isso implica
 que, no final das contas, a justiça viria da Lei, e leva à presunção de
 que Cristo morreu **"debalde"**. Que trágica conclusão!
 
-No entanto, é a conclusão *lógica*. E, nesse ponto, chega o momento de
+No entanto, é a conclusão _lógica_. E, nesse ponto, chega o momento de
 um apelo contundente aos gálatas. Esse apelo está registrado nos
 versículos iniciais do capítulo 3.
 
@@ -864,8 +866,8 @@ basear todo o argumento na palavra **"descendência"** --- no singular,
 não no plural. Assim, Ele indica a total inspiração de Seu
 pronunciamento anterior. Não apenas a palavra foi inspirada, mas a forma
 exata da palavra. A inspiração não foi meramente verbal, ou seja,
-relacionada com *palavras*, mas também *literal*, relacionada com as
-*letras*.
+relacionada com _palavras_, mas também _literal_, relacionada com as
+_letras_.
 
 A aceitação do argumento de Paulo, declarado nos versículos que acabamos
 de analisar, pode suscitar outra dificuldade à mente de qualquer um. Se
@@ -1026,13 +1028,13 @@ inauguração dessa nova era são descritas nos versículos de 4 a 6.
 
 Em primeiro lugar, o Filho de Deus foi enviado e **"nascido de
 mulher"**. Assim é descrita a Sua encarnação, a nossa garantia de que
-Ele era *um Homem*, no sentido pleno e próprio da palavra.
+Ele era _um Homem_, no sentido pleno e próprio da palavra.
 
 Em segundo lugar, pode-se dizer que ele estava **"debaixo da lei"**.
 Quando Ele veio, a atenção de Deus concentrou-se nos judeus, povo que
 mantinha um relacionamento exterior com Ele e tinha responsabilidades
-perante a Lei. Ele veio viver entre esse povo e *assumiu todas essas
-responsabilidades*, que eles não haviam conseguido cumprir.
+perante a Lei. Ele veio viver entre esse povo e _assumiu todas essas
+responsabilidades_, que eles não haviam conseguido cumprir.
 
 Em terceiro lugar, Ele operou a redenção a favor dos que estavam sob a
 Lei e assim os liberou de suas exigências, a fim de que pudessem viver
@@ -1109,8 +1111,8 @@ diante de Deus em conformidade com os próprios atos, que é também um
 princípio básico de toda religião falsa. Assim procediam os gálatas em
 seus dias de paganismo. E agora, ao se voltarem para o judaísmo, estavam
 retornando aos velhos princípios **"fracos e pobres"**. Que adjetivos
-expressivos! Eram *fracos* porque o homem não realiza nada que possa
-contar para o bem. Eram *pobres* porque os haviam despojado de todo
+expressivos! Eram _fracos_ porque o homem não realiza nada que possa
+contar para o bem. Eram _pobres_ porque os haviam despojado de todo
 mérito e de qualquer desculpa. E, se quisermos perceber quão fracos e
 miseráveis eram esses princípios, devemos contrastá-los com os
 princípios do evangelho e seus resultados ao nos tornar filhos e
@@ -1166,7 +1168,7 @@ esforçou-se para que, como fruto da luz do evangelho, Cristo pudesse ser
 formado neles. Só então **"as dores de parto"** por causa deles
 terminaram.
 
-Então chegaram os mestres judaizantes, e\... *voilà!* Em vez de Cristo,
+Então chegaram os mestres judaizantes, e\... _voilà!_ Em vez de Cristo,
 esses homens, com os seus sábados, as suas luas novas e a sua
 circuncisão, é que pareciam estar se formando neles. Não é de admirar
 que Paulo, em sua ardente afeição paternal pelos gálatas, se sentisse no
@@ -1182,8 +1184,7 @@ deveriam pelo menos estar preparados para ouvir o que a Lei requeria
 deles! Assim, do versículo 22 até o final do capítulo, Paulo remete-os
 ao significado alegórico de uma ocorrência na vida de Abraão.
 
-Abraão foi o grande exemplo de fé e de promessa, como vimos no capítulo
-3. No entanto, antes mesmo de receber pela fé o filho da promessa,
+Abraão foi o grande exemplo de fé e de promessa, como vimos no capítulo 3. No entanto, antes mesmo de receber pela fé o filho da promessa,
 ocorreu o episódio em que ele obteve um filho pelas obras, por meio de
 Agar. Ismael nasceu segundo a carne, enquanto Isaque nasceu por
 promessa.
@@ -1248,16 +1249,16 @@ vez enredados pela escravidão.
 Vamos refrescar a memória quanto à extensão e ao caráter da liberdade a
 que fomos conduzidos.
 
-Em primeiro lugar, fomos libertos da Lei *como o fundamento de nossa
-justificação perante Deus*. Isso já foi declarado em Gl 2:16: somos
+Em primeiro lugar, fomos libertos da Lei _como o fundamento de nossa
+justificação perante Deus_. Isso já foi declarado em Gl 2:16: somos
 **"justificados pela fé em Cristo"**.
 
-Em segundo lugar, fomos libertos da Lei *como a base de nosso
-relacionamento com Deus*. A **"adoção de filhos"** é nossa por termos
+Em segundo lugar, fomos libertos da Lei _como a base de nosso
+relacionamento com Deus_. A **"adoção de filhos"** é nossa por termos
 sido resgatados da lei. Isso é afirmado em Gl 4:5.
 
-Em terceiro lugar, somos libertos da Lei *como a regra ou o padrão de
-nossa vida*. É o que depreendemos de toda a passagem de Gl 3:23---4:7.
+Em terceiro lugar, somos libertos da Lei _como a regra ou o padrão de
+nossa vida_. É o que depreendemos de toda a passagem de Gl 3:23---4:7.
 Enquanto os filhos de Deus estavam na condição de servos, a regra de
 vida para eles era a Lei. Agora, como filhos adultos na casa do Pai,
 tendo o Espírito do Filho de Deus, adotamos uma regra ou um padrão mais
@@ -1277,9 +1278,9 @@ A frase **"da graça tendes caído"** é geralmente interpretada como cair
 das graciosas mãos de Deus, ou seja, perder a salvação. Essa frase, no
 entanto, refere-se ao que foi produzido na consciência, não ao que é
 verdadeiro diante de Deus. O versículo começa assim: **"Separados estais
-de Cristo"**. Estaria Cristo *realmente* separado de nós, aos olhos de
+de Cristo"**. Estaria Cristo _realmente_ separado de nós, aos olhos de
 Deus? Longe de nós tal pensamento --- é uma suposição impossível! Mas, e
-*na experiência e na consciência dos gálatas*? Sim. Se eles se
+_na experiência e na consciência dos gálatas_? Sim. Se eles se
 consideravam justificados pelo princípio da Lei, então Cristo, na mente
 deles, fora reprovado. Eles haviam desembarcado do princípio divino e
 relegado a graça a um nível muito inferior ao da Lei. E a diferença
@@ -1298,7 +1299,7 @@ princípio. A Lei é uma totalidade. Se for considerada nos detalhes, deve
 ser cumprida em todos eles. Isso está de acordo com o que Tiago escreve:
 **"Qualquer que guardar toda a lei, e tropeçar em um só ponto, tornou-se
 culpado de todos"** (Tg 2:10). Isso reforça a ideia de que, se a Lei for
-violada em *um* detalhe, *todos* os outros serão violados. Ambas as
+violada em _um_ detalhe, _todos_ os outros serão violados. Ambas as
 afirmações concordam entre si e mostram que a Lei não pode ser retomada
 por etapas. Ela é uma totalidade e deve ser considerada como tal. Basta
 uma pedra muito pequena ser atirada contra uma grande vidraça, e a
@@ -1441,7 +1442,7 @@ o Espírito de Deus.
 
 Esses belos traços de caráter irão proliferar no Reino de Deus, enquanto
 as flagrantes obras da carne serão excluídas. Nenhum cristão
-*verdadeiro* é caracterizado pelas obras da carne, embora, infelizmente,
+_verdadeiro_ é caracterizado pelas obras da carne, embora, infelizmente,
 ele possa incorrer em uma ou outra, da qual só irá se livrar pela
 advocacia de Cristo e ao custo de muito sofrimento para si, tanto
 espiritual quanto físico. Pertencer a Cristo significa que chegamos a um
@@ -1497,7 +1498,7 @@ está livre de cair diante da tentação, de modo que, para restaurar o
 irmão, ele deve antes cuidar bem de si mesmo.
 
 O versículo 2 é uma exortação de caráter mais geral e se aplica a todos
-nós. Devemos cumprir a lei de Cristo --- que em uma palavra é o *amor*
+nós. Devemos cumprir a lei de Cristo --- que em uma palavra é o _amor_
 --- e carregar os fardos uns dos outros. Com muita frequência, o irmão
 que cai está carregando algum fardo que desconhecemos, mas estaríamos
 ajudando a aliviá-lo, se obedecêssemos ao **"novo mandamento"** de João
@@ -1538,7 +1539,7 @@ possível, o apóstolo prefacia assim a sua advertência: **"Não erreis"**
 (ou: "Não se deixem enganar"). É muito fácil enganar a si mesmo.
 
 O princípio que Paulo estabelece é, sem dúvida, válido para qualquer
-conexão. Aqui ainda está relacionado com a questão de *dar*, e somos
+conexão. Aqui ainda está relacionado com a questão de _dar_, e somos
 confrontados com o fato de que a nossa colheita será inevitavelmente de
 acordo com a nossa semeadura. Isso se aplica também, é claro, à
 quantidade, fato declarado em 2 Coríntios 9:6. A questão aqui, porém, é
@@ -1565,7 +1566,7 @@ seja, o verdadeiro crente. Uma vez tendo o Espírito e tendo de fato a
 vida eterna, no sentido de João 5:24, colhemos essa vida como o
 resultado natural de cultivar as coisas do Espírito de Deus. Esse
 versículo põe a **"vida eterna"** diante de nós não como a vida pela
-qual vivemos, mas como *a vida* *que vivemos*. À medida que cultivamos
+qual vivemos, mas como _a vida_ _que vivemos_. À medida que cultivamos
 as coisas do Espírito, apropriamo-nos de todas essas bênçãos e as
 desfrutamos, bem como usufruímos desses relacionamentos e da comunhão
 com o Pai e o Filho, na qual a vida consiste no lado prático e
@@ -1600,8 +1601,8 @@ principalmente negativa --- não satisfazer os desejos da carne. Aqui é
 positiva --- colher a vida eterna.
 
 A colheita não vem logo depois que a semente é lançada na terra. Daí a
-necessidade de paciência, como aconselha o versículo 9. Mas *no devido
-tempo* ceifaremos, e Deus --- não nós --- é Quem decide qual a estação
+necessidade de paciência, como aconselha o versículo 9. Mas _no devido
+tempo_ ceifaremos, e Deus --- não nós --- é Quem decide qual a estação
 adequada. E ela chegará, com certeza. Gênesis 8:22 é aplicável a esse
 contexto: **"Enquanto a terra durar, sementeira e sega \[\...\] não
 cessarão"**.
@@ -1639,7 +1640,7 @@ Em contraste com isso, Paulo declara a sua posição quanto ao tema. Ele
 se gloriava não na carne, mas na cruz de nosso Senhor Jesus Cristo, que
 pôs a sentença do julgamento de Deus tanto na carne quanto no mundo. O
 apóstolo fala da cruz em sua aplicação a si mesmo com relação ao mundo.
-A crucificação não era apenas uma morte, mas *uma morte vergonhosa*. Era
+A crucificação não era apenas uma morte, mas _uma morte vergonhosa_. Era
 como se dissesse: "Na morte de Cristo, o sistema do mundo foi enforcado
 aos meus olhos, e eu fui enforcado aos olhos do mundo. Descarto o mundo
 como algo vergonhoso, e ele me descarta como algo vergonhoso também". O
@@ -1691,9 +1692,11 @@ Se a Sua graça estivesse com o espírito deles, tudo sairia bem.
 Também para nós, a conclusão de toda a questão é esta: **"Bom é que o
 coração se fortifique com graça"** (Hb 13:9).
 
-[^1]: De um hino de Charles Wesley (1707-1788). Tradução livre. (N. do
+[^1]:
+    De um hino de Charles Wesley (1707-1788). Tradução livre. (N. do
     T.)
 
-[^2]: O Grande Selo era o selo real, o cunho com o qual se selavam os
+[^2]:
+    O Grande Selo era o selo real, o cunho com o qual se selavam os
     documentos mais importantes do Estado. Ele ficava sob a guarda do
     lorde chanceler. (N. do T.)

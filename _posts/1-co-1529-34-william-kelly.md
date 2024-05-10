@@ -1,10 +1,12 @@
 ---
-title: '1 CO 15,29-34 - William Kelly'
-date: '2024-03-17'
-excerpt: ''
+title: "1 Coríntios 15,29-34"
+date: "2024-03-17"
+excerpt: ""
 author: William Kelly
 tags: []
+status: published
 ---
+
 O apóstolo retoma agora o raciocínio interrompido pelo grande parêntese
 de revelação divina nos versículos 20-28. Nele, ele havia traçado as
 consequências da ressurreição de Cristo e sua conexão com o reino até o

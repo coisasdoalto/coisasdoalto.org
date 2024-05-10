@@ -1,10 +1,12 @@
 ---
-title: Irmãos de Plymouth de Teulon 7 - William Kelly
-date: '2024-03-17'
-excerpt: ''
+title: Irmãos de Plymouth de Teulon 7
+date: "2024-03-17"
+excerpt: ""
 author: William Kelly
 tags: []
+status: published
 ---
+
 Não é correto supor (p. 142) que os separatistas antigos, e não a
 igreja, se separaram do mundo o máximo possível. Não é menos um erro que
 irmãos, mesmo os mais rigorosos, denunciem a vida secular em geral, como

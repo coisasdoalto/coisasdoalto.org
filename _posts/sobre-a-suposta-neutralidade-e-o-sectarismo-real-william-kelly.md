@@ -1,10 +1,12 @@
 ---
-title: Sobre a suposta neutralidade e o sectarismo real - William Kelly
-date: '2024-03-17'
-excerpt: ''
+title: Sobre a suposta neutralidade e o sectarismo real
+date: "2024-03-17"
+excerpt: ""
 author: William Kelly
 tags: []
+status: published
 ---
+
 ## **15 de maio de 1882.**
 
 Caro irmão em Cristo,

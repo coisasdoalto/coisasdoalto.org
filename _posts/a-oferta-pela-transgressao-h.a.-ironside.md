@@ -1,10 +1,12 @@
 ---
-title: A oferta pela transgressão - H.A. Ironside
-date: '2024-03-17'
-excerpt: ''
+title: A oferta pela transgressão
+date: "2024-03-17"
+excerpt: ""
 author: H.A. Ironside
-tags: []
+tags: ["oferta", "sacrifício"]
+status: published
 ---
+
 A oferta que vamos considerar agora apresenta o que poderíamos chamar de
 aspecto primário da obra da cruz. Ela atende ao pecador desperto como a
 resposta aos seus medos, quando, preocupado com suas transgressões,

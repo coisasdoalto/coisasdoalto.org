@@ -1,10 +1,12 @@
 ---
-title: A Serpente e a Semente da Mulher - William Kelly
-date: '2024-03-17'
-excerpt: ''
+title: A Serpente e a Semente da Mulher
+date: "2024-03-17"
+excerpt: ""
 author: William Kelly
 tags: []
+status: published
 ---
+
 ## **Gênesis 3:14-15**
 
 O SENHOR Deus interrogou o homem e a mulher; não indagou da serpente, um

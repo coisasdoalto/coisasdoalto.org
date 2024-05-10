@@ -1,10 +1,12 @@
 ---
-title: À reunião dos santos para partir o pão na rua Rawstorne - G.V. Wigram
-date: '2024-03-17'
-excerpt: ''
+title: À reunião dos santos para partir o pão na rua Rawstorne
+date: "2024-03-17"
+excerpt: ""
 author: G.V. Wigram
 tags: []
+status: published
 ---
+
 Amados irmãos,
 
 Por natureza, sendo nós mesmos os principais pecadores, a misericórdia

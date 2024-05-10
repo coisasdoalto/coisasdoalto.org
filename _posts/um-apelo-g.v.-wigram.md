@@ -1,10 +1,12 @@
 ---
-title: Um apelo - G.V. Wigram
-date: '2024-03-17'
-excerpt: ''
+title: Um apelo
+date: "2024-03-17"
+excerpt: ""
 author: G.V. Wigram
 tags: []
+status: published
 ---
+
 1.  Visto que \"a fé é o firme fundamento das coisas que se esperam, e a
     prova das coisas que não se veem\" (Hb 11:1), e está em demonstração
     do Espírito e em (divino) poder \... há, portanto, comunhão de
