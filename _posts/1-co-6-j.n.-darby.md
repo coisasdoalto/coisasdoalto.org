@@ -1,10 +1,12 @@
 ---
-title: 1 CO 6 - J.N. Darby
-date: '2024-03-17'
-excerpt: ''
+title: 1 Coríntios 6
+date: "2024-03-17"
+excerpt: ""
 author: J.N. Darby
 tags: []
+status: published
 ---
+
 ## **Erros: uma moral imutável, ordem e disciplina eclesiástica**
 
 O capítulo 6:1-11 trata do tema das injustiças. Era vergonhoso que

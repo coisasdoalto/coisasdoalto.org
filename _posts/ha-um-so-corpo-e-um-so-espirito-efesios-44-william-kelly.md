@@ -1,10 +1,12 @@
 ---
-title: 'Há um só corpo e um só espírito, Efésios 4,4 - William Kelly'
-date: '2024-03-17'
-excerpt: ''
+title: "Há um só corpo e um só espírito, Efésios 4,4"
+date: "2024-03-17"
+excerpt: ""
 author: William Kelly
 tags: []
+status: published
 ---
+
 O Senhor Jesus, tanto antes da Sua morte quanto após a Sua ressurreição,
 havia falado a Seus discípulos sobre a promessa do Pai - o outro
 Consolador que viria, dado pelo Pai e enviado pelo Filho. (João 14, 15 e

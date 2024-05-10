@@ -1,10 +1,12 @@
 ---
-title: '1 CO 2,6-10 - William Kelly'
-date: '2024-03-17'
-excerpt: ''
+title: "1 Coríntios 2,6-10"
+date: "2024-03-17"
+excerpt: ""
 author: William Kelly
 tags: []
+status: published
 ---
+
 ## **Tradução para o português:**
 
 O apóstolo continua explicando sua atitude em relação aos estabelecidos

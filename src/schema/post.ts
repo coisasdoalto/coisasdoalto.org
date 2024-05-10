@@ -6,4 +6,5 @@ export const postSchema = z.object({
 	date: z.coerce.date(),
 	excerpt: z.string().optional(),
 	tags: z.array(z.string()),
+	status: z.literal("draft").or(z.literal("published")),
 });

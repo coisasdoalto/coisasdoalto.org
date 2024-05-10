@@ -1,10 +1,12 @@
 ---
-title: '1 CO 9,15-27 - William Kelly'
-date: '2024-03-17'
-excerpt: ''
+title: "1 Coríntios 9,15-27"
+date: "2024-03-17"
+excerpt: ""
 author: William Kelly
 tags: []
+status: published
 ---
+
 O apóstolo havia afirmado o princípio de que os direitos concedidos a
 ele não eram para si mesmo, mas para os outros. Ele faz questão de que
 os coríntios entendam isso. Ele escreveu com amor para a glória do
@@ -158,20 +160,20 @@ que não é ridicularizado.
 
 **Explicação:**
 
--   A frase \"μὴ ὢν αὐτὸς ὑπὸ νόμον\" significa \"não estando eu mesmo
-    sob a lei\".
+- A frase \"μὴ ὢν αὐτὸς ὑπὸ νόμον\" significa \"não estando eu mesmo
+  sob a lei\".
 
--   A frase está presente nos manuscritos A B C D E F G P, que são
-    considerados alguns dos mais confiáveis ​​manuscritos do Novo
-    Testamento.
+- A frase está presente nos manuscritos A B C D E F G P, que são
+  considerados alguns dos mais confiáveis ​​manuscritos do Novo
+  Testamento.
 
--   A frase também está presente em muitos cursivos (manuscritos
-    escritos à mão) e versões antigas (traduções do Novo Testamento para
-    outras línguas).
+- A frase também está presente em muitos cursivos (manuscritos
+  escritos à mão) e versões antigas (traduções do Novo Testamento para
+  outras línguas).
 
--   No entanto, a frase está omitida nos manuscritos Dcor Κ e na maioria
-    dos cursivos, assim como em T. Reo. (uma edição crítica do Novo
-    Testamento).
+- No entanto, a frase está omitida nos manuscritos Dcor Κ e na maioria
+  dos cursivos, assim como em T. Reo. (uma edição crítica do Novo
+  Testamento).
 
 **Conclusão:**
 

@@ -5,6 +5,7 @@ date: 2024-03-11
 tags:
   - Ceia do Senhor
   - Partir do pão
+status: published
 ---
 
 A Ceia do Senhor deve ser tomada como um memorial ou lembrança de Cristo.

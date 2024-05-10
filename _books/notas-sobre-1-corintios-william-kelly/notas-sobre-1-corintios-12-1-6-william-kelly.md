@@ -1,10 +1,14 @@
 ---
-title: '1 CO 12,1-6'
-date: '2024-03-17'
-excerpt: ''
-author: ''
+title: "Notas sobre 1 Coríntios 12:1-6"
+date: "2024-03-17"
+excerpt: ""
+author: "William Kelly"
+book: "Notas sobre 1 Coríntios 12:1-6"
+originalLink: "https://bibletruthpublishers.com/notes-on-1-corinthians-12-1-6/william-kelly-wk/w-kelly/la143260"
 tags: []
+passages: ["1 Corinthians 12:1-6"]
 ---
+
 É importante notar que este texto não é apenas uma tradução simples, mas
 requer uma compreensão do contexto bíblico e eclesiástico para ser
 interpretado corretamente. Aqui está uma tentativa de traduzi-lo para o
@@ -230,16 +234,16 @@ nominativo.
 
 **Observações:**
 
--   Os símbolos usados representam diferentes manuscritos:
+- Os símbolos usados representam diferentes manuscritos:
 
-    -   F G Κ = Manuscritos gregos
+  - F G Κ = Manuscritos gregos
 
-    -   Pesch. Syr., Cop. = Traduções antigas
+  - Pesch. Syr., Cop. = Traduções antigas
 
-    -   à A Β C Dgr Egr L P = Outros manuscritos gregos
+  - à A Β C Dgr Egr L P = Outros manuscritos gregos
 
--   O Texto Recebido (Text. Rec.) é uma compilação de manuscritos
-    antigos usada anteriormente como referência.
+- O Texto Recebido (Text. Rec.) é uma compilação de manuscritos
+  antigos usada anteriormente como referência.
 
--   As diferenças mencionadas são pequenas variações gramaticais (caso,
-    adição de palavra).
+- As diferenças mencionadas são pequenas variações gramaticais (caso,
+  adição de palavra).

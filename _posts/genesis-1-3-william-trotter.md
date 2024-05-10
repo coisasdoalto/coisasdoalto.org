@@ -1,10 +1,12 @@
 ---
-title: Gênesis 1-3- William Trotter
-date: '2024-03-17'
-excerpt: ''
-author: ''
+title: Gênesis 1-3
+date: "2024-03-17"
+excerpt: ""
+author: "William Trotter"
 tags: []
+status: published
 ---
+
 ## **Gênesis 1:1-3: A Criação e a Revelação de Deus**
 
 **1. A Afirmação Estupenda da Criação:**
@@ -13,39 +15,39 @@ O versículo inicial de Gênesis, \"No princípio, criou Deus\", registra
 um fato extraordinário. Ele é referenciado em outros lugares da Bíblia
 como:
 
--   **Prova da propriedade de Deus sobre todas as coisas** (Salmo
-    89:11-12).
+- **Prova da propriedade de Deus sobre todas as coisas** (Salmo
+  89:11-12).
 
--   **Prova do Seu poder** (Isaías 40:26).
+- **Prova do Seu poder** (Isaías 40:26).
 
--   **Prova do poder e divindade** (Romanos 1:20).
+- **Prova do poder e divindade** (Romanos 1:20).
 
--   **Base para o louvor** (Salmo 148:5).
+- **Base para o louvor** (Salmo 148:5).
 
--   **Objetivo da Sua glória** (Isaías 43:7).
+- **Objetivo da Sua glória** (Isaías 43:7).
 
--   **Motivação do Seu prazer** (Apocalipse 4:11).
+- **Motivação do Seu prazer** (Apocalipse 4:11).
 
--   **Evidência da Sua soberania absoluta** (Isaías 45:9-12).
+- **Evidência da Sua soberania absoluta** (Isaías 45:9-12).
 
--   **Propósito de ser habitada, não em vão, com cumprimento em tempos
-    milenares.**
+- **Propósito de ser habitada, não em vão, com cumprimento em tempos
+  milenares.**
 
--   **Glória de Deus na igreja por Cristo Jesus** (Efésios 3:9-10).
+- **Glória de Deus na igreja por Cristo Jesus** (Efésios 3:9-10).
 
--   **Um Deus é o Criador, mas todas as pessoas da Divindade são
-    reconhecidas:**
+- **Um Deus é o Criador, mas todas as pessoas da Divindade são
+  reconhecidas:**
 
-    -   Deus Pai em todas as passagens acima.
+  - Deus Pai em todas as passagens acima.
 
-    -   Por Jesus Cristo (Efésios 3:9; Colossenses 1:16; Hebreus 1:2;
-        João 1:5, 10).
+  - Por Jesus Cristo (Efésios 3:9; Colossenses 1:16; Hebreus 1:2;
+    João 1:5, 10).
 
-    -   Pelo Espírito (versículo 2).
+  - Pelo Espírito (versículo 2).
 
--   **Chamado para nos lembrarmos do nosso Criador** (Eclesiastes 12:1),
-    adorá-lo e servi-lo supremamente (Romanos 1:25; Apocalipse 4:11), e
-    receber Seus dons com gratidão (1 Timóteo 4:3).
+- **Chamado para nos lembrarmos do nosso Criador** (Eclesiastes 12:1),
+  adorá-lo e servi-lo supremamente (Romanos 1:25; Apocalipse 4:11), e
+  receber Seus dons com gratidão (1 Timóteo 4:3).
 
 **2. Por que o Início de Gênesis é Tão Singular?**
 
@@ -171,7 +173,7 @@ suscetível de conhecer Aquele que o formou e constituiu assim, e de
 encontrar Nele o objeto do exercício adequado de todas essas faculdades
 maravilhosas.
 
-## 
+##
 
 Com que perfeita bondade Deus providenciou uma residência para o homem,
 antes mesmo de o próprio homem ser criado para apreciá-la! Como tudo ao
@@ -417,7 +419,7 @@ jardim. Aqui, vários pontos se sugerem:
     despertada ao ouvir a voz do SENHOR Deus, não os leva a Deus, mas
     para longe Dele.
 
-##  **Versículo 9: O Questionamento e a Resposta**
+## **Versículo 9: O Questionamento e a Resposta**
 
 Que pergunta difícil para Adão responder! Como ela sugeria que ele não
 estava onde costumava estar! Por que a diferença? Por que não encontrar,

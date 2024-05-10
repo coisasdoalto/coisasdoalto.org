@@ -1,10 +1,12 @@
 ---
 title: J.G. Bellett
-date: '2024-03-17'
-excerpt: ''
-author: ''
+date: "2024-03-17"
+excerpt: ""
+author: ""
 tags: []
+status: published
 ---
+
 Antes que Deus julgasse o Egito e separasse o Seu povo dele, este
 deveria ter o testemunho da Sua bênção através de José e ter a
 oportunidade de aceitar ou rejeitar a Sua bondade, pois é a bênção

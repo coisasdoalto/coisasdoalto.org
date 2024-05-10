@@ -1,10 +1,12 @@
 ---
-title: 'Colossenses 1,1-9 - William Kelly'
-date: '2024-03-17'
-excerpt: ''
+title: "Colossenses 1,1-9"
+date: "2024-03-17"
+excerpt: ""
 author: William Kelly
 tags: []
+status: published
 ---
+
 ## **Colossenses 1:1-29**
 
 \(1\) Paulo, apóstolo de Jesus Cristo pela vontade de Deus, e Timóteo, o

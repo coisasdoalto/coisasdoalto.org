@@ -1,10 +1,12 @@
 ---
-title: Principios divinos de unidade - William Kelly
-date: '2024-03-17'
-excerpt: ''
+title: Principios divinos de unidade
+date: "2024-03-17"
+excerpt: ""
 author: William Kelly
 tags: []
+status: published
 ---
+
 Caro irmão,
 
 Recebi com gentileza sua carta e a li com atenção, considerando-a não
@@ -292,8 +294,7 @@ qualquer membro, acima de tudo um clérigo, pode legitimamente discordar
 de qualquer parte do Livro de Oração, não importa o quão alto ele possa
 clamar a Palavra de Deus por uma visão contrária. É dado como certo no
 Artigo que a doutrina e o regime do Estabelecimento concordam com, e
-podem ser provados por, as Escrituras, como é evidente nos Artigos 20 e
-21. Mas então esta é a questão. E de que adianta a afirmação do cristão
+podem ser provados por, as Escrituras, como é evidente nos Artigos 20 e 21. Mas então esta é a questão. E de que adianta a afirmação do cristão
 da Palavra como a única autoridade, se ele chega à conclusão de que
 muito nos Artigos e Serviços está sem e contra as Escrituras? Tal
 pessoa, se quiser andar na retidão diante de Deus e do homem, deve

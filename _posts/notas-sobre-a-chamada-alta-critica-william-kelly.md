@@ -1,10 +1,12 @@
 ---
-title: Notas sobre a chamada alta crítica - William Kelly
-date: '2024-03-17'
-excerpt: ''
+title: Notas sobre a chamada alta crítica
+date: "2024-03-17"
+excerpt: ""
 author: William Kelly
 tags: []
+status: published
 ---
+
 O Dr. Kirkpatrick abre o primeiro desses artigos com palavras que soam
 bem: "O objetivo do estudante cristão é a verdade; e o objetivo do
 professor cristão é aplicar essa verdade ao caráter e à vida humana. O

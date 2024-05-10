@@ -23,11 +23,22 @@ export function getPostBySlug(slug: string): Post {
 	return { ...parsedContent, content, slug: realSlug };
 }
 
-export function getAllPosts(): Post[] {
+export function getAllPosts(options?: {
+	status?: "draft" | "published" | "all";
+}): Post[] {
+	const { status = "all" } = options || {};
+
 	const slugs = getPostSlugs();
-	const posts = slugs
-		.map((slug) => getPostBySlug(slug))
-		// sort posts by date in descending order
-		.sort((post1, post2) => (post1.date > post2.date ? -1 : 1));
-	return posts;
+
+	const posts = slugs.map((slug) => getPostBySlug(slug));
+
+	const filteredPosts =
+		status === "all" ? posts : posts.filter((item) => item.status === status);
+
+	// sort posts by date in descending order
+	const sortedPosts = filteredPosts.sort((post1, post2) =>
+		post1.date > post2.date ? -1 : 1,
+	);
+
+	return sortedPosts;
 }

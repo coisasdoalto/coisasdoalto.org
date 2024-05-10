@@ -1,10 +1,12 @@
 ---
-title: Nosso lugar na terra - E.B. Dennett
-date: '2024-03-17'
-excerpt: ''
+title: Nosso lugar na terra
+date: "2024-03-17"
+excerpt: ""
 author: E.B. Dennett
 tags: []
+status: published
 ---
+
 Meu caro(a) ---:
 
 Na minha última carta, tentei mostrar-lhe o nosso lugar como crentes

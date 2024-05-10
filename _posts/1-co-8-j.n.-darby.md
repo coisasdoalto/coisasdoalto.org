@@ -1,10 +1,12 @@
 ---
-title: 1 CO 8 - J.N. Darby
-date: '2024-03-17'
-excerpt: ''
+title: 1 Coríntios 8
+date: "2024-03-17"
+excerpt: ""
 author: J.N. Darby
 tags: []
+status: published
 ---
+
 ## **Carne oferecida a ídolos e o valor do verdadeiro conhecimento cristão**
 
 Após isso, o apóstolo responde à questão sobre as carnes oferecidas a

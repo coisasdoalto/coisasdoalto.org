@@ -1,10 +1,12 @@
 ---
-title: Carta 2 - G.V. Wigram
-date: '2024-03-17'
-excerpt: ''
+title: Carta 2
+date: "2024-03-17"
+excerpt: ""
 author: G.V. Wigram
 tags: []
+status: published
 ---
+
 Um Cristão tem o Espírito (assim como fé e moralidade) e uma companhia
 própria a ele. - O mal de Betesda.
 

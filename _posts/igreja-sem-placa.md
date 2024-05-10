@@ -7,6 +7,7 @@ tags:
   - Igreja
   - denominação
   - reunião
+status: published
 ---
 
 _Um mover do Espírito Santo nestes últimos quase 200 anos tem formado grupos de cristãos por todo o mundo que congregam unicamente no Nome do Senhor Jesus Cristo. Ele é o Centro divino de reunião, segundo Mateus 18:20._
