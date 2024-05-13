@@ -26,13 +26,13 @@ export function LastArticlesItem({
 					{author}
 				</Anchor>
 
-				<Text className={classes.subInfo} span>
+				{/* <Text className={classes.subInfo} span>
 					série:
 				</Text>
 
 				<Anchor href="#" component={Link}>
 					Notas sobre 1 Coríntios
-				</Anchor>
+				</Anchor> */}
 			</Text>
 		</Box>
 	);
