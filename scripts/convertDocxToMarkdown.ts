@@ -6,11 +6,28 @@ import path from "node:path";
 import dayjs from "dayjs";
 import matter from "gray-matter";
 import slugify from "slugify";
+import yargs from "yargs/yargs";
+import type { z } from "zod";
+
+import type { postSchema } from "~/schema/post";
+
+type Post = z.infer<typeof postSchema>;
 
 const markdownPostsDirPath = path.resolve("_posts");
 const docxPostsDirPath = path.resolve("data");
 
 (async () => {
+	const argv = await yargs(process.argv.slice(2))
+		.options({
+			status: {
+				choices: ["draft", "published"] as Post["status"][],
+				default: "published" as const,
+			},
+		})
+		.parse();
+
+	console.log("Converting files with status:", chalk.blue(argv.status));
+
 	const docxPosts = await fs.readdir(docxPostsDirPath);
 
 	for (const post of docxPosts) {
@@ -32,12 +49,13 @@ const docxPostsDirPath = path.resolve("data");
 		})();
 
 		// TODO: enchance data with AI
-		const postMetadata = {
+		const postMetadata: Post = {
 			title,
 			date: dayjs(new Date()).format("YYYY-MM-DD"),
 			excerpt: "",
 			author,
 			tags: [],
+			status: argv.status,
 		};
 
 		const postWithMetadata = matter.stringify(postContent, postMetadata);
