@@ -2,6 +2,8 @@
 
 import type { PropsWithChildren } from "react";
 
+import Link from "next/link";
+
 import {
 	Breadcrumbs,
 	Burger,
@@ -12,11 +14,9 @@ import {
 	useMantineColorScheme,
 	useMantineTheme,
 } from "@mantine/core";
-import Link from "next/link";
-
 import { useDisclosure } from "@mantine/hooks";
+
 import { DarkModeToggle } from "./DarkModeToggle";
-import { VerticalNavigation } from "./VerticalNavigation";
 
 export default function AppShell({ children }: PropsWithChildren) {
 	const theme = useMantineTheme();
@@ -68,9 +68,9 @@ export default function AppShell({ children }: PropsWithChildren) {
 				</Flex>
 			</MantineAppShell.Header>
 
-			<MantineAppShell.Navbar p="md">
+			{/* <MantineAppShell.Navbar p="md">
 				<VerticalNavigation onNavigation={close} />
-			</MantineAppShell.Navbar>
+			</MantineAppShell.Navbar> */}
 
 			<MantineAppShell.Main>
 				<Container pt="md">{children}</Container>

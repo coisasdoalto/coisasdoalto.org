@@ -1,13 +1,4 @@
-import {
-	Center,
-	Divider,
-	Grid,
-	GridCol,
-	Group,
-	Stack,
-	Title,
-} from "@mantine/core";
-import { ContentCard } from "~/components/ContentCard/ContentCard";
+import { Center, Stack, Title } from "@mantine/core";
 import { LastArticlesItem } from "~/components/LastArticlesItem/LastArticlesItem";
 
 import { getAllPosts } from "~/lib/api";
@@ -15,20 +6,20 @@ import { getAllPosts } from "~/lib/api";
 export default function HomePage() {
 	const allPosts = getAllPosts({ status: "published" });
 
-	const tags = Array.from(
-		new Set(
-			allPosts
-				.map((item) => item.tags)
-				.reduce((tags, item) => tags.concat(item), []),
-		),
-	);
+	// const tags = Array.from(
+	// 	new Set(
+	// 		allPosts
+	// 			.map((item) => item.tags)
+	// 			.reduce((tags, item) => tags.concat(item), []),
+	// 	),
+	// );
 
 	return (
 		<>
 			<Title ta="center">Coisas do Alto</Title>
 			<Center mt="lg">
 				<Stack>
-					<Group grow w="100%">
+					{/* <Group grow w="100%">
 						<ContentCard>Livros</ContentCard>
 						<ContentCard>Artigos</ContentCard>
 						<ContentCard>Séries</ContentCard>
@@ -47,8 +38,7 @@ export default function HomePage() {
 							);
 						})}
 					</Grid>
-
-					<Divider my="xl" />
+-					<Divider my="xl" />*/}
 
 					<Title order={2}>Últimos conteúdos adicionados</Title>
 
