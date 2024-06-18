@@ -16,6 +16,7 @@ import {
 } from "@mantine/core";
 import { useDisclosure } from "@mantine/hooks";
 
+import { BackToTopButton } from "../BackToTopButton";
 import { DarkModeToggle } from "./DarkModeToggle";
 
 export default function AppShell({ children }: PropsWithChildren) {
@@ -74,6 +75,7 @@ export default function AppShell({ children }: PropsWithChildren) {
 
 			<MantineAppShell.Main>
 				<Container pt="md">{children}</Container>
+				<BackToTopButton />
 			</MantineAppShell.Main>
 		</MantineAppShell>
 	);
