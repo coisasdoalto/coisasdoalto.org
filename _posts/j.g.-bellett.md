@@ -11,11 +11,11 @@ Antes que Deus julgasse o Egito e separasse o Seu povo dele, este
 deveria ter o testemunho da Sua bênção através de José e ter a
 oportunidade de aceitar ou rejeitar a Sua bondade, pois é a bênção
 desprezada ou negligenciada que amadurece o pecado. Como o Senhor Jesus
-diz sobre o Seu testemunho de Deus no mundo: \"Se eu entre eles não
+diz sobre o Seu testemunho de Deus no mundo: "Se eu entre eles não
 tivesse feito as obras que nenhum outro jamais fez, pecado não teriam;
-mas agora, não somente viram, mas também odiaram a mim e a meu Pai\".
+mas agora, não somente viram, mas também odiaram a mim e a meu Pai".
 (João 15:24) Ou seja, eles desprezaram as riquezas do amor e da bondade.
-No Egito, levantou-se outro rei \"que não conhecia a José\". O Egito
+No Egito, levantou-se outro rei "que não conhecia a José". O Egito
 havia se esquecido da bondade de Deus para com eles por meio de José.
 Assim, o seu pecado estava cheio, e estavam maduros para o julgamento.
 Portanto, sem o ministério anterior de José, a plenitude do seu pecado
@@ -43,8 +43,8 @@ ao Senhor.
 E assim foi posteriormente. Havia uma cerca ao redor de toda a Terra
 Santa, um muro de separação que separava Israel em Canaã das nações.
 Nenhum estrangeiro podia comer a Páscoa; nenhum incircunciso podia
-celebrar a festa do Senhor. E assim ainda é. Devemos adorar \"em
-espírito e em verdade\". Ninguém pode invocar a Deus corretamente, a não
+celebrar a festa do Senhor. E assim ainda é. Devemos adorar "em
+espírito e em verdade". Ninguém pode invocar a Deus corretamente, a não
 ser pelo Espírito que dá a adoção, nem chamar Jesus Senhor, a não ser
 pelo Espírito Santo. Ainda é no princípio da separação que Deus deve ser
 servido ou adorado, tanto quanto quando Israel teve que ir para o
@@ -53,11 +53,11 @@ todas as nações pela circuncisão para fazer isso.
 
 O Lugar Separado: O Santuário de Deus A parede de separação agora é
 diferente, é verdade; o lugar fora da terra não é um mero deserto, é
-verdade. Mas o lugar de serviço é tão distinto como sempre foi. \"É
-necessário que nasçais de novo\". \"Esta é a obra de Deus: que creiais
-naquele que ele enviou\". \"Chegando-vos a ele, como a uma pedra
-viva\... também vós, como pedras vivas, sois edificados casa espiritual
-e sacerdócio santo\". Aqui está o deserto, o lugar separado, o santuário
+verdade. Mas o lugar de serviço é tão distinto como sempre foi. "É
+necessário que nasçais de novo". "Esta é a obra de Deus: que creiais
+naquele que ele enviou". "Chegando-vos a ele, como a uma pedra
+viva... também vós, como pedras vivas, sois edificados casa espiritual
+e sacerdócio santo". Aqui está o deserto, o lugar separado, o santuário
 de Deus, dentro da parede de separação. O Espírito Santo o levanta
 agora. A união com Cristo o forma, e dentro desse lugar as abominações
 do mundo são sacrificadas agora, como as abominações do Egito foram
@@ -65,7 +65,7 @@ sacrificadas no deserto antigamente. A concupiscência da carne, a
 concupiscência dos olhos e a soberba da vida devem ser crucificadas ali,
 embora todas elas sejam do mundo.
 
-## E qual foi a festa completa que Israel celebrou ao Senhor quando chegou ao deserto? Na verdade, ela lhes foi fornecida pela própria Egito. Assim que chegaram às margens do Mar Vermelho, começaram a celebrar a sua festa. Não esperaram para chegar à montanha (Êxodo 3:12). É bem verdade que depois serviram, ou ofereceram sacrifícios a Deus, sob aquela montanha (Êxodo 19:40; Levítico 19). deu um cântico antes que alcançassem o lugar designado. O Egito teve a audácia de resistir até o ponto de segui-los até as próprias mandíbulas do Mar Vermelho. Sua inimizade estava completa, mas tudo isso terminou dando a Israel um cântico de triunfo sobre o Egito (Êxodo 15). Antes de chegarem ao lugar para o qual foram chamados, essa alegria lhes pertencia. E assim conosco, amados. Satanás exerceu sua vontade, mas Jesus, pela morte e ressurreição, o derrubou. Se Satanás não tivesse trazido suas carruagens e seus cavalos, toda a força e poder de seu reino, para a colina do Calvário, o cântico que a ressurreição coloca em nossas bocas não seria nosso. Mas é nosso agora, e ele nunca o poderá silenciar. Ele mesmo o ergueu, e nunca o poderá silenciar, e nós também carregamos o seu eco em nossos corações por todo o lugar, até chegarmos ao monte do Senhor. Nesse sentido, o Egito deu a Israel aquela canção; nesse sentido, o deus deste mundo dá aos nossos corações esta canção, pois o próprio comedor fornece a carne - o próprio forte, a doçura.
+E qual foi a festa completa que Israel celebrou ao Senhor quando chegou ao deserto? Na verdade, ela lhes foi fornecida pela própria Egito. Assim que chegaram às margens do Mar Vermelho, começaram a celebrar a sua festa. Não esperaram para chegar à montanha (Êxodo 3:12). É bem verdade que depois serviram, ou ofereceram sacrifícios a Deus, sob aquela montanha (Êxodo 19:40; Levítico 19). deu um cântico antes que alcançassem o lugar designado. O Egito teve a audácia de resistir até o ponto de segui-los até as próprias mandíbulas do Mar Vermelho. Sua inimizade estava completa, mas tudo isso terminou dando a Israel um cântico de triunfo sobre o Egito (Êxodo 15). Antes de chegarem ao lugar para o qual foram chamados, essa alegria lhes pertencia. E assim conosco, amados. Satanás exerceu sua vontade, mas Jesus, pela morte e ressurreição, o derrubou. Se Satanás não tivesse trazido suas carruagens e seus cavalos, toda a força e poder de seu reino, para a colina do Calvário, o cântico que a ressurreição coloca em nossas bocas não seria nosso. Mas é nosso agora, e ele nunca o poderá silenciar. Ele mesmo o ergueu, e nunca o poderá silenciar, e nós também carregamos o seu eco em nossos corações por todo o lugar, até chegarmos ao monte do Senhor. Nesse sentido, o Egito deu a Israel aquela canção; nesse sentido, o deus deste mundo dá aos nossos corações esta canção, pois o próprio comedor fornece a carne - o próprio forte, a doçura.
 
 O que nos separa do mundo de forma viva e prática, dia após dia, é a
 comunhão com Jesus. A fé, o Espírito ou a nova natureza, é o primeiro
