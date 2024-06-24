@@ -5,6 +5,7 @@ excerpt: ""
 author: ""
 tags: []
 status: published
+revised: true
 ---
 
 Antes que Deus julgasse o Egito e separasse o Seu povo dele, este
