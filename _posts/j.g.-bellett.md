@@ -1,11 +1,15 @@
 ---
-title: J.G. Bellett
+title: "Separação"
 date: "2024-03-17"
 excerpt: ""
-author: ""
+author: "J.G. Bellett"
 tags: []
 status: published
-revised: true
+revised: false
+originalLink: "https://bibletruthpublishers.com/separation/john-gifford-bellett-jgb-january-2008/the-christian/la140294"
+originalLabel1: "Bible Truth Publishers"
+originalLabel2: "J. G. Bellett, Christian Truth, 6:159"
+
 ---
 
 Antes que Deus julgasse o Egito e separasse o Seu povo dele, este
@@ -23,7 +27,9 @@ Portanto, sem o ministério anterior de José, a plenitude do seu pecado
 não poderia ter vindo, assim como agora o mundo está convencido do
 pecado porque não creu em Jesus. Isso torna o Egito um exemplo do mundo.
 
-O Êxodo da Separação O êxodo é a separação do povo de Deus do mundo.
+## O Êxodo da Separação
+
+O êxodo é a separação do povo de Deus do mundo.
 Israel deveria sair do Egito para servir ou celebrar uma festa ao Senhor
 (Êxodo 5:1; 3:18; 8:1,20; 9:1,13; 10:3,9), pois não podiam servi-Lo ou
 Lhe oferecer sacrifícios na terra da sua escravidão e diante daquele
@@ -52,7 +58,9 @@ servido ou adorado, tanto quanto quando Israel teve que ir para o
 deserto, saindo do Egito, para fazer isso, ou para se distinguir de
 todas as nações pela circuncisão para fazer isso.
 
-O Lugar Separado: O Santuário de Deus A parede de separação agora é
+## O Lugar Separado: O Santuário de Deus
+
+A parede de separação agora é
 diferente, é verdade; o lugar fora da terra não é um mero deserto, é
 verdade. Mas o lugar de serviço é tão distinto como sempre foi. "É
 necessário que nasçais de novo". "Esta é a obra de Deus: que creiais
@@ -74,5 +82,3 @@ grande êxodo - nossa primeira entrada no deserto, saindo do Egito, para
 celebrar a nossa festa ao Senhor - nosso ato de separação do mundo, mas
 o lugar de separação só pode ser mantido diariamente pela comunhão com
 Jesus, por meio do mesmo Espírito que primeiro nos atraiu.
-
-J.G. Bellett
