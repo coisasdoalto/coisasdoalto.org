@@ -5,12 +5,15 @@ date: 2024-03-11
 tags:
   - Ceia do Senhor
   - Partir do pão
-status: published
+status: draft
+translatedFrom: https://bibletruthpublishers.com/thoughts-connected-with-the-lord-apos/john-gifford-bellett-jgb/joy-and-praise/j-g-bellett/la57301
 ---
 
-A Ceia do Senhor deve ser tomada como um memorial ou lembrança de Cristo.
+A Ceia do Senhor deve ser tomada como um memorial ou lembrança de Cristo. Esta é a Sua própria interpretação. O pão era misticamente Seu corpo, o cálice Seu sangue, realizando a remissão dos pecados.
 
-Esta é a Sua própria interpretação. O pão era misticamente Seu corpo, o cálice Seu sangue, realizando a remissão dos pecados. Comer e beber desta festa era participar das virtudes do Seu sacrifício, ou expressar tal participação (1 Coríntios 10:18); e, portanto, era comido em lembrança de Cristo, em sinal da comunhão da alma com o que o Seu sacrifício realizara pelos pecadores. Portanto, deveria ser comido simplesmente com ações de graças. A lembrança do que o sacrifício de Cristo realizou deveria ser acompanhada apenas disso. Nenhuma súplica seria necessária, porque é uma obra acabada, uma remissão completa que a mesa registra.
+Comer e beber desta festa era participar das virtudes do Seu sacrifício, ou expressar tal participação (1 Coríntios 10:18); e, portanto, era comido em lembrança de Cristo, em sinal da comunhão da alma com o que o Seu sacrifício realizara pelos pecadores. Portanto, deveria ser comido simplesmente com ações de graças.
+
+A lembrança do que o sacrifício de Cristo realizou deveria ser acompanhada apenas disso. Nenhuma súplica seria necessária, porque é uma obra acabada, uma remissão completa que a mesa registra.
 
 Orar pelo perdão dos pecados discordaria da voz da mesa. Poderia ser totalmente involuntário, mas na verdade uma reprovação ao sacrifício do Cordeiro de Deus. Seria reconstruir as coisas que Cristo destruiu e, na linguagem e no sentido de Gálatas 2, torná-Lo ministro do pecado, tornando o Seu sangue como o sangue de bois e bodes, apenas a lembrança e não a remissão dos pecados.
 
