@@ -6,10 +6,7 @@ author: "J.G. Bellett"
 tags: []
 status: published
 revised: false
-originalLink: "https://bibletruthpublishers.com/separation/john-gifford-bellett-jgb-january-2008/the-christian/la140294"
-originalLabel1: "Bible Truth Publishers"
-originalLabel2: "J. G. Bellett, Christian Truth, 6:159"
-
+translatedFrom: "https://bibletruthpublishers.com/separation/john-gifford-bellett-jgb-january-2008/the-christian/la140294"
 ---
 
 Antes que Deus julgasse o Egito e separasse o Seu povo dele, este

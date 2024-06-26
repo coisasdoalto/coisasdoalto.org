@@ -1,4 +1,4 @@
-import { Anchor, Breadcrumbs } from "@mantine/core";
+import { Anchor, Box, Breadcrumbs, Divider, Text, Title } from "@mantine/core";
 import markdownToHtml from "~/lib/markdownToHtml";
 import type { Post as PostType } from "~/types/post";
 
@@ -20,11 +20,24 @@ export async function Post({ post }: PostProps) {
 					<Anchor underline="never">{post.title}</Anchor>
 				</Breadcrumbs>
 
-				<header>
-					<h1>{post.title}</h1>
-					<h2>Autor: {post.author}</h2>
+				<Box component="header" mt="md">
+					<Title order={1}>{post.title}</Title>
+					<Text my={2}>Autor: {post.author}</Text>
+					<Text
+						my={2}
+						style={{
+							textOverflow: "ellipsis",
+							overflow: "hidden",
+							whiteSpace: "nowrap",
+						}}
+					>
+						Traduzido de:{" "}
+						<Anchor href={post.translatedFrom} target="_blank">
+							{post.translatedFrom}
+						</Anchor>
+					</Text>
 
-					<hr />
+					<Divider my="md" />
 
 					{/* <div>
             {post.tags.map((tag) => (
@@ -33,7 +46,7 @@ export async function Post({ post }: PostProps) {
               </span>
             ))}
           </div> */}
-				</header>
+				</Box>
 
 				<article
 					// biome-ignore lint/security/noDangerouslySetInnerHtml: We need it to render post

@@ -4,7 +4,7 @@ date: "2024-03-17"
 excerpt: ""
 author: "William Kelly"
 book: "Notas sobre 1 Coríntios 12:1-6"
-originalLink: "https://bibletruthpublishers.com/notes-on-1-corinthians-12-1-6/william-kelly-wk/w-kelly/la143260"
+translatedFrom: "https://bibletruthpublishers.com/notes-on-1-corinthians-12-1-6/william-kelly-wk/w-kelly/la143260"
 tags: []
 passages: ["1 Corinthians 12:1-6"]
 ---

@@ -7,4 +7,5 @@ export const postSchema = z.object({
 	excerpt: z.string().optional(),
 	tags: z.array(z.string()),
 	status: z.union([z.literal("draft"), z.literal("published")]),
+	translatedFrom: z.string().optional(),
 });

@@ -5,9 +5,11 @@ excerpt: ""
 author: William Kelly
 tags: []
 status: published
+translatedFrom: "https://bibletruthpublishers.com/on-alleged-neutrality-and-real-sectarianism/william-kelly-wk/bible-treasury-volume-14/la68388"
+revised: true
 ---
 
-## **15 de maio de 1882.**
+15 de maio de 1882.
 
 Caro irmão em Cristo,
 
@@ -59,7 +61,7 @@ isso não foi mais permitido - eles eram totalmente recusados se não
 rompessem com o Sr. N. E foi isso que deu origem à culpada neutralidade
 de Betesda, que recebeu aqueles que não traziam a doutrina de Cristo,
 tornando-se assim participante de suas más ações. Portanto, chamar a
-nossa posição e a sua de \"bodesquismo\" é falta de conhecimento e
+nossa posição e a sua de \"Betesdaísmo\" é falta de conhecimento e
 retidão, de verdade e caridade.
 
 Abominamos toda neutralidade em relação a Cristo e reconhecemos a nossa
