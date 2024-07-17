@@ -1,39 +1,24 @@
-import { ActionIcon } from "@mantine/core";
-import { IconChevronUp } from "@tabler/icons-react";
+import { Affix, Button, Transition } from "@mantine/core";
+import { IconArrowUp } from "@tabler/icons-react";
 
-import { useEffect, useState } from "react";
-import classes from "./styles.module.css";
+import { useWindowScroll } from "@mantine/hooks";
 
 export function BackToTopButton() {
-	const [isVisible, setIsVisible] = useState(false);
-
-	const handleClick = () => window.scrollTo({ top: 0, behavior: "smooth" });
-
-	useEffect(() => {
-		const handleScroll = () => {
-			if (window.scrollY > window.innerHeight / 2) {
-				setIsVisible(true);
-				return;
-			}
-
-			setIsVisible(false);
-		};
-
-		window.addEventListener("scroll", handleScroll);
-
-		return () => {
-			window.removeEventListener("scroll", handleScroll);
-		};
-	}, []);
+	const [scroll, scrollTo] = useWindowScroll();
 
 	return (
-		<ActionIcon
-			className={classes.button}
-			onClick={handleClick}
-			data-visible={isVisible}
-			size="xl"
-		>
-			<IconChevronUp />
-		</ActionIcon>
+		<Affix position={{ bottom: 20, right: 20 }}>
+			<Transition transition="slide-up" mounted={scroll.y > 0}>
+				{(transitionStyles) => (
+					<Button
+						leftSection={<IconArrowUp size={16} />}
+						style={transitionStyles}
+						onClick={() => scrollTo({ y: 0 })}
+					>
+						Voltar ao topo
+					</Button>
+				)}
+			</Transition>
+		</Affix>
 	);
 }

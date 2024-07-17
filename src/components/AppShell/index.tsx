@@ -6,7 +6,6 @@ import Link from "next/link";
 
 import {
 	Breadcrumbs,
-	Burger,
 	Button,
 	Container,
 	Flex,
@@ -34,31 +33,22 @@ export default function AppShell({ children }: PropsWithChildren) {
 							: theme.colors.gray[0],
 				},
 			}}
-			aside={{
+			/* aside={{
 				width: 300,
 				breakpoint: "md",
 				collapsed: { desktop: false, mobile: true },
-			}}
+			}} */
 			header={{
 				height: { base: 50, md: 70 },
 			}}
-			navbar={{
+			/* navbar={{
 				breakpoint: "sm",
 				width: 300,
 				collapsed: { mobile: !opened },
-			}}
+			}} */
 		>
 			<MantineAppShell.Header p="md">
 				<Flex h="100%" align="center" justify="center">
-					<Burger
-						opened={opened}
-						onClick={toggle}
-						size="sm"
-						color={theme.colors.gray[6]}
-						mr="xl"
-						hiddenFrom="sm"
-					/>
-
 					<Breadcrumbs style={{ marginRight: "auto" }}>
 						<Button variant="subtle" component={Link} href="/">
 							Coisas do Alto

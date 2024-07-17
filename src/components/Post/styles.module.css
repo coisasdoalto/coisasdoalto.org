@@ -1,3 +1,11 @@
+.breadcrumb {
+  flex-wrap: wrap;
+}
+
 .breadcrumb a:last-child:hover {
   cursor: text;
+}
+
+.article {
+  text-align: justify;
 }

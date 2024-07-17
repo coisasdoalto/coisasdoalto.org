@@ -23,19 +23,25 @@ export async function Post({ post }: PostProps) {
 				<Box component="header" mt="md">
 					<Title order={1}>{post.title}</Title>
 					<Text my={2}>Autor: {post.author}</Text>
-					<Text
-						my={2}
-						style={{
-							textOverflow: "ellipsis",
-							overflow: "hidden",
-							whiteSpace: "nowrap",
-						}}
-					>
-						Traduzido de:{" "}
-						<Anchor href={post.translatedFrom} target="_blank">
-							{post.translatedFrom}
-						</Anchor>
-					</Text>
+					{post.translatedFrom && (
+						<Text
+							my={2}
+							style={{
+								textOverflow: "ellipsis",
+								overflow: "hidden",
+								whiteSpace: "nowrap",
+							}}
+						>
+							Traduzido de:{" "}
+							<Anchor
+								href={post.translatedFrom}
+								target="_blank"
+								rel="noopener noreferrer"
+							>
+								{post.translatedFrom}
+							</Anchor>
+						</Text>
+					)}
 
 					<Divider my="md" />
 
@@ -49,6 +55,7 @@ export async function Post({ post }: PostProps) {
 				</Box>
 
 				<article
+					className={classes.article}
 					// biome-ignore lint/security/noDangerouslySetInnerHtml: We need it to render post
 					dangerouslySetInnerHTML={{
 						__html: content,
