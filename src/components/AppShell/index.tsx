@@ -5,10 +5,11 @@ import type { PropsWithChildren } from "react";
 import Link from "next/link";
 
 import {
-	Breadcrumbs,
+	Burger,
 	Button,
 	Container,
 	Flex,
+	Group,
 	AppShell as MantineAppShell,
 	useMantineColorScheme,
 	useMantineTheme,
@@ -17,6 +18,7 @@ import { useDisclosure } from "@mantine/hooks";
 
 import { BackToTopButton } from "../BackToTopButton";
 import { DarkModeToggle } from "./DarkModeToggle";
+import { VerticalNavigation } from "./VerticalNavigation";
 
 export default function AppShell({ children }: PropsWithChildren) {
 	const theme = useMantineTheme();
@@ -41,27 +43,41 @@ export default function AppShell({ children }: PropsWithChildren) {
 			header={{
 				height: { base: 50, md: 70 },
 			}}
-			/* navbar={{
+			navbar={{
 				breakpoint: "sm",
 				width: 300,
-				collapsed: { mobile: !opened },
-			}} */
+				collapsed: { desktop: true, mobile: !opened },
+			}}
 		>
 			<MantineAppShell.Header p="md">
 				<Flex h="100%" align="center" justify="center">
-					<Breadcrumbs style={{ marginRight: "auto" }}>
+					<Burger
+						opened={opened}
+						onClick={toggle}
+						size="sm"
+						color={theme.colors.gray[6]}
+						mr="xl"
+						hiddenFrom="sm"
+					/>
+
+					<Group justify="space-between" style={{ flex: 1 }}>
 						<Button variant="subtle" component={Link} href="/">
 							Coisas do Alto
 						</Button>
-					</Breadcrumbs>
 
-					<DarkModeToggle />
+						<Group ml="xl" visibleFrom="sm">
+							<Button>Artigos</Button>
+							<Button>Livros</Button>
+						</Group>
+
+						<DarkModeToggle />
+					</Group>
 				</Flex>
 			</MantineAppShell.Header>
 
-			{/* <MantineAppShell.Navbar p="md">
+			<MantineAppShell.Navbar p="md">
 				<VerticalNavigation onNavigation={close} />
-			</MantineAppShell.Navbar> */}
+			</MantineAppShell.Navbar>
 
 			<MantineAppShell.Main>
 				<Container pt="md">{children}</Container>

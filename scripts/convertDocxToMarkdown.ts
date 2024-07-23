@@ -33,14 +33,18 @@ const docxPostsDirPath = path.resolve("data");
 	for (const post of docxPosts) {
 		console.log("Converting file: ", chalk.blue(post));
 
+		const postPath = path.resolve(docxPostsDirPath, post);
+
 		const postContent = (
-			await $`pandoc ${path.resolve(docxPostsDirPath, post)} -t markdown`
-				.nothrow()
-				.quiet()
+			await $`pandoc ${postPath} -t markdown`.nothrow().quiet()
 		).stdout.trim();
 
-		const title = post.replace(".docx", "");
+		let title = post.replace(".docx", "");
 		const author = (() => {
+			/**
+			 * Example: Notes about Acts 1 - William Kelly
+			 *                             ^ author
+			 */
 			const match = title.match(/(?<=\s-\s)[^-]+$/);
 
 			if (!match) return "";
@@ -48,10 +52,15 @@ const docxPostsDirPath = path.resolve("data");
 			return match[0];
 		})();
 
+		// Remove author from title
+		if (author) title = title.replace(` - ${author}`, "");
+
+		const postCreatedAt = await fs.stat(postPath).then((stat) => stat.ctime);
+
 		// TODO: enchance data with AI
 		const postMetadata: Post = {
 			title,
-			date: dayjs(new Date()).format("YYYY-MM-DD"),
+			date: dayjs(new Date(postCreatedAt)).format("YYYY-MM-DD"),
 			excerpt: "",
 			author,
 			tags: [],
@@ -60,12 +69,12 @@ const docxPostsDirPath = path.resolve("data");
 
 		const postWithMetadata = matter.stringify(postContent, postMetadata);
 
-		const postName = slugify(post.replace(".docx", ".md"), {
+		const postFileName = slugify(post.replace(".docx", ".md"), {
 			lower: true,
 		});
 
 		await fs.writeFile(
-			path.resolve(markdownPostsDirPath, postName),
+			path.resolve(markdownPostsDirPath, postFileName),
 			Buffer.from(postWithMetadata),
 		);
 	}
