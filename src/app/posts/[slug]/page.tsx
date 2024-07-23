@@ -1,8 +1,8 @@
 import type { Metadata } from "next";
 
 import { notFound } from "next/navigation";
+import { PostView } from "~/components/PostView";
 
-import { Post } from "~/components/Post";
 import { getAllPosts, getPostBySlug } from "~/lib/api";
 
 type Params = {
@@ -11,14 +11,14 @@ type Params = {
 	};
 };
 
-export default async function PostView({ params }: Params) {
+export default async function PostViewPage({ params }: Params) {
 	const post = getPostBySlug(params.slug);
 
 	if (!post) {
 		return notFound();
 	}
 
-	return <Post post={post} />;
+	return <PostView post={post} />;
 }
 
 export function generateMetadata({ params }: Params): Metadata {
