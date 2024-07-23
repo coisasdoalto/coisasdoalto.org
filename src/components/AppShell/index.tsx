@@ -5,10 +5,10 @@ import type { PropsWithChildren } from "react";
 import Link from "next/link";
 
 import {
-	Breadcrumbs,
-	Button,
-	Container,
+	Anchor,
+	Burger,
 	Flex,
+	Group,
 	AppShell as MantineAppShell,
 	useMantineColorScheme,
 	useMantineTheme,
@@ -17,6 +17,7 @@ import { useDisclosure } from "@mantine/hooks";
 
 import { BackToTopButton } from "../BackToTopButton";
 import { DarkModeToggle } from "./DarkModeToggle";
+import { VerticalNavigation } from "./VerticalNavigation";
 
 export default function AppShell({ children }: PropsWithChildren) {
 	const theme = useMantineTheme();
@@ -41,30 +42,47 @@ export default function AppShell({ children }: PropsWithChildren) {
 			header={{
 				height: { base: 50, md: 70 },
 			}}
-			/* navbar={{
+			navbar={{
 				breakpoint: "sm",
 				width: 300,
-				collapsed: { mobile: !opened },
-			}} */
+				collapsed: { desktop: true, mobile: !opened },
+			}}
 		>
 			<MantineAppShell.Header p="md">
 				<Flex h="100%" align="center" justify="center">
-					<Breadcrumbs style={{ marginRight: "auto" }}>
-						<Button variant="subtle" component={Link} href="/">
-							Coisas do Alto
-						</Button>
-					</Breadcrumbs>
+					<Burger
+						opened={opened}
+						onClick={toggle}
+						size="sm"
+						color={theme.colors.gray[6]}
+						mr="xl"
+						hiddenFrom="sm"
+					/>
 
-					<DarkModeToggle />
+					<Group justify="space-between" style={{ flex: 1 }}>
+						<Group ml="xl" visibleFrom="sm">
+							<Anchor component={Link} href="/">
+								Início
+							</Anchor>
+							<Anchor component={Link} href="/">
+								Artigos
+							</Anchor>
+							<Anchor variant="transparent" component={Link} href="/books">
+								Livros
+							</Anchor>
+						</Group>
+
+						<DarkModeToggle />
+					</Group>
 				</Flex>
 			</MantineAppShell.Header>
 
-			{/* <MantineAppShell.Navbar p="md">
+			<MantineAppShell.Navbar p="md">
 				<VerticalNavigation onNavigation={close} />
-			</MantineAppShell.Navbar> */}
+			</MantineAppShell.Navbar>
 
 			<MantineAppShell.Main>
-				<Container pt="md">{children}</Container>
+				{children}
 				<BackToTopButton />
 			</MantineAppShell.Main>
 		</MantineAppShell>

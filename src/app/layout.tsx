@@ -10,6 +10,7 @@ import { theme } from "~/theme";
 import { HOME_OG_IMAGE_URL } from "~/lib/constants";
 
 import "@mantine/core/styles.css";
+import "./globals.css";
 
 export const metadata: Metadata = {
 	title: "Coisas do Alto",
@@ -30,6 +31,16 @@ export default function RootLayout({ children }: { children: ReactNode }) {
 				<meta
 					name="viewport"
 					content="minimum-scale=1, initial-scale=1, width=device-width, user-scalable=no"
+				/>
+				<link rel="preconnect" href="https://fonts.googleapis.com" />
+				<link
+					rel="preconnect"
+					href="https://fonts.gstatic.com"
+					crossOrigin="anonymous"
+				/>
+				<link
+					href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap"
+					rel="stylesheet"
 				/>
 			</head>
 			<body>

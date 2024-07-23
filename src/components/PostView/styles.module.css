@@ -1,0 +1,17 @@
+.breadcrumb {
+  flex-wrap: wrap;
+}
+
+.breadcrumb a {
+  color: inherit;
+}
+
+.breadcrumb a:last-child:hover {
+  cursor: text;
+}
+
+.article {
+  text-align: justify;
+  font-family: ui-serif, Georgia, Cambria, "Times New Roman", Times, serif;
+  font-size: 1.2rem;
+}

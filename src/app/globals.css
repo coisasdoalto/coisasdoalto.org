@@ -1,4 +1,13 @@
-body {
-  color: var(--mantine-color-red-5);
-  background: var(--mantine-color-indigo-9);
+.font-serif {
+  font-family: Merriweather, sans-serif;
+}
+
+/* For light mode */
+:root[data-mantine-color-scheme="light"] {
+  --mantine-color-text: var(--mantine-color-gray-9) !important;
+}
+
+/* For dark mode */
+:root[data-mantine-color-scheme="dark"] {
+  --mantine-color-text: var(--mantine-color-gray-1) !important;
 }
