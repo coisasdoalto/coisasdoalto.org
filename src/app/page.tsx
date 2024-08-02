@@ -1,4 +1,5 @@
-import { Center, Stack, Title } from "@mantine/core";
+import { Center, Divider, Group, Stack, Title } from "@mantine/core";
+import { ContentCard } from "~/components/ContentCard/ContentCard";
 import { LastArticlesItem } from "~/components/LastArticlesItem/LastArticlesItem";
 
 import { getAllPosts } from "~/lib/api";
@@ -19,15 +20,15 @@ export default function HomePage() {
 			<Title ta="center">Coisas do Alto</Title>
 			<Center mt="lg">
 				<Stack>
-					{/* <Group grow w="100%">
-						<ContentCard>Livros</ContentCard>
-						<ContentCard>Artigos</ContentCard>
-						<ContentCard>Séries</ContentCard>
+					<Group grow w="100%">
+						<ContentCard to="/">Artigos</ContentCard>
+						<ContentCard to="/books">Livros</ContentCard>
+						{/* <ContentCard>Séries</ContentCard> */}
 					</Group>
 
 					<Divider my="xl" />
 
-					<Title order={2}>Temas / assuntos</Title>
+					{/* <Title order={2}>Temas / assuntos</Title>
 
 					<Grid>
 						{tags.map((tag) => {
@@ -38,7 +39,7 @@ export default function HomePage() {
 							);
 						})}
 					</Grid>
--					<Divider my="xl" />*/}
+					<Divider my="xl" /> */}
 
 					<Title order={2}>Últimos conteúdos adicionados</Title>
 

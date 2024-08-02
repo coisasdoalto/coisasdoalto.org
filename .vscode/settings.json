@@ -9,6 +9,7 @@
 	"editor.codeActionsOnSave": {
 		"quickfix.biome": "explicit",
 		"source.fixAll": "explicit",
+		"source.addMissingImports": "always",
 		"source.organizeImports.biome": "explicit"
 	}
 }
