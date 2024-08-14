@@ -25,31 +25,28 @@ export function BooksView({ book, post }: { book: Book; post: Post }) {
 
 	useEffect(() => {
 		if (!currentChapter) {
-			updateChapterOnQueryString(book.chapters[0]);
+			updateChapterOnQueryString(book.chapters[0].slug);
 		}
-	}, [book.chapters[0], currentChapter, updateChapterOnQueryString]);
+	}, [book.chapters[0].slug, currentChapter, updateChapterOnQueryString]);
 
 	return (
 		<Center mt="lg">
 			<Grid>
 				<GridCol span={3}>
 					<Stack>
-						<Title order={2}>{book.title}</Title>
-						<Title order={3}>{book.author}</Title>
 						<Title order={4}>Capítulos</Title>
 
 						<Stack gap="xs">
 							{book.chapters.map((chapter) => (
 								<Button
-									key={chapter}
+									key={chapter.slug}
 									size="compact-sm"
-									variant={chapter === currentChapter ? "filled" : "outline"}
-									style={{
-										textTransform: "capitalize",
-									}}
-									onClick={() => updateChapterOnQueryString(chapter)}
+									variant={
+										chapter.slug === currentChapter ? "filled" : "outline"
+									}
+									onClick={() => updateChapterOnQueryString(chapter.slug)}
 								>
-									{chapter.replace(/-/g, " ")}
+									{chapter.title}
 								</Button>
 							))}
 						</Stack>
