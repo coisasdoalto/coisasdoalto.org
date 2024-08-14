@@ -9,7 +9,8 @@ export default function BookPage({
 
 	const post = getBookChapter(
 		params.slug,
-		("chapter" in searchParams && searchParams.chapter) || book.chapters[0],
+		("chapter" in searchParams && searchParams.chapter) ||
+			book.chapters[0].slug,
 	);
 
 	return <BooksView book={book} post={post} />;

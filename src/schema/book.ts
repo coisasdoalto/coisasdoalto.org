@@ -8,9 +8,10 @@ export const bookSchema = z.object({
 	excerpt: z.string().optional(),
 	tags: z.array(z.string()),
 	status: z.union([z.literal("draft"), z.literal("published")]),
-	chapters: z
-		.array(z.string())
-		.transform((chapters) =>
-			chapters.map((chapter) => chapter.replace(/\.md$/, "")),
-		),
+	chapters: z.array(
+		z.object({
+			slug: z.string(),
+			title: z.string(),
+		}),
+	),
 });
