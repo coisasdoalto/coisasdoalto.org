@@ -55,7 +55,16 @@ export function getAllBooks() {
 
 		const chapters = fs
 			.readdirSync(path.join(booksDirectory, book))
-			.filter((item) => item !== "index.md");
+			.filter((item) => item !== "index.md")
+			.map((item) => {
+				const fullPath = path.join(booksDirectory, book, item);
+				const fileContents = fs.readFileSync(fullPath, "utf8");
+				const { data } = matter(fileContents);
+				return {
+					slug: item.replace(".md", ""),
+					title: data.title,
+				};
+			});
 
 		const realSlug = book.replace(/\.md$/, "");
 
@@ -79,16 +88,24 @@ export function getBookBySlug(slug: string) {
 	const chapters = fs
 		.readdirSync(bookPath)
 		.filter((item) => item !== "index.md")
-		.map((item) => item.replace(/\.md$/, ""))
+		.map((item) => {
+			const fullPath = path.join(bookPath, item);
+			const fileContents = fs.readFileSync(fullPath, "utf8");
+			const { data } = matter(fileContents);
+			return {
+				slug: item.replace(".md", ""),
+				title: data.title,
+			};
+		})
 		// sort: letters alphabetically, number asc
 		.sort((a, b) => {
-			const isPreface = a === "preface";
+			const isPreface = a.slug === "preface";
 
 			if (isPreface) {
 				return -1;
 			}
 
-			return a.localeCompare(b, undefined, {
+			return a.slug.localeCompare(b.slug, undefined, {
 				numeric: true,
 			});
 		});
