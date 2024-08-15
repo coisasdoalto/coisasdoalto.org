@@ -1,8 +1,18 @@
 "use client";
 
-import { Button, Center, Grid, GridCol, Stack, Title } from "@mantine/core";
-import { useRouter, useSearchParams } from "next/navigation";
-import { useEffect } from "react";
+import {
+	Anchor,
+	Button,
+	Center,
+	Container,
+	Grid,
+	GridCol,
+	Stack,
+	Title,
+	useMantineColorScheme,
+} from "@mantine/core";
+import Link from "next/link";
+import { useParams, useRouter } from "next/navigation";
 import { PostView } from "~/components/PostView";
 
 import type { Book } from "~/types/book";
@@ -11,52 +21,51 @@ import type { Post } from "~/types/post";
 export function BooksView({ book, post }: { book: Book; post: Post }) {
 	const router = useRouter();
 
-	const queryParams = useSearchParams();
+	const { colorScheme } = useMantineColorScheme();
 
-	const currentChapter = queryParams.get("chapter");
-
-	const updateChapterOnQueryString = (selectedChapter: string) => {
-		const params = new URLSearchParams(window.location.search);
-
-		params.set("chapter", selectedChapter);
-
-		router.replace(`${window.location.pathname}?${params.toString()}`);
-	};
-
-	useEffect(() => {
-		if (!currentChapter) {
-			updateChapterOnQueryString(book.chapters[0].slug);
-		}
-	}, [book.chapters[0].slug, currentChapter, updateChapterOnQueryString]);
+	const { chapter: currentChapter } = useParams<{ chapter: string }>();
 
 	return (
-		<Center mt="lg">
-			<Grid>
-				<GridCol span={3}>
-					<Stack>
-						<Title order={4}>Capítulos</Title>
+		<>
+			<Center p="lg" bg={colorScheme === "dark" ? "gray.9" : "gray.3"}>
+				<Title ta="center">{book.title}</Title>
+			</Center>
 
-						<Stack gap="xs">
-							{book.chapters.map((chapter) => (
-								<Button
-									key={chapter.slug}
-									size="compact-sm"
-									variant={
-										chapter.slug === currentChapter ? "filled" : "outline"
-									}
-									onClick={() => updateChapterOnQueryString(chapter.slug)}
-								>
-									{chapter.title}
-								</Button>
-							))}
+			<Container size="lg">
+				<Grid>
+					<GridCol span={3}>
+						<Stack mt="md">
+							<Title order={4}>Capítulos</Title>
+
+							<Stack gap="xs">
+								{book.chapters.map((chapter) => (
+									<Anchor
+										key={chapter.slug}
+										component={Link}
+										href={`/books/${book.slug}/${chapter.slug}`}
+										underline="never"
+										title={`Ver capítulo ${chapter.title}`}
+									>
+										<Button
+											size="compact-sm"
+											variant={
+												chapter.slug === currentChapter ? "filled" : "outline"
+											}
+											fullWidth
+										>
+											{chapter.title}
+										</Button>
+									</Anchor>
+								))}
+							</Stack>
 						</Stack>
-					</Stack>
-				</GridCol>
+					</GridCol>
 
-				<GridCol span={9}>
-					<PostView post={post} />
-				</GridCol>
-			</Grid>
-		</Center>
+					<GridCol span={9}>
+						<PostView post={post} />
+					</GridCol>
+				</Grid>
+			</Container>
+		</>
 	);
 }

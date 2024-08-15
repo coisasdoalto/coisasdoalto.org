@@ -11,6 +11,7 @@ export function Hero() {
 			p="xl"
 			direction="column"
 			justify="center"
+			align="center"
 			gap="sm"
 		>
 			<Title ta="center">Coisas do Alto</Title>
@@ -31,10 +32,10 @@ export function Hero() {
 				fz="md"
 				ff="text"
 				ta="center"
-				href="https://www.bibliaonline.com.br/naa/cl/3/1"
+				href="https://www.bibliaonline.com.br/ara/cl/3/1"
 				target="_blank"
 			>
-				Colossenses 3:2 NAA
+				Colossenses 3:1 ARA
 			</Anchor>
 		</Flex>
 	);

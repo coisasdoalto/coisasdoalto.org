@@ -5,9 +5,13 @@
 /* For light mode */
 :root[data-mantine-color-scheme="light"] {
   --mantine-color-text: var(--mantine-color-gray-9) !important;
+  --mantine-color-anchor: var(--mantine-color-gray-9) !important;
+  --mantine-button-color: var(--mantine-color-gray-9) !important;
 }
 
 /* For dark mode */
 :root[data-mantine-color-scheme="dark"] {
   --mantine-color-text: var(--mantine-color-gray-1) !important;
+  --mantine-color-anchor: var(--mantine-color-gray-1) !important;
+  --mantine-button-color: var(--mantine-color-gray-1) !important;
 }
