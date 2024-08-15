@@ -19,7 +19,7 @@ export default function BooksPage() {
 							<>
 								<LastArticlesItem
 									key={book.slug}
-									href={`/books/${book.slug}`}
+									href={`/books/${book.slug}/${book.chapters[0].slug}`}
 									itemName={book.title}
 									author={book.author}
 								/>
