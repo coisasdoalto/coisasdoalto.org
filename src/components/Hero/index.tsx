@@ -14,14 +14,25 @@ export function Hero() {
 			gap="sm"
 		>
 			<Title ta="center">Coisas do Alto</Title>
-			<Title ta="center" order={2} fz="lg" className="font-serif" fw="light">
-				<cite>"Pensem nas coisas lá do alto [...]"</cite>
+			<Title
+				ta="center"
+				order={2}
+				fz="lg"
+				className="font-serif"
+				fw="lighter"
+				component="cite"
+			>
+				<sup>1</sup> Portanto, se fostes ressuscitados juntamente com Cristo,
+				<br />
+				<strong>buscai as coisas lá do alto</strong>, onde Cristo vive,
+				assentado à direita de Deus.
 			</Title>
 			<Anchor
 				fz="md"
 				ff="text"
 				ta="center"
-				href="https://www.bibliaonline.com.br/naa/cl/3/2"
+				href="https://www.bibliaonline.com.br/naa/cl/3/1"
+				target="_blank"
 			>
 				Colossenses 3:2 NAA
 			</Anchor>
