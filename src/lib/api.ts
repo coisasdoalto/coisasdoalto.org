@@ -7,6 +7,25 @@ import { bookSchema } from "~/schema/book";
 import { postSchema } from "~/schema/post";
 import type { Post } from "~/types/post";
 
+type Status = "draft" | "published" | "all";
+
+type Chapter = {
+	slug: string;
+	title: string;
+};
+
+const sortAlphaNumerically = (a: Chapter, b: Chapter) => {
+	const isPreface = a.slug === "preface";
+
+	if (isPreface) {
+		return -1;
+	}
+
+	return a.slug.localeCompare(b.slug, undefined, {
+		numeric: true,
+	});
+};
+
 const postsDirectory = path.join(process.cwd(), "_posts");
 const booksDirectory = path.join(process.cwd(), "_books");
 
@@ -26,7 +45,7 @@ export function getPostBySlug(slug: string): Post {
 }
 
 export function getAllPosts(options?: {
-	status?: "draft" | "published" | "all";
+	status?: Status;
 }): Post[] {
 	const { status = "all" } = options || {};
 
@@ -45,10 +64,14 @@ export function getAllPosts(options?: {
 	return sortedPosts;
 }
 
-export function getAllBooks() {
+export function getAllBooks(options?: {
+	status?: Status;
+}) {
+	const { status = "all" } = options || {};
+
 	const books = fs.readdirSync(booksDirectory);
 
-	return books.map((book) => {
+	const allBooks = books.map((book) => {
 		const fullPath = path.join(booksDirectory, book, "index.md");
 		const fileContents = fs.readFileSync(fullPath, "utf8");
 		const { data } = matter(fileContents);
@@ -64,7 +87,10 @@ export function getAllBooks() {
 					slug: item.replace(".md", ""),
 					title: data.title,
 				};
-			});
+			})
+			.sort(sortAlphaNumerically);
+
+		console.log("chapters", chapters);
 
 		const realSlug = book.replace(/\.md$/, "");
 
@@ -76,6 +102,12 @@ export function getAllBooks() {
 
 		return parsedContent;
 	});
+
+	if (status === "all") {
+		return allBooks;
+	}
+
+	return allBooks.filter((item) => item.status === status);
 }
 
 export function getBookBySlug(slug: string) {
@@ -97,18 +129,7 @@ export function getBookBySlug(slug: string) {
 				title: data.title,
 			};
 		})
-		// sort: letters alphabetically, number asc
-		.sort((a, b) => {
-			const isPreface = a.slug === "preface";
-
-			if (isPreface) {
-				return -1;
-			}
-
-			return a.slug.localeCompare(b.slug, undefined, {
-				numeric: true,
-			});
-		});
+		.sort(sortAlphaNumerically);
 
 	const realSlug = slug.replace(/\.md$/, "");
 
