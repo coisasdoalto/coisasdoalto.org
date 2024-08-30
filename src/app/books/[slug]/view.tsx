@@ -49,8 +49,9 @@ export function BooksView({ book, post }: { book: Book; post: Post }) {
 										<Button
 											size="compact-sm"
 											variant={
-												chapter.slug === currentChapter ? "filled" : "outline"
+												chapter.slug === currentChapter ? "light" : "outline"
 											}
+											color={chapter.slug === currentChapter ? "blue" : ""}
 											fullWidth
 										>
 											{chapter.title}
