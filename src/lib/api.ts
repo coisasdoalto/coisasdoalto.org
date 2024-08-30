@@ -90,8 +90,6 @@ export function getAllBooks(options?: {
 			})
 			.sort(sortAlphaNumerically);
 
-		console.log("chapters", chapters);
-
 		const realSlug = book.replace(/\.md$/, "");
 
 		const parsedContent = bookSchema.parse({
