@@ -13,7 +13,7 @@ export function DarkModeToggle() {
 			onClick={() => toggleColorScheme()}
 			title="Acender/desligar a luz"
 		>
-			{dark ? <IconBulb size={18} /> : <IconBulbOff size={18} />}
+			{dark ? <IconBulb size={18} color="white" /> : <IconBulbOff size={18} />}
 		</ActionIcon>
 	);
 }
