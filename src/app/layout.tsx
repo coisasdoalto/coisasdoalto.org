@@ -46,6 +46,8 @@ export default function RootLayout({ children }: { children: ReactNode }) {
 			<body>
 				<MantineProvider theme={theme}>
 					<AppShell>{children}</AppShell>
+
+					<div id="drawer" />
 				</MantineProvider>
 			</body>
 		</html>
