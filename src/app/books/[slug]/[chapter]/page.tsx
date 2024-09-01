@@ -1,5 +1,5 @@
 import { getAllBooks, getBookBySlug, getBookChapter } from "~/lib/api";
-import { BooksView } from "../view";
+import { BooksView } from "./view";
 
 type BooksPageParams = {
 	params: { slug: string; chapter: string };

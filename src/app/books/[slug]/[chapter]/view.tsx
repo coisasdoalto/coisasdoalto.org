@@ -3,7 +3,6 @@
 import {
 	Anchor,
 	Button,
-	Center,
 	Container,
 	Grid,
 	GridCol,
@@ -13,9 +12,9 @@ import {
 } from "@mantine/core";
 import Link from "next/link";
 import { useParams } from "next/navigation";
-import ChaptersDrawer from "~/components/ChaptersDrawer";
-import { PostView } from "~/components/PostView";
+import { ChaptersDrawer } from "./ChaptersDrawer";
 
+import { BookPostView } from "~/components/BookPostView";
 import type { Book } from "~/types/book";
 import type { Post } from "~/types/post";
 
@@ -38,8 +37,8 @@ export function BooksView({ book, post }: { book: Book; post: Post }) {
 				>
 					<Button
 						size="compact-sm"
-						variant={chapter.slug === currentChapter ? "light" : "outline"}
-						color={isDarkMode && chapter.slug === currentChapter ? "blue" : ""}
+						variant={chapter.slug === currentChapter ? "light" : "default"}
+						color={chapter.slug === currentChapter ? "blue" : ""}
 						fullWidth
 					>
 						{chapter.title}
@@ -51,11 +50,14 @@ export function BooksView({ book, post }: { book: Book; post: Post }) {
 
 	return (
 		<>
-			<ChaptersDrawer content={chaptersSection} />
-
-			<Center p="lg" bg={colorScheme === "dark" ? "gray.9" : "gray.3"}>
+			<Stack p="lg" bg={isDarkMode ? "gray.9" : "gray.3"} gap="xs">
 				<Title ta="center">{book.title}</Title>
-			</Center>
+				<Title order={2} ta="center">
+					{book.author}
+				</Title>
+			</Stack>
+
+			<ChaptersDrawer>{chaptersSection}</ChaptersDrawer>
 
 			<Container size="lg">
 				<Grid>
@@ -66,7 +68,7 @@ export function BooksView({ book, post }: { book: Book; post: Post }) {
 							sm: 0,
 						}}
 					>
-						<Stack gap="md">
+						<Stack gap="md" mt="md">
 							<Title order={4}>Capítulos</Title>
 							{chaptersSection}
 						</Stack>
@@ -77,8 +79,9 @@ export function BooksView({ book, post }: { book: Book; post: Post }) {
 							sm: 12,
 							md: 9,
 						}}
+						mb="xl"
 					>
-						<PostView post={post} hideBreadcrumb />
+						<BookPostView post={post} />
 					</GridCol>
 				</Grid>
 			</Container>

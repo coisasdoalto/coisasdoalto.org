@@ -10,25 +10,23 @@ import {
 import markdownToHtml from "~/lib/markdownToHtml";
 import type { Post as PostType } from "~/types/post";
 
+import { Article } from "../Article";
 import classes from "./styles.module.css";
 
 type PostProps = {
 	post: PostType;
-	hideBreadcrumb?: boolean;
 };
 
-export async function PostView({ post, hideBreadcrumb = false }: PostProps) {
+export async function PostView({ post }: PostProps) {
 	const content = await markdownToHtml(post.content);
 
 	return (
 		<Container pt="md">
-			{!hideBreadcrumb && (
-				<Breadcrumbs component="nav" className={classes.breadcrumb} mb="md">
-					<Anchor href="/">Início</Anchor>
+			<Breadcrumbs component="nav" className={classes.breadcrumb} mb="md">
+				<Anchor href="/">Início</Anchor>
 
-					<Anchor underline="never">{post.title}</Anchor>
-				</Breadcrumbs>
-			)}
+				<Anchor underline="never">{post.title}</Anchor>
+			</Breadcrumbs>
 
 			<Box component="header">
 				<Title order={1}>{post.title}</Title>
@@ -64,13 +62,7 @@ export async function PostView({ post, hideBreadcrumb = false }: PostProps) {
           </div> */}
 			</Box>
 
-			<article
-				className={classes.article}
-				// biome-ignore lint/security/noDangerouslySetInnerHtml: We need it to render post
-				dangerouslySetInnerHTML={{
-					__html: content,
-				}}
-			/>
+			<Article>{content}</Article>
 		</Container>
 	);
 }
