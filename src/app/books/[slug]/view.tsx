@@ -5,31 +5,28 @@ import {
 	Button,
 	Center,
 	Container,
-	Drawer,
 	Grid,
 	GridCol,
 	Stack,
 	Title,
 	useMantineColorScheme,
 } from "@mantine/core";
-import { useDisclosure } from "@mantine/hooks";
 import Link from "next/link";
 import { useParams } from "next/navigation";
+import ChaptersDrawer from "~/components/ChaptersDrawer";
 import { PostView } from "~/components/PostView";
 
 import type { Book } from "~/types/book";
 import type { Post } from "~/types/post";
 
 export function BooksView({ book, post }: { book: Book; post: Post }) {
-	const [opened, { open, close }] = useDisclosure(false);
-
 	const { colorScheme } = useMantineColorScheme();
 
 	const isDarkMode = colorScheme === "dark";
 
 	const { chapter: currentChapter } = useParams<{ chapter: string }>();
 
-	const ChaptersSection = () => (
+	const chaptersSection = (
 		<Stack gap="xs">
 			{book.chapters.map((chapter) => (
 				<Anchor
@@ -54,24 +51,7 @@ export function BooksView({ book, post }: { book: Book; post: Post }) {
 
 	return (
 		<>
-			<Drawer
-				opened={opened}
-				onClose={close}
-				position="bottom"
-				overlayProps={{ blur: 4 }}
-				offset={16}
-				radius="md"
-				title="Capítulos"
-				portalProps={{
-					target: "#drawer",
-				}}
-			>
-				<ChaptersSection />
-			</Drawer>
-
-			<Button onClick={() => open()} variant="filled" color="blue">
-				Ver capítulos
-			</Button>
+			<ChaptersDrawer content={chaptersSection} />
 
 			<Center p="lg" bg={colorScheme === "dark" ? "gray.9" : "gray.3"}>
 				<Title ta="center">{book.title}</Title>
@@ -88,7 +68,7 @@ export function BooksView({ book, post }: { book: Book; post: Post }) {
 					>
 						<Stack gap="md">
 							<Title order={4}>Capítulos</Title>
-							<ChaptersSection />
+							{chaptersSection}
 						</Stack>
 					</GridCol>
 
