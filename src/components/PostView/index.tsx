@@ -14,20 +14,23 @@ import classes from "./styles.module.css";
 
 type PostProps = {
 	post: PostType;
+	hideBreadcrumb?: boolean;
 };
 
-export async function PostView({ post }: PostProps) {
+export async function PostView({ post, hideBreadcrumb = false }: PostProps) {
 	const content = await markdownToHtml(post.content);
 
 	return (
 		<Container pt="md">
-			<Breadcrumbs component="nav" className={classes.breadcrumb}>
-				<Anchor href="/">Início</Anchor>
+			{!hideBreadcrumb && (
+				<Breadcrumbs component="nav" className={classes.breadcrumb} mb="md">
+					<Anchor href="/">Início</Anchor>
 
-				<Anchor underline="never">{post.title}</Anchor>
-			</Breadcrumbs>
+					<Anchor underline="never">{post.title}</Anchor>
+				</Breadcrumbs>
+			)}
 
-			<Box component="header" mt="md">
+			<Box component="header">
 				<Title order={1}>{post.title}</Title>
 				<Text my={2}>Autor: {post.author}</Text>
 				{post.translatedFrom && (
