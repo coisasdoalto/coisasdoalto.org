@@ -6,6 +6,10 @@
   color: inherit;
 }
 
+.breadcrumb a:last-child {
+  white-space: normal;
+}
+
 .breadcrumb a:last-child:hover {
   cursor: text;
 }

@@ -79,7 +79,6 @@ export function BooksView({ book, post }: { book: Book; post: Post }) {
 							sm: 12,
 							md: 9,
 						}}
-						mb="xl"
 					>
 						<BookPostView post={post} />
 					</GridCol>
