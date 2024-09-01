@@ -1,3 +1,4 @@
+import { Box } from "@mantine/core";
 import classes from "./styles.module.css";
 
 export function Article({
@@ -6,7 +7,9 @@ export function Article({
 	children: string;
 }) {
 	return (
-		<article
+		<Box
+			component="article"
+			pb="xl"
 			className={classes.article}
 			// biome-ignore lint/security/noDangerouslySetInnerHtml: We need it to render post
 			dangerouslySetInnerHTML={{
