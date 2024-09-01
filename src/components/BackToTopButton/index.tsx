@@ -20,8 +20,7 @@ export function BackToTopButton() {
 						leftSection={<IconArrowUp size={16} />}
 						style={transitionStyles}
 						onClick={() => scrollTo({ y: 0 })}
-						c={colorScheme === "dark" ? "gray.5" : "gray.9"}
-						bg={colorScheme === "dark" ? "gray.9" : "gray.3"}
+						variant="default"
 					>
 						Voltar ao topo
 					</Button>
