@@ -91,15 +91,16 @@ export function BooksView({ book, post }: { book: Book; post: Post }) {
 					>
 						<BookPostView post={post} />
 
-						<Flex gap="md" mt="-2rem" mb="4rem">
+						<Flex gap="lg" mt="-2rem" mb="4rem" mx="md">
 							{prevChapter && (
 								<Button
 									component={Link}
 									href={`/books/${book.slug}/${prevChapter.slug}`}
-									variant="outline"
+									variant="default"
 									leftSection={<IconChevronLeft size={14} />}
-									fullWidth
+									flex={0.5}
 									title={prevChapter.title}
+									mr="auto"
 								>
 									Anterior
 								</Button>
@@ -108,10 +109,11 @@ export function BooksView({ book, post }: { book: Book; post: Post }) {
 								<Button
 									component={Link}
 									href={`/books/${book.slug}/${nextChapter.slug}`}
-									variant="outline"
+									variant="default"
 									rightSection={<IconChevronRight size={14} />}
-									fullWidth
+									flex={0.5}
 									title={nextChapter.title}
+									ml="auto"
 								>
 									Próximo
 								</Button>
