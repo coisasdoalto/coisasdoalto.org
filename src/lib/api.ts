@@ -15,9 +15,7 @@ type Chapter = {
 };
 
 const sortAlphaNumerically = (a: Chapter, b: Chapter) => {
-	const isPreface = a.slug === "preface";
-
-	if (isPreface) {
+	if (a.slug.startsWith("_")) {
 		return -1;
 	}
 
