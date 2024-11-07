@@ -5,6 +5,7 @@ excerpt: ""
 author: William Kelly
 tags: []
 status: published
+translatedFrom: https://bibletruthpublishers.com/notes-on-1-corinthians-6-1-11/william-kelly-wk/w-kelly/lac155707-lub-16164-5
 ---
 
 Agora temos que encontrar um mal mundano entre os santos coríntios, como

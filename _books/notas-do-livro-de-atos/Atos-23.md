@@ -1,11 +1,13 @@
 ---
 title: Atos 23
-date: '2024-07-20'
-excerpt: ''
+date: "2024-07-20"
+excerpt: ""
 author: William Kelly
 tags: []
 status: published
+translatedFrom: https://bibletruthpublishers.com/acts-23/william-kelly-wk/an-exposition-of-the-acts-of-the-apostles/w-kelly/la155026
 ---
+
 "E Paulo, fixando os olhos no conselho, disse: Irmãos, vivi diante de
 Deus com toda a boa consciência até este dia. E o sumo sacerdote Ananias
 ordenou aos que estavam perto dele que lhe batessem na boca. Então Paulo
@@ -382,8 +384,9 @@ uma cidade magnífica. Agora é uma ruína total. Lá o apóstolo permaneceu
 prisioneiro por anos antes de ser enviado para Roma. Mas disso ouviremos
 mais na história que se segue.\
 \
+
 1. Essa é a leitura dos manuscritos mais antigos com a Vulgata e
-Pesch.Syr.
+   Pesch.Syr.
 
 2\. \"Paulo\" não está nas melhores autoridades.
 

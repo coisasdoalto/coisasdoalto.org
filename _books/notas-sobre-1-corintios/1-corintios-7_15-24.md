@@ -5,6 +5,7 @@ excerpt: ""
 author: William Kelly
 tags: []
 status: published
+translatedFrom: https://bibletruthpublishers.com/notes-on-1-corinthians-7-15-24/william-kelly-wk/w-kelly/lac143249-lub-16164-5
 ---
 
 Vimos então o contraste marcante entre o poder gracioso do evangelho e a

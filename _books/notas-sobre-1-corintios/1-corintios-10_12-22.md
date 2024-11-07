@@ -5,6 +5,7 @@ excerpt: ""
 author: William Kelly
 tags: []
 status: published
+translatedFrom: https://bibletruthpublishers.com/notes-on-1-corinthians-10-12-22/william-kelly-wk/w-kelly/lac143255-lub-16164-5
 ---
 
 A história bíblica de Israel é, portanto, extremamente solene e

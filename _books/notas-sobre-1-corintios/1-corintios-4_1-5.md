@@ -5,6 +5,7 @@ excerpt: ""
 author: William Kelly
 tags: []
 status: published
+translatedFrom: https://bibletruthpublishers.com/notes-on-1-corinthians-4-1-5/william-kelly-wk/w-kelly/lac143241-lub-16164-5
 ---
 
 O apóstolo havia mostrado a solene responsabilidade do trabalhador e a

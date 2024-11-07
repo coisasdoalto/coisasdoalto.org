@@ -5,6 +5,7 @@ excerpt: ""
 author: William Kelly
 tags: []
 status: published
+translatedFrom: https://bibletruthpublishers.com/notes-in-1-corinthians-9-15-27/william-kelly-wk/notes-on-1-corinthians/w-kelly/lac143253-lub-16164-5
 ---
 
 O apóstolo havia afirmado o princípio de que os direitos concedidos a

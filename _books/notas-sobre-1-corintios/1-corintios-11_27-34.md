@@ -5,6 +5,7 @@ excerpt: ""
 author: William Kelly
 tags: []
 status: published
+translatedFrom: https://bibletruthpublishers.com/notes-on-1-corinthians-11-27-34/william-kelly-wk/w-kelly/lac143259-lub-16164-5
 ---
 
 Tal é a instituição e o objetivo da ceia do Senhor. Vamos prosseguir com

@@ -1,11 +1,13 @@
 ---
 title: Atos 9
-date: '2024-07-20'
-excerpt: ''
+date: "2024-07-20"
+excerpt: ""
 author: William Kelly
 tags: []
 status: published
+translatedFrom: https://bibletruthpublishers.com/acts-9/william-kelly-wk/an-exposition-of-the-acts-of-the-apostles/w-kelly/la155012
 ---
+
 A conversão de Saulo de Tarso segue o belo desenvolvimento dos caminhos
 de Deus. Por um lado, seu zelo assassino e implacável contra o Senhor
 Jesus e Seus santos fez dele (preso pela graça soberana e glória
@@ -977,8 +979,7 @@ abertura assim: \"Além disso, havia entre os discípulos em Jope uma
 mulher chamada Tabita, que estava sempre fazendo boas obras e dando
 esmolas\"? Cito da segunda edição de Gilbert Wakefield 2:27, embora não
 possa dizer (não tendo seu antecessor) se esta é uma de suas supostas
-\"melhorias\" ou uma mera reprodução da primeira. É a nota (na página
-375) que é tão ofensiva: --- \"Deixei de fora a explicação impertinente
+\"melhorias\" ou uma mera reprodução da primeira. É a nota (na página 375) que é tão ofensiva: --- \"Deixei de fora a explicação impertinente
 neste versículo porque, mesmo que não seja uma interpolação, deve ser
 ridícula ou ininteligível em uma tradução.\" É ainda mais descarado de
 alguém que não se permite tal audácia em sua tradução (como entre muitas
@@ -1100,10 +1101,11 @@ morte: porque somos feitos espetáculo ao mundo, aos anjos e aos homens.
 Somos loucos por Cristo, mas vós sábios em Cristo; nós fracos, mas vós
 fortes; vós gloriosos, mas nós sem honra\" (1 Cor. 4:8-10).\
 \
+
 1. O Texto. Rec. em autoridade inferior acrescenta primeiro "Senhor
-disse", depois uma interpolação do cap. 26. "\[é\] difícil para ti
-chutar contra aguilhões", e uma forma exagerada na primeira metade do
-ver. 6 da primeira cláusula do cap. 22:10.
+   disse", depois uma interpolação do cap. 26. "\[é\] difícil para ti
+   chutar contra aguilhões", e uma forma exagerada na primeira metade do
+   ver. 6 da primeira cláusula do cap. 22:10.
 
 2\. Ou "ninguém", que é a leitura da maioria das autoridades, algumas
 delas antigas e boas, embora א Apm.B Vulg.Syrr.Bah., et al., dêem o
@@ -1133,8 +1135,7 @@ espiritual?
 8\. É "Jesus" em) א ABCE, dezesseis cursivos, Vulg.Syrr.Memph, et al. Um
 dos Aeth, tem "Jesus" apenas, o outro "Jesus Cristo".
 
-9\. A maioria das cópias, mas não as melhores, tem o perfeito no ver.
-21. Apenas אpm B omitem o artigo no ver. 22. Outras diferenças mínimas
+9\. A maioria das cópias, mas não as melhores, tem o perfeito no ver. 21. Apenas אpm B omitem o artigo no ver. 22. Outras diferenças mínimas
 podem ser deixadas.
 
 10\. O Texto. Rec. tem παρετἡρουν τε, mas as melhores testemunhas dão

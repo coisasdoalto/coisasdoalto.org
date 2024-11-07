@@ -5,6 +5,7 @@ excerpt: ""
 author: William Kelly
 tags: []
 status: published
+translatedFrom: https://bibletruthpublishers.com/notes-on-1-corinthians-1-1-3/william-kelly-wk/w-kelly/lac143230-lub-16164-5
 ---
 
 A Epístola na qual estamos prestes a entrar nos dá mais do que qualquer

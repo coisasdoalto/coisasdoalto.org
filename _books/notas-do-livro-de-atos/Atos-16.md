@@ -1,11 +1,13 @@
 ---
 title: Atos 16
-date: '2024-07-20'
-excerpt: ''
+date: "2024-07-20"
+excerpt: ""
 author: William Kelly
 tags: []
 status: published
+translatedFrom: https://bibletruthpublishers.com/acts-16/william-kelly-wk/an-exposition-of-the-acts-of-the-apostles/w-kelly/la155019
 ---
+
 O apóstolo agora entrou total e livremente em sua nova excursão
 missionária, bem como em sua visita às assembleias já formadas. Silas é
 seu companheiro escolhido, não mais Barnabé. Todas as coisas cooperam
@@ -917,8 +919,7 @@ pensado em uma acusação.
 eles da prisão, entraram em casa de Lídia; e, vendo os irmãos, os
 confortaram e partiram." Eles exerceram seu título indiscutível de
 liberdade por uma visita, ao sair da prisão, a Lídia, onde viram "os
-irmãos". Estes pareceriam ser sua família de quem ouvimos no versículo
-15. De nenhum outro naquele santo vínculo de relacionamento lemos neste
+irmãos". Estes pareceriam ser sua família de quem ouvimos no versículo 15. De nenhum outro naquele santo vínculo de relacionamento lemos neste
 momento em Filipos. Estes eles exortaram ou confortaram, como bem
 poderia haver necessidade, e os servos do Senhor poderiam felizmente
 fazer na defesa e confirmação do evangelho. Como eles haviam se
@@ -927,9 +928,10 @@ próprias pessoas, daquela superioridade às circunstâncias que o apóstolo
 em sua Epístola mais tarde impressionou em todos os santos ali, para sua
 bênção e nossa.\
 \
+
 1. As maiores autoridades (אABCDE) com apoio adequado das cursivas e
-versões, a al., apoiam o verbo finito contra o particípio em HLP e a
-massa de cursivas e Text.Rec.
+   versões, a al., apoiam o verbo finito contra o particípio em HLP e a
+   massa de cursivas e Text.Rec.
 
 2\. As mais antigas leem a copulativa contra a maioria e Text.Rec.; como
 elas dão είς em vez de κατά, e adicionam "Ιησυο.

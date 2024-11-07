@@ -1,11 +1,13 @@
 ---
 title: Atos 24
-date: '2024-07-20'
-excerpt: ''
+date: "2024-07-20"
+excerpt: ""
 author: William Kelly
 tags: []
 status: published
+translatedFrom: https://bibletruthpublishers.com/acts-24/william-kelly-wk/an-exposition-of-the-acts-of-the-apostles/w-kelly/la155027
 ---
+
 O rancor religioso é rápido e incansável. Decepcionado com sua presa
 pela violência ilegal, ele não perde tempo em se valer de processos
 legais, onde o abuso sem escrúpulos pode ter sucesso, mesmo que o juiz
@@ -376,6 +378,7 @@ Félix provou plenamente sua depravação. Na verdade, Félix só foi
 protegido da punição justa por suas múltiplas atrocidades pela
 influência de seu irmão com o imperador.\
 \
+
 1. τιν ῶν אABE e outros.
 
 2\. διορθωμάτων a leitura mais antiga, em vez de κατορθωμάτων, como no

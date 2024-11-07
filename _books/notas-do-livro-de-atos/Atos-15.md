@@ -1,11 +1,13 @@
 ---
 title: Atos 15
-date: '2024-07-20'
-excerpt: ''
+date: "2024-07-20"
+excerpt: ""
 author: William Kelly
 tags: []
 status: published
+translatedFrom: https://bibletruthpublishers.com/acts-15/william-kelly-wk/an-exposition-of-the-acts-of-the-apostles/w-kelly/la155018
 ---
+
 O Espírito de Deus nos traz a seguir o primeiro sinal de trabalho da
 judaização que estava destinada a desempenhar uma parte profunda, ampla
 e permanente na história da igreja de Deus. \"E alguns homens desceram
@@ -542,8 +544,7 @@ expressou da primeira maneira, como era o sentimento em outros lugares
 nos primeiros dias do testemunho do grande apóstolo. Compare Atos 11:30;
 12:25; 13:2, 7. Mas o capítulo 13:13 marca uma grande mudança, como
 vemos nos versículos 43, 46, 50 (mas não 14:14). O leitor do Antigo
-Testamento pode encontrar um princípio semelhante em Êx. 6:13, 20, 26 e
-27. Na ordem da natureza é \"Aarão e Moisés\" (1 Crônicas 23:13); na
+Testamento pode encontrar um princípio semelhante em Êx. 6:13, 20, 26 e 27. Na ordem da natureza é \"Aarão e Moisés\" (1 Crônicas 23:13); na
 graça soberana torna-se \"Moisés e Aarão\" (Salmos 106:16). O autor do
 Antigo e do Novo é o mesmo, e só pode ser o próprio Deus trabalhando no
 homem por meio de Seu Espírito infalível.
@@ -821,9 +822,10 @@ escrituras, e o ensino contínuo chama a atenção para os detalhes, bem
 como para a verdade como um todo na pessoa de Cristo. Assim, as
 assembleias são confirmadas segundo Deus.\
 \
+
 1. A forma crítica ou aorística, como em אABCD e muitas cursivas, é
-preferível. O Text.Rec., embora amplamente suportado, implica
-continuidade ou hábito, o que não se aplica aqui.
+   preferível. O Text.Rec., embora amplamente suportado, implica
+   continuidade ou hábito, o que não se aplica aqui.
 
 2\. Text Rec. seguido pela Versão Autorizada e muitos tem \"portanto\",
 e até mesmo Lachmann adere a ela, como AEHP e a maioria das cursivas a

@@ -1,11 +1,13 @@
 ---
 title: Atos 14
-date: '2024-07-20'
-excerpt: ''
+date: "2024-07-20"
+excerpt: ""
 author: William Kelly
 tags: []
 status: published
+translatedFrom: https://bibletruthpublishers.com/acts-14/william-kelly-wk/an-exposition-of-the-acts-of-the-apostles/w-kelly/la155017
 ---
+
 Se a Antioquia da Pisídia só foi identificada recentemente, não há
 dúvida de que Koniyeh, uma cidade considerável com cerca de quarenta mil
 almas, representa em nossos dias Icônio, o cenário alterado dos
@@ -387,8 +389,9 @@ alojaram em seus galhos (Mt. 13:31, 32)!
 Devemos ter em mente que a estada de Paulo e Barnabé em seu retorno a
 Antioquia não foi curta.\
 \
+
 1. As cursivas ELP e mast apoiam o recebido ἀπειθοῦντες, mas as mais
-antigas dão ἀπειθήσαντες, um ato concluído.
+   antigas dão ἀπειθήσαντες, um ato concluído.
 
 2\. DE, et at, adicionam no final do ver.2, "mas o Senhor deu
 (rapidamente) paz". Não tem selo de verdade. Ele estava realmente

@@ -5,6 +5,7 @@ excerpt: ""
 author: William Kelly
 tags: []
 status: published
+translatedFrom: https://bibletruthpublishers.com/notes-on-1-corinthians-16-1-12/william-kelly-wk/w-kelly/lac143274-lub-16164-5
 ---
 
 Outro tópico muito diferente reivindicou o serviço do apóstolo, porque

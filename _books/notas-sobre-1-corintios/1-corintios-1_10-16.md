@@ -5,6 +5,7 @@ excerpt: ""
 author: William Kelly
 tags: []
 status: published
+translatedFrom: https://bibletruthpublishers.com/notes-on-1-corinthians-1-10-16/william-kelly-wk/w-kelly/lac143232-lub-16164-5
 ---
 
 O apóstolo começa agora a tocar em um dos males que particularmente

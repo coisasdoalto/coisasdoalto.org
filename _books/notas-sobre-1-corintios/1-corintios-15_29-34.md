@@ -5,6 +5,7 @@ excerpt: ""
 author: William Kelly
 tags: []
 status: published
+translatedFrom: https://bibletruthpublishers.com/notes-on-1-corinthians-15-29-34/william-kelly-wk/w-kelly/lac143271-lub-16164-5
 ---
 
 O apóstolo retoma agora o raciocínio interrompido pelo grande parêntese

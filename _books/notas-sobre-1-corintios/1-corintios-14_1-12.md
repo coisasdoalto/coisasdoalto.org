@@ -5,6 +5,7 @@ excerpt: ""
 author: William Kelly
 tags: []
 status: published
+translatedFrom: https://bibletruthpublishers.com/notes-on-1-corinthians-14-1-12/william-kelly-wk/w-kelly/lac143265-lub-16164-5
 ---
 
 Aqui chegamos à aplicação do amor. Abençoada como sempre e em todos os

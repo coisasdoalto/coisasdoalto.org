@@ -5,6 +5,7 @@ excerpt: ""
 author: William Kelly
 tags: []
 status: published
+translatedFrom: https://bibletruthpublishers.com/notes-on-1-corinthians-15-12-19/william-kelly-wk/w-kelly/lac143269-lub-16164-5
 ---
 
 Tendo assim mostrado o imenso cuidado com que Deus havia providenciado

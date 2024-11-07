@@ -5,6 +5,7 @@ excerpt: ""
 author: Wiliiam Kelly
 tags: []
 status: published
+translatedFrom: https://bibletruthpublishers.com/notes-on-1-corinthians-1-26-31/william-kelly-wk/w-kelly/lac143235-lub-16164-5
 ---
 
 O apóstolo continua seu tema: a aniquilação pela cruz de Cristo de todo

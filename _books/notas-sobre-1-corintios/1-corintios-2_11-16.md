@@ -5,6 +5,7 @@ excerpt: ""
 author: William Kelly
 tags: []
 status: published
+translatedFrom: https://bibletruthpublishers.com/notes-on-1-corinthians-2-11-16/william-kelly-wk/w-kelly/lac143237-lub-16164-5
 ---
 
 É o Espírito Santo, então, por quem Deus nos revelou o que antigamente

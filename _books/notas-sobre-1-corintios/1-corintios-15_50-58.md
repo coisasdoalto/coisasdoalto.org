@@ -5,6 +5,7 @@ excerpt: ""
 author: William Kelly
 tags: []
 status: published
+translatedFrom: https://bibletruthpublishers.com/notes-on-1-corinthians-15-50-58/william-kelly-wk/w-kelly/lac143273-lub-16164-5
 ---
 
 Assim, o homem moribundo e o Homem do poder da ressurreição se opõem

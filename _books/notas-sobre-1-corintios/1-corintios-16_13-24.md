@@ -5,6 +5,7 @@ excerpt: ""
 author: William Kelly
 tags: []
 status: published
+translatedFrom: https://bibletruthpublishers.com/notes-on-1-corinthians-16-13-24/william-kelly-wk/w-kelly/lac143275-lub-16164-5
 ---
 
 Após esses detalhes, o apóstolo dá algumas palavras concisas de

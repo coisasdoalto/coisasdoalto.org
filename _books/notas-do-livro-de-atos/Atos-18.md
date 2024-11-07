@@ -1,11 +1,13 @@
 ---
 title: Atos 18
-date: '2024-07-20'
-excerpt: ''
+date: "2024-07-20"
+excerpt: ""
 author: William Kelly
 tags: []
 status: published
+translatedFrom: https://bibletruthpublishers.com/acts-18/william-kelly-wk/an-exposition-of-the-acts-of-the-apostles/w-kelly/la155021
 ---
+
 Em nítida distinção de Atenas está o trato da graça divina com Corinto,
 a rica capital da Acaia, a província do sul da Grécia sob o Império
 Romano. Para lá o apóstolo se dirigiu após sua breve visita a Atenas:
@@ -975,8 +977,9 @@ edificados por seus meios. Pois Apolo podia trabalhar com uma força além
 daqueles que o haviam conduzido em particular. Essa é a maneira bíblica
 de obter um bom grau e muita ousadia na fé que está em Cristo Jesus.\
 \
+
 1. Bons MSS.add ό Παῦλος como no Text.Rec., o Autorizado e outras
-Versões, mas os melhores omitem.
+   Versões, mas os melhores omitem.
 
 2\. A forma varia em cópias, com o mesmo sentido em substância, em todas
 as palavras assim marcadas.

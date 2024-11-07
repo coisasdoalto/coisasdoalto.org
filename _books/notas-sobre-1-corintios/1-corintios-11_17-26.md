@@ -5,6 +5,7 @@ excerpt: ""
 author: William Kelly
 tags: []
 status: published
+translatedFrom: https://bibletruthpublishers.com/notes-on-1-corinthians-11-17-26/william-kelly-wk/w-kelly/lac143258-lub-16164-5
 ---
 
 O apóstolo havia resolvido a questão da ordem apropriada em relação às

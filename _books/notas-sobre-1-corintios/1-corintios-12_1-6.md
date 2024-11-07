@@ -5,6 +5,7 @@ excerpt: ""
 author: William Kelly
 tags: []
 status: published
+translatedFrom: https://bibletruthpublishers.com/notes-on-1-corinthians-12-1-6/william-kelly-wk/w-kelly/lac143260-lub-16164-5
 ---
 
 Pode ser bom observar aqui a sabedoria de Deus em fornecer a revelação

@@ -1,11 +1,13 @@
 ---
 title: Atos 5
-date: '2024-07-20'
-excerpt: ''
+date: "2024-07-20"
+excerpt: ""
 author: William Kelly
 tags: []
 status: published
+translatedFrom: https://bibletruthpublishers.com/acts-5/william-kelly-wk/an-exposition-of-the-acts-of-the-apostles/w-kelly/la155008
 ---
+
 A manifestação da graça provoca o adversário, e a carne alegremente
 ganharia o maior crédito para si mesma com o menor custo possível. Era
 cedo para esquecer que Deus tinha acabado de fazer da assembleia Sua
@@ -808,24 +810,25 @@ zelo que não seria abatido pela prisão, pelo açoite ou pela própria
 morte, como veremos no devido tempo. E Deus, em honra a Seu Filho,
 despertaria outros para imitá-los como eles imitaram a Cristo.\
 \
+
 1. Os MSS e versões mais antigos rejeitam \"o sacerdote e\" como no
-Texto Recebido. Mas enquanto alguém pode entender prontamente a omissão
-por ignorância da frase, é difícil ver como algumas boas cópias, assim
-como muitas, a aceitaram a menos que fossem genuínas. \"Proclivi
-lectioni praestat ardua\" é uma máxima reconhecida em tais assuntos. O
-fato é, no entanto, que no Antigo Testamento o uso de \"o sacerdote\"
-para \"o sumo sacerdote\" é comum. Veja Êx. 29:30; 35:19; 38:21; Lev.
-4:5, 6, 7, 10, 16; 5:22; 13:2; 16:32; 21:21; Num. 3:6, 32; 4:16, 28, 33;
-7:8; 16:37, 39; 18:28; 25:7, 11; 26:1, 3, 63; 27:2, 19, 21, 22; 31:6,
-12, 13, 21, 26, 29, 31, 41, 51, 54; 32:2, 28; 33, 38; 34:17. E não é
-apenas nos livros de Moisés que encontramos o uso de \"sacerdote\" com
-tanta frequência para \"sumo sacerdote\"; pois assim é em Jos. 14; 17;
-19; 21; 22; assim em 1 e 2 Sam.; 1 e 2 Reis; 1 e 2 Crônicas. Assim, o
-Senhor é predito no Salmo 110; Zac. 6 Não somos levados, como Krebs
-parece ter suposto, aos Apócrifos (1 Mac. 15:1, 2), embora o uso esteja
-lá, e em Josefo (A. 6:12, 1), a quem ele se refere no próprio Novo
-Testamento, compare Hb. 5:6 e (para não falar de 7:5) 7:3, 11, 15, 17,
-21; 8:4; 10:21.
+   Texto Recebido. Mas enquanto alguém pode entender prontamente a omissão
+   por ignorância da frase, é difícil ver como algumas boas cópias, assim
+   como muitas, a aceitaram a menos que fossem genuínas. \"Proclivi
+   lectioni praestat ardua\" é uma máxima reconhecida em tais assuntos. O
+   fato é, no entanto, que no Antigo Testamento o uso de \"o sacerdote\"
+   para \"o sumo sacerdote\" é comum. Veja Êx. 29:30; 35:19; 38:21; Lev.
+   4:5, 6, 7, 10, 16; 5:22; 13:2; 16:32; 21:21; Num. 3:6, 32; 4:16, 28, 33;
+   7:8; 16:37, 39; 18:28; 25:7, 11; 26:1, 3, 63; 27:2, 19, 21, 22; 31:6,
+   12, 13, 21, 26, 29, 31, 41, 51, 54; 32:2, 28; 33, 38; 34:17. E não é
+   apenas nos livros de Moisés que encontramos o uso de \"sacerdote\" com
+   tanta frequência para \"sumo sacerdote\"; pois assim é em Jos. 14; 17;
+   19; 21; 22; assim em 1 e 2 Sam.; 1 e 2 Reis; 1 e 2 Crônicas. Assim, o
+   Senhor é predito no Salmo 110; Zac. 6 Não somos levados, como Krebs
+   parece ter suposto, aos Apócrifos (1 Mac. 15:1, 2), embora o uso esteja
+   lá, e em Josefo (A. 6:12, 1), a quem ele se refere no próprio Novo
+   Testamento, compare Hb. 5:6 e (para não falar de 7:5) 7:3, 11, 15, 17,
+   21; 8:4; 10:21.
 
 2\. As cópias maiores excluem \"Seu\"; mas a estranha leitura de B
 fortalece EHP e a massa em mantê-la.

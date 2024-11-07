@@ -5,6 +5,7 @@ excerpt: ""
 author: William Kelly
 tags: []
 status: published
+translatedFrom: https://bibletruthpublishers.com/notes-on-1-corinthians-12-16-31/william-kelly-wk/w-kelly/lac143263-lub-16164-5
 ---
 
 Vimos, então, que Deus constituiu o corpo de Cristo, como o natural,

@@ -5,6 +5,7 @@ excerpt: ""
 author: William Kelly
 tags: []
 status: published
+translatedFrom: https://bibletruthpublishers.com/notes-on-1-corinthians-5-9-13/william-kelly-wk/w-kelly/lac143246-lub-16164-5
 ---
 
 O APÓSTOLO agora estabelece a direção do Senhor quanto aos confessores

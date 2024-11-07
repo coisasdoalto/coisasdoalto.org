@@ -1,11 +1,13 @@
 ---
 title: Atos 25
-date: '2024-07-20'
-excerpt: ''
+date: "2024-07-20"
+excerpt: ""
 author: William Kelly
 tags: []
 status: published
+translatedFrom: https://bibletruthpublishers.com/acts-25/william-kelly-wk/an-exposition-of-the-acts-of-the-apostles/w-kelly/la155028
 ---
+
 O novo governador, Festo, deu uma nova oportunidade aos judeus.
 Moralmente mais respeitável que Félix, ele não conhecia a Deus e,
 portanto, não era confiável para o homem. A fé para ele era

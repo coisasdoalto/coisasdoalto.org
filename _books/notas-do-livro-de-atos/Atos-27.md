@@ -1,11 +1,13 @@
 ---
 title: Atos 27
-date: '2024-07-20'
-excerpt: ''
+date: "2024-07-20"
+excerpt: ""
 author: William Kelly
 tags: []
 status: published
+translatedFrom: https://bibletruthpublishers.com/acts-27/william-kelly-wk/an-exposition-of-the-acts-of-the-apostles/w-kelly/la155030
 ---
+
 Em seguida, vem a viagem do apóstolo a Roma, uma narrativa cheia de
 interesse em todos os sentidos. Que crente pode deixar de encontrar
 refrigério e alegria ao ponderar sobre seus detalhes e ver o prisioneiro
@@ -70,8 +72,7 @@ que ele estava na Palestina não aparece: se lá, podemos entender
 prontamente que os prisioneiros e soldados estivessem sob sua
 responsabilidade em seu retorno a Roma.
 
-Parece surpreendente que haja a menor dúvida sobre "Ásia" no versículo
-2. Nem o continente, nem mesmo a Ásia Menor são mencionados, mas a
+Parece surpreendente que haja a menor dúvida sobre "Ásia" no versículo 2. Nem o continente, nem mesmo a Ásia Menor são mencionados, mas a
 província romana, que era apenas a costa oeste desta última, de acordo
 com o uso do Livro.
 
@@ -395,9 +396,10 @@ se despedaçava. Todos chegaram em segurança à costa, como nos diz o
 versículo 44. A promessa foi cumprida, para a glória de Deus, como um
 Deus vivo e Criador fiel.\
 \
+
 1. μἐλλοντι (ou seja, o navio) אAB, cerca de 30 cursivos e as versões
-antigas; μέλλοντες (ou seja, nós) Text.Rec. com o qual concorda HLP e a
-maioria dos MSS.
+   antigas; μέλλοντες (ou seja, nós) Text.Rec. com o qual concorda HLP e a
+   maioria dos MSS.
 
 2\. εἰς é duvidoso, mas o sentido permanece.
 
