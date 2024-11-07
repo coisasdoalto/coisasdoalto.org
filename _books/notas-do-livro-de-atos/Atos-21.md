@@ -1,11 +1,13 @@
 ---
 title: Atos 21
-date: '2024-07-20'
-excerpt: ''
+date: "2024-07-20"
+excerpt: ""
 author: William Kelly
 tags: []
 status: published
+translatedFrom: https://bibletruthpublishers.com/acts-21/william-kelly-wk/an-exposition-of-the-acts-of-the-apostles/w-kelly/la155024
 ---
+
 O curso público do apóstolo foi encerrado, até onde as escrituras nos
 informam. Os capítulos restantes de Atos são ocupados quase inteiramente
 com a história pessoal do apóstolo, especialmente sua colisão com os
@@ -597,8 +599,9 @@ atribuída, mas em Jerusalém, buscando reconciliar o irreconciliável. É
 demais dizer que aqui parecia haver a fraqueza de alguém que era forte
 pela graça além de todos os outros em seu próprio terreno?\
 \
+
 1. Paulo, e nós que estávamos com ele\", é uma leitura posterior, que se
-infiltrou no Text.Rec., na Versão Autorizada, et al.
+   infiltrou no Text.Rec., na Versão Autorizada, et al.
 
 2\. \"Zelotes putantes saepe errant (Bengelius); \"Fanáticos muitas
 vezes erram em suas suposições\".

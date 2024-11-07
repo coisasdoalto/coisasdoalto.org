@@ -1,11 +1,13 @@
 ---
 title: Atos 4
-date: '2024-07-20'
-excerpt: ''
+date: "2024-07-20"
+excerpt: ""
 author: William Kelly
 tags: []
 status: published
+translatedFrom: https://bibletruthpublishers.com/acts-4/william-kelly-wk/an-exposition-of-the-acts-of-the-apostles/w-kelly/la155007
 ---
+
 O discurso do apóstolo foi interrompido neste ponto, mas isso se perde
 para muitos leitores pela divisão dos capítulos.
 
@@ -784,8 +786,9 @@ interesses outrora conflitantes: tal é agora o doce efeito de sua
 unidade no Pai e no Filho, para que o mundo creia que o Pai enviou o
 Filho.\
 \
+
 1. A leitura mais antiga, aqui seguida, parece difícil ou pelo menos
-confusa.
+   confusa.
 
 2\. O artigo é exigido pelas melhores autoridades: uma prova clara, se
 necessário, de que o Espírito Santo pessoalmente está em questão, não

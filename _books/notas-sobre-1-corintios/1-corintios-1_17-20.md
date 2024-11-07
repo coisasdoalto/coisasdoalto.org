@@ -5,6 +5,7 @@ excerpt: ""
 author: William Kelly
 tags: []
 status: published
+translatedFrom: https://bibletruthpublishers.com/notes-on-1-corinthians-1-17-20/william-kelly-wk/w-kelly/lac143233-lub-16164-5
 ---
 
 Não é que o apóstolo Paulo despreze o batismo: quem poderia fazer isso

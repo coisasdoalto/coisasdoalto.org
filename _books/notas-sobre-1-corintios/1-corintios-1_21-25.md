@@ -5,6 +5,7 @@ excerpt: ""
 author: William Kelly
 tags: []
 status: published
+translatedFrom: https://bibletruthpublishers.com/notes-on-1-corinthians-1-21-25/william-kelly-wk/w-kelly/lac143234-lub-16164-5
 ---
 
 Havia homens que ousavam chamar a pregação da cruz de Cristo de loucura.

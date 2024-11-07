@@ -1,11 +1,13 @@
 ---
 title: Atos 8
-date: '2024-07-20'
-excerpt: ''
+date: "2024-07-20"
+excerpt: ""
 author: William Kelly
 tags: []
 status: published
+translatedFrom: https://bibletruthpublishers.com/acts-8/william-kelly-wk/an-exposition-of-the-acts-of-the-apostles/w-kelly/la155011
 ---
+
 Exteriormente, a morte de Estevão também foi a época em que o espírito
 assassino, provocado por seu testemunho solene e destemido, irrompeu
 contra todos que levavam o nome do Senhor.
@@ -824,8 +826,7 @@ mesma linha, tanto antes quanto depois, dão testemunho de Sua exaltação;
 mas aqui são simplesmente sofrimentos --- a principal dificuldade para
 um judeu, que pensava exclusivamente em Seu reino glorioso. Daí a
 propriedade do nome \"Jesus\" na aplicação da profecia por Filipe (v.
-35): o mais impressionante porque o Espírito inspirador havia dito (v.
-5) que Filipe proclamou \"o Cristo\" ou Messias aos samaritanos. A
+35): o mais impressionante porque o Espírito inspirador havia dito (v. 5) que Filipe proclamou \"o Cristo\" ou Messias aos samaritanos. A
 ignorância, letrada ou iletrada, despreza essas distinções, censura
 aqueles que as apontam como refinamento das escrituras e, assim,
 realmente perde a força da verdade. Pois Deus não escreveu uma palavra
@@ -955,8 +956,9 @@ todas as cidades até chegar a Cesareia. É lá que a história inspirada
 mostra que ele viveu, e suas quatro filhas, muito tempo depois (Atos
 21:8).\
 \
+
 1. A primeira mão do Sinaitic deixa de fora a cópula, com duas cursivas,
-que Tischendorf adota singularmente. É tão necessário quanto no ver.2.
+   que Tischendorf adota singularmente. É tão necessário quanto no ver.2.
 
 2\. O manuscrito de Laud, E, dá o aoristo aqui e adiciona \"de Deus\" no
 final do ver. 4, em ambos com falhas, no último com várias versões.

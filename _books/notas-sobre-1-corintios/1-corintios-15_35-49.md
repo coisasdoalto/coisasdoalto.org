@@ -5,6 +5,7 @@ excerpt: ""
 author: William Kelly
 tags: []
 status: published
+translatedFrom: https://bibletruthpublishers.com/notes-on-1-corinthians-15-35-49/william-kelly-wk/w-kelly/lac143272-lub-16164-5
 ---
 
 O apóstolo passa do aviso para responder a objeções na forma de

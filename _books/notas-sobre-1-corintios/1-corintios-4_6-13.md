@@ -5,6 +5,7 @@ excerpt: ""
 author: William Kelly
 tags: []
 status: published
+translatedFrom: https://bibletruthpublishers.com/notes-on-1-corinthians-4-6-13/william-kelly-wk/w-kelly/lac143242-lub-16164-5
 ---
 
 O apóstolo havia, portanto, estabelecido tanto a dependência do servo ao

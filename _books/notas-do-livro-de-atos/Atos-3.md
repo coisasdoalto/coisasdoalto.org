@@ -1,11 +1,13 @@
 ---
 title: Atos 3
-date: '2024-07-20'
-excerpt: ''
+date: "2024-07-20"
+excerpt: ""
 author: William Kelly
 tags: []
 status: published
+translatedFrom: https://bibletruthpublishers.com/acts-3/william-kelly-wk/an-exposition-of-the-acts-of-the-apostles/w-kelly/la155006
 ---
+
 Agora Pedro e João estavam subindo ao templo na hora da oração, a nona.
 E um certo homem, coxo desde o ventre de sua mãe, era carregado, a quem
 eles colocavam todos os dias à porta do templo chamada Bela, para pedir

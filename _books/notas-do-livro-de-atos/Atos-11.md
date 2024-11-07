@@ -1,11 +1,13 @@
 ---
 title: Atos 11
-date: '2024-07-20'
-excerpt: ''
+date: "2024-07-20"
+excerpt: ""
 author: William Kelly
 tags: []
 status: published
+translatedFrom: https://bibletruthpublishers.com/acts-11/william-kelly-wk/an-exposition-of-the-acts-of-the-apostles/w-kelly/la155014
 ---
+
 Nunca houve um passo tão importante dado pelo homem na terra; nunca um
 que exigisse fé tão urgente e evidentemente como agora. Portanto, embora
 a assembleia estivesse então em sua ordem e beleza primitivas com os
@@ -422,11 +424,12 @@ Novo Testamento; mais ainda, contradiz a constituição fundamental da
 assembleia na qual Deus estabelece toda a variedade de dons para
 exercício dentro e fora.\
 \
+
 1. Alford considera que πιστἑυσασιν pertence tanto a \"eles\" quanto a
-\"nós\", e expressa a comunhão da fé nas duas partes; mas embora ambos,
-é claro, tenham acreditado da mesma forma, isso é interpretar mal o
-raciocínio que se baseia na evidência clara do Espírito dado \"em nossa
-crença\".
+   \"nós\", e expressa a comunhão da fé nas duas partes; mas embora ambos,
+   é claro, tenham acreditado da mesma forma, isso é interpretar mal o
+   raciocínio que se baseia na evidência clara do Espírito dado \"em nossa
+   crença\".
 
 2\. Outra observação deve ser feita aqui, embora seja lamentável que
 seja necessária. Quando Cornélio foi assegurado de que seria salvo ao

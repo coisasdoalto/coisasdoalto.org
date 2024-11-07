@@ -1,11 +1,13 @@
 ---
 title: Atos 20
-date: '2024-07-20'
-excerpt: ''
+date: "2024-07-20"
+excerpt: ""
 author: William Kelly
 tags: []
 status: published
+translatedFrom: https://bibletruthpublishers.com/acts-20/william-kelly-wk/an-exposition-of-the-acts-of-the-apostles/w-kelly/la155023
 ---
+
 Parece, pela Epístola aos Coríntios, que a reunião tumultuada no teatro
 foi apenas um incidente de uma crise perigosa em Éfeso (1 Cor. 15:32).
 Certamente o apóstolo não deixou a cidade até que houvesse uma calmaria.
@@ -1190,6 +1192,7 @@ formas criava um trono para si mesma, tão longe da mente de Cristo
 quanto a terra do céu. Mas tenhamos cuidado para que nosso amor não
 esfrie na presença da abundante iniquidade.\
 \
+
 1. A maioria apoia o primeiro, o melhor o último.
 
 2\. No versículo 3, variedades estruturais aparecem nas cópias.

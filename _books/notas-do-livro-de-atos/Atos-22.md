@@ -1,11 +1,13 @@
 ---
 title: Atos 22
-date: '2024-07-20'
-excerpt: ''
+date: "2024-07-20"
+excerpt: ""
 author: William Kelly
 tags: []
 status: published
+translatedFrom: https://bibletruthpublishers.com/acts-22/william-kelly-wk/an-exposition-of-the-acts-of-the-apostles/w-kelly/la155025
 ---
+
 Na parte anterior deste Livro, tivemos a história da conversão do
 apóstolo em sua ordem histórica, influenciando profundamente o progresso
 do evangelho e a revelação da verdade cristã. Aqui, temos o relato disso
@@ -519,9 +521,10 @@ e ter permissão para responder por si mesma quanto à acusação
 apresentada contra ela. Primeiro, no entanto, o comandante procurou
 saber qual era a acusação.\
 \
+
 1. O Texto. Rec. acrescenta em grande autoridade de MSS. et al., καί
-ἔμφοβοι ἐγένοντο, "e eles ficaram assustados", mas NAM, vários cursivos
-e as melhores versões deixam as palavras de fora.
+   ἔμφοβοι ἐγένοντο, "e eles ficaram assustados", mas NAM, vários cursivos
+   e as melhores versões deixam as palavras de fora.
 
 2\. No cap. 9, φωνή "som" ou "voz" está no genitivo e meramente
 partitivo; no cap. 22, é o acusativo que tem o maior impacto sobre o

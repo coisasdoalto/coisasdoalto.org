@@ -1,11 +1,13 @@
 ---
 title: Atos 13
-date: '2024-07-20'
-excerpt: ''
+date: "2024-07-20"
+excerpt: ""
 author: William Kelly
 tags: []
 status: published
+translatedFrom: https://bibletruthpublishers.com/acts-13/william-kelly-wk/an-exposition-of-the-acts-of-the-apostles/w-kelly/la155016
 ---
+
 Pedro, com exceção de sua parte no concílio realizado em Jerusalém (cap.
 15), desaparece da história inspirada diante de nós. Outra figura não
 apenas ganha destaque, mas também centralidade, mesmo a partir deste, o
@@ -950,8 +952,9 @@ para outra cidade, mas sacudindo o pó de seus pés contra seus
 perseguidores; enquanto a alegria no Espírito Santo enchia os
 discípulos, deixados para trás como ovelhas no meio de lobos.\
 \
+
 1. א ABD, mais de seis cursivos, et al., e quase todas as Versões
-antigas não leem τινες "alguns" ou "certos", como na maioria.
+   antigas não leem τινες "alguns" ou "certos", como na maioria.
 
 2\. Text.Rec. tem τε com pouca autoridade, mas τόν antes de Σαῦλον tem
 grande apoio.

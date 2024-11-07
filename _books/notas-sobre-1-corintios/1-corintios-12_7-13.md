@@ -5,6 +5,7 @@ excerpt: ""
 author: William Kelly
 tags: []
 status: published
+translatedFrom: https://bibletruthpublishers.com/notes-on-1-corinthians-12-7-13/william-kelly-wk/w-kelly/lac143261-lub-16164-5
 ---
 
 VAMOS em seguida para as distinções individuais, as formas especiais do

@@ -1,11 +1,13 @@
 ---
 title: Atos 7
-date: '2024-07-20'
-excerpt: ''
+date: "2024-07-20"
+excerpt: ""
 author: William Kelly
 tags: []
 status: published
+translatedFrom: https://bibletruthpublishers.com/acts-7/william-kelly-wk/an-exposition-of-the-acts-of-the-apostles/w-kelly/la155010
 ---
+
 O notável testemunho de Estêvão agora vem até nós. Era apropriado que o
 devoto helenista, em vez de qualquer dos doze, abrisse novos caminhos e
 preparasse o caminho para a divulgação mais ampla da verdade, logo após
@@ -1220,10 +1222,11 @@ caminhos, e os meus pensamentos mais altos do que os vossos pensamentos"
 diante de Deus; mas aquele que se gloriar, glorie-se no Senhor. Assim
 está escrito (1 Coríntios 1:29, 31).\
 \
+
 1. Philo (Ed. Richter, iv.20) está totalmente errado ao negar que Deus
-apareceu a Abraão na Mesopotâmia, confinando a visão a Gênesis 12:7,
-assim como os judeus que atacaram Estêvão. As observações de Dean Alford
-são piores do que \"imprecisas\".
+   apareceu a Abraão na Mesopotâmia, confinando a visão a Gênesis 12:7,
+   assim como os judeus que atacaram Estêvão. As observações de Dean Alford
+   são piores do que \"imprecisas\".
 
 2\. Foi exatamente 400 anos após a expulsão da escrava egípcia e seu
 filho Ismael, o início daquela \"perseguição da linha da promessa que

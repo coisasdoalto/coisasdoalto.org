@@ -5,6 +5,7 @@ excerpt: ""
 author: William Kelly
 tags: []
 status: published
+translatedFrom: https://bibletruthpublishers.com/notes-on-1-corinthians-1-4-9/william-kelly-wk/w-kelly/lac143231-lub-16164-5
 ---
 
 Após seu discurso e saudação habitual, a primeira coisa que o apóstolo

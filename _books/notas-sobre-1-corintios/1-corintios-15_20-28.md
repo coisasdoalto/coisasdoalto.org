@@ -5,6 +5,7 @@ excerpt: ""
 author: William Kelly
 tags: []
 status: published
+translatedFrom: https://bibletruthpublishers.com/notes-on-1-corinthians-15-20-28/william-kelly-wk/w-kelly/lac143270-lub-16164-5
 ---
 
 O apóstolo, tendo assim levado ao clímax do absurdo as consequências que

@@ -5,6 +5,7 @@ excerpt: ""
 author: William Kelly
 tags: []
 status: published
+translatedFrom: https://bibletruthpublishers.com/notes-on-1-corinthians-7-25-40/william-kelly-wk/w-kelly/lac143250-lub-16164-5
 ---
 
 O apóstolo havia falado sobre a relação conjugal, cristãos de ambos os

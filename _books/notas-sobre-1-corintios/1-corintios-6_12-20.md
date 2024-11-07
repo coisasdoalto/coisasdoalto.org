@@ -5,6 +5,7 @@ excerpt: ""
 author: William Kelly
 tags: []
 status: published
+translatedFrom: https://bibletruthpublishers.com/notes-on-1-corinthians-6-12-20/william-kelly-wk/w-kelly/lac143247-lub-16164-5
 ---
 
 O apóstolo passa a falar sobre os abusos carnais: o primeiro em relação

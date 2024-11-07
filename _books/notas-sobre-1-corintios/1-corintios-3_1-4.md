@@ -5,6 +5,7 @@ excerpt: ""
 author: William Kelly
 tags: []
 status: published
+translatedFrom: https://bibletruthpublishers.com/notes-on-1-corinthians-3-1-4/william-kelly-wk/w-kelly/lac143238-lub-16164-5
 ---
 
 Tal é, então, a ampla, completa e perfeita provisão de Deus para a

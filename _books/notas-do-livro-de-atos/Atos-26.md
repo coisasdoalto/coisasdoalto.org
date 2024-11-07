@@ -1,11 +1,13 @@
 ---
 title: Atos 26
-date: '2024-07-20'
-excerpt: ''
+date: "2024-07-20"
+excerpt: ""
 author: William Kelly
 tags: []
 status: published
+translatedFrom: https://bibletruthpublishers.com/acts-26/william-kelly-wk/an-exposition-of-the-acts-of-the-apostles/w-kelly/la155029
 ---
+
 Lucas descreve a cena vividamente diante de nós. O rei, cuja opinião o
 governador buscava e que também desejava ouvir, concede licença cortês,
 e o prisioneiro entra em sua defesa com a mão estendida. Sem dúvida, os
@@ -582,8 +584,9 @@ sofrer com Cristo, foi chamado no devido tempo para sofrer por Ele. No
 devido tempo, ele deveria ter seu desejo de se tornar conforme à morte
 de Cristo (Filipenses 3:9-11).\
 \
+
 1. Aqui e em outros lugares nestes versos ocorrem várias leituras que
-dificilmente afetam uma versão.
+   dificilmente afetam uma versão.
 
 2\. Beza adotou είδώς sozinho (em sua edição de 1582 e depois) \"em um
 código muito antigo\" - certamente um erro, pois os três cursivos que o

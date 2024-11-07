@@ -5,6 +5,7 @@ excerpt: ""
 author: William Kelly
 tags: []
 status: published
+translatedFrom: https://bibletruthpublishers.com/notes-on-1-corinthians-7-1-14/william-kelly-wk/w-kelly/lac143248-lub-16164-5
 ---
 
 Agora entramos em uma nova divisão da Epístola, embora sua abertura

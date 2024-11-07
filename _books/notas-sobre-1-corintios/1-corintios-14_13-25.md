@@ -5,6 +5,7 @@ excerpt: ""
 author: William Kelly
 tags: []
 status: published
+translatedFrom: https://bibletruthpublishers.com/notes-on-1-corinthians-14-13-25/william-kelly-wk/w-kelly/lac143266-lub-16164-5
 ---
 
 A edificação, então, é uma regra absoluta para o que é dito na

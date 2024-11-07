@@ -1,11 +1,13 @@
 ---
 title: Atos 10
-date: '2024-07-20'
-excerpt: ''
+date: "2024-07-20"
+excerpt: ""
 author: William Kelly
 tags: []
 status: published
+translatedFrom: https://bibletruthpublishers.com/acts-10/william-kelly-wk/an-exposition-of-the-acts-of-the-apostles/w-kelly/la155013
 ---
+
 A graça soberana de Deus para com todos os homens estava prestes a ter
 outro selo formal ainda mais conclusivo. Não bastava que os helenistas
 dispersos estivessem pregando o evangelho na ação livre do Espírito
@@ -532,8 +534,9 @@ externo de um cristão até que seja batizado. É um privilégio conferido
 àquele que confessa a Cristo e um sinal de salvação por meio de Sua
 morte e ressurreição.\
 \
+
 1. τε "ambos" está no Text.Rec. que LP apoia com a maioria das cursivas,
-et al., mas os mais antigos e melhores rejeitam.
+   et al., mas os mais antigos e melhores rejeitam.
 
 2\. As autoridades estão divididas, de modo que "um" aqui dificilmente é
 certo.

@@ -1,11 +1,13 @@
 ---
 title: Atos 2
-date: '2024-07-20'
-excerpt: ''
+date: "2024-07-20"
+excerpt: ""
 author: William Kelly
 tags: []
 status: published
+translatedFrom: https://bibletruthpublishers.com/acts-2/william-kelly-wk/an-exposition-of-the-acts-of-the-apostles/w-kelly/la155005
 ---
+
 A morte de Cristo, como o cordeiro pascal, ocorreu pontualmente no dia;
 assim como Sua ressurreição como a oferta de primícias; no entanto,
 nenhum santo conhecia o significado de ambos até que se tornassem fatos
@@ -670,9 +672,10 @@ construída. Mas Ele não esqueceu, portanto, Seu antigo povo. Em palavras
 e ações, Ele apelou à sua consciência, se por acaso eles se
 arrependessem, e Ele trouxesse os tempos de bênção preditos.\
 \
+
 1. Texto. Rec., seguido pela Versão Autorizada "com um acordo", tem
-όμοθυαοὸν com uma ou duas unciais e a maioria das cursivas; mas ομου,
-"junto", é a leitura de א ABC, et al.
+   όμοθυαοὸν com uma ou duas unciais e a maioria das cursivas; mas ομου,
+   "junto", é a leitura de א ABC, et al.
 
 2\. Alguns leem com אpm.DGr, algumas versões antigas e pais "eles"; mas
 ABCE, as cursivas e outras versões antigas apoiam o singular. O plural é

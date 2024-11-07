@@ -1,11 +1,13 @@
 ---
 title: Prefácio à Primeira Edição
-date: '2024-07-20'
-excerpt: ''
+date: "2024-07-20"
+excerpt: ""
 author: William Kelly
 tags: []
 status: published
+translatedFrom: https://bibletruthpublishers.com/acts-prefaces-to-the-first-edition/william-kelly-wk/an-exposition-of-the-acts-of-the-apostles/w-kelly/la155003
 ---
+
 \[Capítulos 1-14\]
 
 A natureza interessante e instrutiva deste livro inspirado, o

@@ -1,11 +1,13 @@
 ---
 title: Atos 17
-date: '2024-07-20'
-excerpt: ''
+date: "2024-07-20"
+excerpt: ""
 author: William Kelly
 tags: []
 status: published
+translatedFrom: https://bibletruthpublishers.com/acts-17/william-kelly-wk/an-exposition-of-the-acts-of-the-apostles/w-kelly/la155020
 ---
+
 Agora, somos trazidos a circunstâncias um tanto novas. A obra do Senhor
 continua, o testemunho varia em seu caráter, o zelo dos trabalhos é o
 mesmo, os resultados diferem mais ou menos, e assim também a oposição do
@@ -485,11 +487,12 @@ uma Dâmaris e outros, cujos nomes estão escritos no céu, se
 desconhecidos na terra. Que Cristo satisfaça sua alma, como bem pode
 Aquele que é tudo e em todos!\
 \
+
 1. O substantivo grego aqui, πολίαρχος, não πολίταρχος, é uma palavra,
-com seu verbo cognato, de ocorrência comum em Din Cassius, para prefeito
-ou comandante de uma cidade, além de seu uso mais amplo no passado como
-dito de um rei ou príncipe. Mas não o encontro aplicado a magistrados em
-cidades gregas, apenas ao prefeito de Roma.
+   com seu verbo cognato, de ocorrência comum em Din Cassius, para prefeito
+   ou comandante de uma cidade, além de seu uso mais amplo no passado como
+   dito de um rei ou príncipe. Mas não o encontro aplicado a magistrados em
+   cidades gregas, apenas ao prefeito de Roma.
 
 2\. Isso é expresso, não na expressão técnica grega mais antiga ἐγγὐη,
 mas no equivalente do latim satisdatio, τὸ ἰκανόν

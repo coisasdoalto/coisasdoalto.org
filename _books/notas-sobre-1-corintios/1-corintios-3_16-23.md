@@ -5,6 +5,7 @@ excerpt: ""
 author: William Kelly
 tags: []
 status: published
+translatedFrom: https://bibletruthpublishers.com/notes-on-1-corinthians-3-16-23/william-kelly-wk/w-kelly/lac143240-lub-16164-5
 ---
 
 A figura de um edifício com sua fundação, já usada, fornece ao apóstolo

@@ -1,11 +1,13 @@
 ---
 title: Atos 12
-date: '2024-07-20'
-excerpt: ''
+date: "2024-07-20"
+excerpt: ""
 author: William Kelly
 tags: []
 status: published
+translatedFrom: https://bibletruthpublishers.com/acts-12/william-kelly-wk/an-exposition-of-the-acts-of-the-apostles/w-kelly/la155015
 ---
+
 O último capítulo começou com a liberdade para os gentios, reivindicada
 em Jerusalém, e terminou com o amor fluindo para os irmãos na Judeia da
 assembleia em Antioquia. Isso levou Barnabé e Saulo a Jerusalém. Deus
@@ -285,6 +287,7 @@ Marcos se saiu. Se ele falhou, o amor não falhou. E a recuperação pela
 graça é preciosa em seu caminho, assim como é ainda mais a graça que
 capacita os fracos a permanecerem pela fé.\
 \
+
 1. Algumas autoridades importantes (א BHLP, et al.) omitem o artigo.
 
 2\. A forma adjetiva é mais comum nos MSS., assim como "para".

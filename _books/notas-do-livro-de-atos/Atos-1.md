@@ -1,11 +1,13 @@
 ---
 title: Atos 1
-date: '2024-07-20'
-excerpt: ''
+date: "2024-07-20"
+excerpt: ""
 author: William Kelly
 tags: []
 status: published
+translatedFrom: https://bibletruthpublishers.com/acts-1/william-kelly-wk/an-exposition-of-the-acts-of-the-apostles/w-kelly/la155004
 ---
+
 A narrativa de Lucas sobre nosso Senhor Jesus foi endereçada a um
 convertido cristão, assim como sua sequência que relata o dom do
 Espírito Santo enviado do céu, Sua presença e Sua operação, mais
@@ -385,7 +387,8 @@ mentes implicaria o contrário e mostraria que Lucas fala depois dos
 Doze. Supor que Paulo era o décimo segundo pretendido é antes rebaixar
 sua posição verdadeiramente peculiar e extraordinária\
 \
+
 1. Assim também em 2:29, 37; 7:2; 13:15, 26; 15:7, 13; 22:1; 23:1, 6;
-28:17.
+   28:17.
 
 2\. \"Ser ordenado para ser\" é a tradução infundada da A.V.

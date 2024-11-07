@@ -1,11 +1,13 @@
 ---
 title: Atos 6
-date: '2024-07-20'
-excerpt: ''
+date: "2024-07-20"
+excerpt: ""
 author: William Kelly
 tags: []
 status: published
+translatedFrom: https://bibletruthpublishers.com/acts-6/william-kelly-wk/an-exposition-of-the-acts-of-the-apostles/w-kelly/la155009
 ---
+
 A perseguição do cristão por causa de Cristo é uma honra de Deus
 (Filipenses 1:29), pois a graça a torna uma bênção para a igreja e um
 testemunho para o mundo. O perigo real vem de dentro, e isso ainda mais
@@ -399,14 +401,15 @@ evidência possível que a descrença intencional não possa evadir, nem
 mesmo se alguém ressuscitasse dos mortos, como nosso Senhor avisou
 (Lucas 16:31).\
 \
+
 1. É doloroso notar como os homens de conhecimento são propensos a
-desviar e diminuir as maravilhas da graça de Deus. Assim, Reza, Casaubon
-e Valckenaer mudariam o texto --- Elsner, Heinsius, Kühnöl e Wolf, o
-único uso legítimo da última cláusula --- para se livrar deste grande
-trabalho entre os sacerdotes. Existe algo muito difícil para o Senhor?
-Os sacerdotes eram a única classe sem esperança? O siríaco Peshito (não
-o filoxeniano) já havia cedido a uma descrença semelhante, e o árabe
-também, ambos omitindo qualquer menção aos sacerdotes.
+   desviar e diminuir as maravilhas da graça de Deus. Assim, Reza, Casaubon
+   e Valckenaer mudariam o texto --- Elsner, Heinsius, Kühnöl e Wolf, o
+   único uso legítimo da última cláusula --- para se livrar deste grande
+   trabalho entre os sacerdotes. Existe algo muito difícil para o Senhor?
+   Os sacerdotes eram a única classe sem esperança? O siríaco Peshito (não
+   o filoxeniano) já havia cedido a uma descrença semelhante, e o árabe
+   também, ambos omitindo qualquer menção aos sacerdotes.
 
 2\. Essa é a leitura de א ABD, de mais de vinte cursivos e das melhores
 versões antigas.

@@ -1,11 +1,13 @@
 ---
 title: Atos 28
-date: '2024-07-20'
-excerpt: ''
+date: "2024-07-20"
+excerpt: ""
 author: William Kelly
 tags: []
 status: published
+translatedFrom: https://bibletruthpublishers.com/acts-28/william-kelly-wk/an-exposition-of-the-acts-of-the-apostles/w-kelly/la155031
 ---
+
 A terra para a qual eles escaparam, eles posteriormente aprenderam ser
 Malta. Isso deveria estar além de controvérsia. No entanto, tem sido
 contestado até os dias de hoje. O primeiro que argumentou pela ilhota no
@@ -438,12 +440,13 @@ palavra; no entanto, mesmo assim, nada há para encorajar a curiosidade,
 a superstição ou a adoração de heróis, mas tudo o que Deus em todas as
 coisas pode ser glorificado por Jesus Cristo.\
 \
+
 1. Sua língua era então fundamentalmente púnica, pois originou-se da
-Fenícia, a grande fonte de empreendimentos orientais e marinha
-comercial. Assim também foi em Cartago. Mas Malta testemunhou mudanças
-radicais, e em nada mais do que em sua raça de habitantes e consequente
-língua, que agora é e há muito tempo é um dialeto árabe, por mais que se
-lisonjeiem com sua descendência dos fenícios.
+   Fenícia, a grande fonte de empreendimentos orientais e marinha
+   comercial. Assim também foi em Cartago. Mas Malta testemunhou mudanças
+   radicais, e em nada mais do que em sua raça de habitantes e consequente
+   língua, que agora é e há muito tempo é um dialeto árabe, por mais que se
+   lisonjeiem com sua descendência dos fenícios.
 
 2\. Há boas razões, com base em mais de uma inscrição antiga, para
 considerar \"o primeiro\" ou \"chefe\" como um título e não uma

@@ -5,6 +5,7 @@ excerpt: ""
 author: William Kelly
 tags: []
 status: published
+translatedFrom: https://bibletruthpublishers.com/notes-on-1-corinthians-10-1-11/william-kelly-wk/w-kelly/lac143254-lub-16164-5
 ---
 
 O apóstolo havia alertado os coríntios contra o descuido e a

@@ -1,11 +1,13 @@
 ---
 title: Atos 19
-date: '2024-07-20'
-excerpt: ''
+date: "2024-07-20"
+excerpt: ""
 author: William Kelly
 tags: []
 status: published
+translatedFrom: https://bibletruthpublishers.com/acts-19/william-kelly-wk/an-exposition-of-the-acts-of-the-apostles/w-kelly/la155022
 ---
+
 Aqui temos outro fato de profundo interesse, pois ilustra o estado de
 almas que ainda não foram favorecidas com o testemunho apostólico ou
 mesmo com o testemunho do evangelho mais comum. A graça de Cristo
@@ -838,8 +840,9 @@ assembleias desordenadas; que muitas vezes puniam com derramamento de
 sangue sem medida. Como seu discurso terminou com uma sugestão muito
 significativa, ele não teve dificuldade em dispensar a assembleia.\
 \
+
 1. Texto. Rec. ελθειν, BHL., a maioria das versões cursivas e; κατελθειν
-NAE, muitas versões cursivas, Arm.
+   NAE, muitas versões cursivas, Arm.
 
 2\. Texto. Rec. ειρων\...ειπεν, DEHLP, et al. ευρειν\...ειπεν אAB,
 várias versões cursivas, Vulg., et al.

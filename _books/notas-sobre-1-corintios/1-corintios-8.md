@@ -5,6 +5,7 @@ excerpt: ""
 author: William Kelly
 tags: []
 status: published
+translatedFrom: https://bibletruthpublishers.com/notes-on-1-corinthians-8/william-kelly-wk/w-kelly/lac143251-lub-16164-5
 ---
 
 O apóstolo agora se volta para outro assunto que apresentava perigos aos
