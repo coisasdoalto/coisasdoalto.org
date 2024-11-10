@@ -5,6 +5,7 @@ excerpt: ""
 author: William Kelly
 tags: []
 status: published
+translatedFrom: https://bibletruthpublishers.com/notes-on-2-corinthians-9-1-7/william-kelly-wk/w-kelly/lac143216-lub-16163-5
 ---
 
 Mas o apóstolo tem muito mais a dizer sobre um assunto tão constante e

@@ -5,6 +5,7 @@ excerpt: ""
 author: William Kelly
 tags: []
 status: published
+translatedFrom: https://bibletruthpublishers.com/notes-on-2-corinthians-3-1-6/william-kelly-wk/w-kelly/lac155720-lub-16163-5
 ---
 
 A partir disso, o apóstolo se volta de uma forma peculiarmente comovente

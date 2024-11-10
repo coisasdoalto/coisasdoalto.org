@@ -5,6 +5,7 @@ excerpt: ""
 author: William Kelly
 tags: []
 status: published
+translatedFrom: https://bibletruthpublishers.com/notes-on-2-corinthians-5-4-5/william-kelly-wk/w-kelly/lac155724-lub-16163-5
 ---
 
 Tendo dado uma palavra tão solene de advertência para a consciência, o

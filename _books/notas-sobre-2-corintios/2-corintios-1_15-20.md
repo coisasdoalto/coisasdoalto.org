@@ -5,6 +5,7 @@ excerpt: ""
 author: William Kelly
 tags: []
 status: published
+translatedFrom: https://bibletruthpublishers.com/notes-on-2-corinthians-1-15-20/william-kelly-wk/w-kelly/lac143191-lub-16163-5
 ---
 
 O apóstolo agora explica as circunstâncias que alguns em Corinto foram

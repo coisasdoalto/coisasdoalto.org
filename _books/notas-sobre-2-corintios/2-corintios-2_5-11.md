@@ -5,6 +5,7 @@ excerpt: ""
 author: William Kelly
 tags: []
 status: published
+translatedFrom: https://bibletruthpublishers.com/notes-on-2-corinthians-2-5-11/william-kelly-wk/w-kelly/lac143194-lub-16163-5
 ---
 
 Talvez não haja lugar onde a delicadeza, assim como a fidelidade, do

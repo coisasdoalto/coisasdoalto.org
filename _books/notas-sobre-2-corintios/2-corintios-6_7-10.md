@@ -5,6 +5,7 @@ excerpt: ""
 author: William Kelly
 tags: []
 status: published
+translatedFrom: https://bibletruthpublishers.com/notes-on-2-corinthians-6-7-10/william-kelly-wk/w-kelly/lac143208-lub-16163-5
 ---
 
 Há uma ligeira mudança no meio do versículo 7, indicada por uma

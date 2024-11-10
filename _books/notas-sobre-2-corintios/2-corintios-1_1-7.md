@@ -5,6 +5,7 @@ excerpt: ""
 author: William Kelly
 tags: []
 status: published
+translatedFrom: https://bibletruthpublishers.com/notes-on-2-corinthians-1-1-7/william-kelly-wk/w-kelly/lac143189-lub-16163-5
 ---
 
 A graça restauradora, de acordo com o caráter e o poder da vida em

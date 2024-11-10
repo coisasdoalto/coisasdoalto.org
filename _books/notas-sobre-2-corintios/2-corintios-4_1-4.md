@@ -5,6 +5,7 @@ excerpt: ""
 author: William Kelly
 tags: []
 status: published
+translatedFrom: https://bibletruthpublishers.com/notes-on-2-corinthians-4-1-4/william-kelly-wk/w-kelly/lac143195-lub-16163-5
 ---
 
 O apóstolo retorna à maneira e ao espírito de seu serviço no evangelho.

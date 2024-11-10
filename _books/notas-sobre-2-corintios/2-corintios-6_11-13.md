@@ -5,6 +5,7 @@ excerpt: ""
 author: William Kelly
 tags: []
 status: published
+translatedFrom: https://bibletruthpublishers.com/notes-on-2-corinthians-6-11-13/william-kelly-wk/w-kelly/lac143209-lub-16163-5
 ---
 
 Tendo fechado o abençoado esboço do serviço cristão desde sua fonte e

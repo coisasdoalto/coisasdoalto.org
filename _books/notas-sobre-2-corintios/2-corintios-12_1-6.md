@@ -5,6 +5,7 @@ excerpt: ""
 author: William Kelly
 tags: []
 status: published
+translatedFrom: https://bibletruthpublishers.com/notes-on-2-corinthians-12-1-6/william-kelly-wk/w-kelly/lac143224-lub-16163-5
 ---
 
 Tivemos o apóstolo se gloriando no que não tinha glória aos olhos dos

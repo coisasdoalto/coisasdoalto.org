@@ -5,6 +5,7 @@ excerpt: ""
 author: William Kelly
 tags: []
 status: published
+translatedFrom: https://bibletruthpublishers.com/notes-on-2-corinthians-12-7-10/william-kelly-wk/w-kelly/lac143225-lub-16163-5
 ---
 
 Vimos o poder espiritual e o tato com que o apóstolo lida com sua

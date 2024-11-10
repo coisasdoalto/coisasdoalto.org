@@ -5,6 +5,7 @@ excerpt: ""
 author: William Kelly
 tags: []
 status: published
+translatedFrom: https://bibletruthpublishers.com/notes-on-2-corinthians-10-1-6/william-kelly-wk/w-kelly/lac143218-lub-16163-5
 ---
 
 Do tratamento exaustivo de dar e receber de acordo com Cristo que
