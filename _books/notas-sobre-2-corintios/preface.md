@@ -5,6 +5,7 @@ excerpt: ""
 author: William Kelly
 tags: []
 status: published
+translatedFrom: https://bibletruthpublishers.com/notes-on-2-corinthians-introduction/william-kelly-wk/w-kelly/lac143188-lub-16163-5
 ---
 
 Muito distinta em tom da primeira Epístola, mas não menos distintamente

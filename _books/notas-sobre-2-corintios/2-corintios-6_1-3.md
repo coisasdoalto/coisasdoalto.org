@@ -5,6 +5,7 @@ excerpt: ""
 author: William Kelly
 tags: []
 status: published
+translatedFrom: https://bibletruthpublishers.com/notes-on-2-corinthians-6-1-3/william-kelly-wk/w-kelly/lac143206-lub-16163-5
 ---
 
 O apóstolo agora acompanha o impressionante exemplo que ele deu do

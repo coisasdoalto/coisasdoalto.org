@@ -5,6 +5,7 @@ excerpt: ""
 author: William Kelly
 tags: []
 status: published
+translatedFrom: https://bibletruthpublishers.com/notes-on-2-corinthians-6-17-18/william-kelly-wk/w-kelly/lac143211-lub-16163-5
 ---
 
 Não se diz aqui que o corpo do santo é o templo de Deus, como vemos em 1

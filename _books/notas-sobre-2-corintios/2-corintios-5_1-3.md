@@ -5,6 +5,7 @@ excerpt: ""
 author: William Kelly
 tags: []
 status: published
+translatedFrom: https://bibletruthpublishers.com/notes-on-2-corinthians-5-1-3/william-kelly-wk/w-kelly/lac143200-lub-16163-5
 ---
 
 Isso leva o apóstolo a revelar o poder da vida que temos em Cristo e

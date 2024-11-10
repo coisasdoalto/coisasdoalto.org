@@ -5,6 +5,7 @@ excerpt: ""
 author: William Kelly
 tags: []
 status: published
+translatedFrom: https://bibletruthpublishers.com/notes-on-2-corinthians-7-1-16/william-kelly-wk/w-kelly/lac143212-lub-16163-5
 ---
 
 O apóstolo retorna à expressão de seu afeto pelos coríntios, pois ele

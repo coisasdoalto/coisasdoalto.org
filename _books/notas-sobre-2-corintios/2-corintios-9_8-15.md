@@ -5,6 +5,7 @@ excerpt: ""
 author: William Kelly
 tags: []
 status: published
+translatedFrom: https://bibletruthpublishers.com/notes-on-2-corinthians-9-8-15/william-kelly-wk/w-kelly/lac143217-lub-16163-5
 ---
 
 O encerramento da exortação apostólica sobre doação está admiravelmente

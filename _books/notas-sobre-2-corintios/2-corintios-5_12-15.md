@@ -5,6 +5,7 @@ excerpt: ""
 author: William Kelly
 tags: []
 status: published
+translatedFrom: https://bibletruthpublishers.com/notes-on-2-corinthians-5-12-15/william-kelly-wk/w-kelly/lac143203-lub-16163-5
 ---
 
 O apóstolo sentiu, como vimos, que poderia apelar às suas consciências,

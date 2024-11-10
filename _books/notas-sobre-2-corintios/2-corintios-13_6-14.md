@@ -5,6 +5,7 @@ excerpt: ""
 author: William Kelly
 tags: []
 status: published
+translatedFrom: https://bibletruthpublishers.com/notes-on-2-corinthians-13-6-14/william-kelly-wk/w-kelly/lac143229-lub-16163-5
 ---
 
 Assim, o apóstolo transformou a exigência indigna de alguns em Corinto

@@ -5,6 +5,7 @@ excerpt: ""
 author: William Kelly
 tags: []
 status: published
+translatedFrom: https://bibletruthpublishers.com/notes-on-2-corinthians-3-7-11/william-kelly-wk/w-kelly/lac155721-lub-16163-5
 ---
 
 O apóstolo prossegue em seguida, em um longo parêntese (7-16) para

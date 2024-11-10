@@ -5,6 +5,7 @@ excerpt: ""
 author: William Kelly
 tags: []
 status: published
+translatedFrom: https://bibletruthpublishers.com/notes-on-2-corinthians-1-8-14/william-kelly-wk/w-kelly/lac143190-lub-16163-5
 ---
 
 O apóstolo agora se refere às circunstâncias aflitivas nas quais Deus se

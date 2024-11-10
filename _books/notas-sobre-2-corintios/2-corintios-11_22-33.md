@@ -5,6 +5,7 @@ excerpt: ""
 author: William Kelly
 tags: []
 status: published
+translatedFrom: https://bibletruthpublishers.com/notes-on-2-corinthians-11-22-33/william-kelly-wk/w-kelly/lac143223-lub-16163-5
 ---
 
 A pretensão carnal daqueles que se opunham ao apóstolo orgulhava-se de

@@ -5,6 +5,7 @@ excerpt: ""
 author: William Kelly
 tags: []
 status: published
+translatedFrom: https://bibletruthpublishers.com/notes-on-2-corinthians-11-16-21/william-kelly-wk/w-kelly/lac143222-lub-16163-5
 ---
 
 Tendo se desviado para alertar sobre os pseudo-apóstolos, suas altas

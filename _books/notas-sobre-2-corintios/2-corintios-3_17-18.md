@@ -5,6 +5,7 @@ excerpt: ""
 author: William Kelly
 tags: []
 status: published
+translatedFrom: https://bibletruthpublishers.com/notes-on-2-corinthians-3-17-18/william-kelly-wk/w-kelly/lac155723-lub-16163-5
 ---
 
 A parte central do capítulo, do versículo 7, contém não apenas a notável

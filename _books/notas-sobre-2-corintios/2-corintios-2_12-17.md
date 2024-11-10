@@ -5,6 +5,7 @@ excerpt: ""
 author: William Kelly
 tags: []
 status: published
+translatedFrom: https://bibletruthpublishers.com/notes-on-2-corinthians-2-12-17/william-kelly-wk/w-kelly/lac155719-lub-16163-5
 ---
 
 O apóstolo retoma por um momento o relato de seu curso, mas o objetivo é

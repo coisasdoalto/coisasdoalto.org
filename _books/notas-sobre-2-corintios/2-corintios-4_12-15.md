@@ -5,6 +5,7 @@ excerpt: ""
 author: William Kelly
 tags: []
 status: published
+translatedFrom: https://bibletruthpublishers.com/notes-on-2-corinthians-4-12-15/william-kelly-wk/w-kelly/lac143198-lub-16163-5
 ---
 
 O versículo 12 é a conclusão desta parte do assunto, o serviço de Cristo

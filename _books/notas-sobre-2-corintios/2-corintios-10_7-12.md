@@ -5,6 +5,7 @@ excerpt: ""
 author: William Kelly
 tags: []
 status: published
+translatedFrom: https://bibletruthpublishers.com/notes-on-2-corinthians-10-7-12/william-kelly-wk/w-kelly/lac143219-lub-16163-5
 ---
 
 A soma é a maneira como o apóstolo apresenta suplicante a autoridade que

@@ -5,6 +5,7 @@ excerpt: ""
 author: William Kelly
 tags: []
 status: published
+translatedFrom: https://bibletruthpublishers.com/notes-on-2-corinthians-8-9-15/william-kelly-wk/w-kelly/lac143214-lub-16163-5
 ---
 
 Vimos quão poderosamente o pensamento do Senhor agiu sobre os santos da
