@@ -5,6 +5,7 @@ excerpt: ""
 author: William Kelly
 tags: []
 status: published
+translatedFrom: https://bibletruthpublishers.com/the-serpent-and-the-womans-seed/william-kelly-wk/bible-treasury-volume-20/la69662
 ---
 
 ## **Gênesis 3:14-15**

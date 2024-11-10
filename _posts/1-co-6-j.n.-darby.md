@@ -5,6 +5,7 @@ excerpt: ""
 author: J.N. Darby
 tags: []
 status: published
+translatedFrom: https://bibletruthpublishers.com/1-corinthians-6/john-nelson-darby-jnd/darby-synopsis-4-acts-to-philippians/la73218
 ---
 
 ## **Erros: uma moral imutável, ordem e disciplina eclesiástica**

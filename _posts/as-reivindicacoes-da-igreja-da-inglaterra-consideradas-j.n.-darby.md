@@ -1,11 +1,13 @@
 ---
 title: As reivindicações da Igreja da Inglaterra consideradas - J.N. Darby
-date: '2024-06-17'
-excerpt: ''
+date: "2024-06-17"
+excerpt: ""
 author: J.N. Darby
 tags: []
 status: published
+translatedFrom: https://bibletruthpublishers.com/collected-writings-of-j-n-darby-ecclesiastical-3/lbd15239
 ---
+
 Introdução
 
 A única coisa necessária para ser explicada na publicação da

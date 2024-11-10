@@ -5,6 +5,7 @@ excerpt: ""
 author: H.A. Ironside
 tags: ["oferta", "sacrifício"]
 status: published
+translatedFrom: https://bibletruthpublishers.com/lecture-5-the-trespass-offering/henry-allan-ironside/the-levitical-offerings/h-a-ironside/la161656
 ---
 
 A oferta que vamos considerar agora apresenta o que poderíamos chamar de
