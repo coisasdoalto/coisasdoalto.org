@@ -5,6 +5,7 @@ excerpt: ""
 author: G.V. Wigram
 tags: []
 status: published
+translatedFrom: https://bibletruthpublishers.com/to-the-saints-meeting-to-break-bread-in-rawstorne-street/george-vicesimus-wigram/plymouth-related-papers/g-v-wigram/la60769
 ---
 
 Amados irmãos,

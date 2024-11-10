@@ -5,6 +5,7 @@ excerpt: ""
 author: ""
 tags: []
 status: draft
+translatedFrom: https://bibletruthpublishers.com/galatians-introduction/frank-binford-hole-briefly-expounded/f-b-hole/la158037
 ---
 
 **GÁLATAS**

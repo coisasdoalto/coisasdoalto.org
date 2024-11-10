@@ -1,11 +1,13 @@
 ---
 title: As Setenta Semanas de Daniel - William Kelly
-date: '2024-06-17'
-excerpt: ''
+date: "2024-06-17"
+excerpt: ""
 author: William Kelly
 tags: []
 status: published
+translatedFrom: https://bibletruthpublishers.com/the-seventy-weeks-of-daniel/william-kelly-wk/the-prospect/w-kelly/la131844
 ---
+
 EM um número anterior de \"The Prospect\", um artigo meu apareceu,
 intitulado, \"O CICLO DE SETENTA SEMANAS\", no qual eu me esforcei para
 provar que setenta semanas eram um grande ciclo dispensacional (ou seja,
@@ -967,10 +969,11 @@ Escritura, eu teria suposto que não era uma questão de fé. Se Deus
 falou, nosso dever é acreditar Nele: se Ele não falou, fé não pode
 haver. - ED.\]\
 \
+
 1. Há mais conexão entre esses setenta anos e o período de setenta
-semanas do que talvez se suponha geralmente. No Companion to my Charts
-on the Seventy Weeks, procurei explicar essa conexão. (Veja páginas
-85-91
+   semanas do que talvez se suponha geralmente. No Companion to my Charts
+   on the Seventy Weeks, procurei explicar essa conexão. (Veja páginas
+   85-91
 
 2\. \"Para restringir\", não \"para terminar, a transgressão\", é,
 acredito eu, a tradução verdadeira; e, se for assim, pode se aplicar ao

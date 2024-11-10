@@ -5,6 +5,7 @@ excerpt: ""
 author: J.N. Darby
 tags: []
 status: published
+translatedFrom: https://bibletruthpublishers.com/1-corinthians-8/john-nelson-darby-jnd/darby-synopsis-4-acts-to-philippians/la73220
 ---
 
 ## **Carne oferecida a ídolos e o valor do verdadeiro conhecimento cristão**
