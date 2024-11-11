@@ -6,6 +6,7 @@ author: William Kelly
 tags: []
 status: published
 ---
+
 Após seu discurso e saudação habitual, a primeira coisa que o apóstolo
 faz é informá-los que sempre agradece a Deus por eles. Que ele escreva
 assim aos santos em Roma, Éfeso, Colossos, Tessalônica não é
@@ -59,7 +60,7 @@ graça interior da vida espiritual, mas na comunicação aos outros e
 manifestação de poder, como em 1 Cor. 12.
 
 Isso é reforçado pela forma como os santos em Corinto são caracterizados
-a seguir: \"aguardando a revelação de nosso Senhor Jesus Cristo\". Não é
+a seguir: "aguardando a revelação de nosso Senhor Jesus Cristo". Não é
 aquele aspecto do retorno de nosso Senhor que revelará e expressará Sua
 graça aos Seus, mas sim aquele que lida com a consciência agora, assim
 como exporá, por um lado, o emprego fiel ou infiel de tudo o que lhes
@@ -103,31 +104,31 @@ como respondemos agora?
 
 **1. Manuscritos Importantes**
 
--   Os manuscritos originais do Sinai e do Vaticano, assim como a versão
-    etíope, omitem \"mou\" (meu), que todas as outras versões leem
-    corretamente.
+- Os manuscritos originais do Sinai e do Vaticano, assim como a versão
+  etíope, omitem "mou" (meu), que todas as outras versões leem
+  corretamente.
 
--   Três manuscritos unciais (B, F, G) e dez manuscritos cursivos leem
-    \"theou\" (de Deus); mas a leitura aceita parece estar correta.
+- Três manuscritos unciais (B, F, G) e dez manuscritos cursivos leem
+  "theou" (de Deus); mas a leitura aceita parece estar correta.
 
--   Quatro manuscritos latinos-gregos e outros lêem incorretamente
-    \"parousia\" (presença). Este foi um erro ocidental. A Vulgata piora
-    as coisas ao unir ambos como \"in div adventus\" (em divino
-    advento).
+- Quatro manuscritos latinos-gregos e outros lêem incorretamente
+  "parousia" (presença). Este foi um erro ocidental. A Vulgata piora
+  as coisas ao unir ambos como "in div adventus" (em divino
+  advento).
 
 **2. Confusão na Versão Autorizada**
 
--   Essa ideia teria sido expressa por \"parousia\" (presença ou vinda
-    de Cristo), que os tradutores da Versão Autorizada confundiram
-    erroneamente com \"apokalupsa\" (revelação). Embora a correção tenha
-    sido fornecida posteriormente na margem, os termos não são
-    sinônimos. Eles expressam fatos distintos que incorporam princípios
-    diferentes, tão diferentes quanto graça e julgamento.
+- Essa ideia teria sido expressa por "parousia" (presença ou vinda
+  de Cristo), que os tradutores da Versão Autorizada confundiram
+  erroneamente com "apokalupsa" (revelação). Embora a correção tenha
+  sido fornecida posteriormente na margem, os termos não são
+  sinônimos. Eles expressam fatos distintos que incorporam princípios
+  diferentes, tão diferentes quanto graça e julgamento.
 
 **Notas:**
 
--   O número \"4\" na versão original parece se referir à ideia
-    anterior, não se referindo diretamente a nenhum termo.
+- O número "4" na versão original parece se referir à ideia
+  anterior, não se referindo diretamente a nenhum termo.
 
--   Alguns termos técnicos relacionados a manuscritos antigos foram
-    mantidos como estão no original para maior fidelidade à tradução.
+- Alguns termos técnicos relacionados a manuscritos antigos foram
+  mantidos como estão no original para maior fidelidade à tradução.
