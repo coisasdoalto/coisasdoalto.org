@@ -5,6 +5,7 @@ excerpt: ""
 author: William Kelly
 tags: []
 status: published
+translatedFrom: https://bibletruthpublishers.com/notes-on-colossians-1-1-8/william-kelly-wk/lectures-on-the-epistles-to-the-philippians-and-colossians/w-kelly/la142783
 ---
 
 ## **Colossenses 1:1-29**
