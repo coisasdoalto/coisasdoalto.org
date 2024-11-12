@@ -5,6 +5,7 @@ excerpt: ""
 author: E.B. Dennett
 tags: []
 status: published
+translatedFrom: https://bibletruthpublishers.com/our-place-on-earth-letters-to-young-believers/christian-friend-volume-4/la86878
 ---
 
 Meu caro(a) ---:
