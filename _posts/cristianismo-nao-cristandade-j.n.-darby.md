@@ -5,6 +5,7 @@ excerpt: ''
 author: J.N. Darby
 tags: []
 status: published
+translatedFrom: https://bibletruthpublishers.com/christianity-not-christendom/john-nelson-darby-jnd/collected-writings-of-j-n-darby-doctrinal-5/la62693
 ---
 OS tempos em que vivemos - a questão na mente de todo homem sério,
 \"Devemos ou não voltar ao papado?\" os medos dos protestantes
