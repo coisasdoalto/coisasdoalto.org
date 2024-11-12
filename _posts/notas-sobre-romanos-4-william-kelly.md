@@ -5,6 +5,7 @@ excerpt: ''
 author: William Kelly
 tags: []
 status: published
+translatedFrom: https://bibletruthpublishers.com/notes-on-romans-4-1-11/william-kelly-wk/notes-on-the-epistle-to-the-romans/w-kelly/la143010
 ---
 O raciocínio anterior, e especialmente a declaração do apóstolo perto do
 final do capítulo iii, fez com que a justificação dependesse evidente e
