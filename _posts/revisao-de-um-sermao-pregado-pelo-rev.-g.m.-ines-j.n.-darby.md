@@ -1,10 +1,11 @@
 ---
-title: Revisão de um sermão pregado pelo Rev. G.M. Inés - J.N. Darby
+title: Revisão de um sermão pregado pelo Rev. G.M. Innes - J.N. Darby
 date: '2024-06-17'
 excerpt: ''
 author: J.N. Darby
 tags: []
 status: published
+translatedFrom: https://bibletruthpublishers.com/review-of-a-sermon-preached-by-the-rev-g-m-innes/john-nelson-darby-jnd/collected-writings-of-j-n-darby-ecclesiastical-3/la62589
 ---
 PREZADO SR. INNES,
 
