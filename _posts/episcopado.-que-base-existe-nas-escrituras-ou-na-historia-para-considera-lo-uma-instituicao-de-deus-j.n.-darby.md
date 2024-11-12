@@ -7,6 +7,7 @@ excerpt: ''
 author: J.N. Darby
 tags: []
 status: published
+translatedFrom: https://www.bibletruthpublishers.com/episcopacy-what-ground-is-there-in-scripture-or-history-for-accounting-it-an-institution-of-god/john-nelson-darby-jnd/la62753
 ---
 SE fosse meramente uma questão entre uma forma de governo da igreja e
 outra, ninguém ouviria uma palavra minha sobre isso. Se o homem forma um
