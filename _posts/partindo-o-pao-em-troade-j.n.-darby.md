@@ -5,6 +5,7 @@ excerpt: ''
 author: J.N. Darby
 tags: []
 status: published
+translatedFrom: https://bibletruthpublishers.com/breaking-bread-at-troas/john-nelson-darby-jnd/christian-treasury-volume-5/la155150
 ---
 O discurso foi longo e ainda não haviam partido o pão; o tempo estava
 quente e havia muitas luzes. É tal a fraqueza humana que tudo isso
