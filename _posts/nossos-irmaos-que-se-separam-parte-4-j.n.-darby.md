@@ -5,6 +5,7 @@ excerpt: ""
 author: J.N. Darby
 tags: []
 status: published
+translatedFrom: https://bibletruthpublishers.com/our-separating-brethren-part-4/john-nelson-darby-jnd/j-n-darby/la145379
 ---
 
 ## Farei uma outra admissão livremente. Deixar muitos santos para trás amarrados por dez mil laços que Satanás e as circunstâncias formaram ao redor deles, e a fraqueza da fé, que a longa escravidão no Egito ocasionou, enfraquecem as fileiras daqueles que estão fora, criam lacunas em suas vantagens espirituais que eles sentem plenamente e os deixam mais sujeitos às investidas de Satanás --- seu trabalho mais abundante do que seria de outra forma. A questão é: eles devem voltar para aqueles que estão assim para trás ou marchar em busca deles para segui-los? Pode ser que sua falta de coragem para a guerra tenha causado uma jornada mais trabalhosa pelo deserto; mas eles estão aprendendo a fé em Deus que supre todas as necessidades lá, que seu longo suprimento mundano no Egito (desde que deixaram sua estranheza em uma terra prometida) os ensinou quase a esquecer completamente. Havia alho-poró e cebolas lá, mas não havia o suprimento e o cuidado de seu próprio Deus, e eles estavam em cativeiro sob senhores duros e cruéis, cuja inimizade era contra seu primogênito. Eles confiam que, se viajarem pelo deserto até a Canaã deixada no passado, agora não será como estranhos sem nem mesmo pisar nela, mas para o descanso e para a herança que Deus preparou para eles. Eles preferem de fato o caminho da fé, por mais fracos que sejam; eles lamentam seus irmãos que ficaram para trás.
