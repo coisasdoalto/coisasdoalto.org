@@ -5,6 +5,7 @@ excerpt: ""
 author: "William Trotter"
 tags: []
 status: published
+translatedFrom: https://bibletruthpublishers.com/notes-on-genesis-1-3/william-t-trotter/bible-treasury-volume-12/la67939
 ---
 
 ## **Gênesis 1:1-3: A Criação e a Revelação de Deus**
