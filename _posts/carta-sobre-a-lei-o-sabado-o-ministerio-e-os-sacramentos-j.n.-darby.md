@@ -5,6 +5,7 @@ excerpt: ''
 author: J.N. Darby
 tags: []
 status: published
+translatedFrom: https://bibletruthpublishers.com/letter-on-the-law-the-sabbath-ministry-and-the-sacraments/john-nelson-darby-jnd/collected-writings-of-j-n-darby/la62594
 ---
 Prefácio
 
