@@ -5,6 +5,7 @@ excerpt: ""
 author: William Kelly
 tags: []
 status: published
+translatedFrom: https://www.bibletruthpublishers.com/the-talmud-part-1/william-kelly-wk/bible-treasury-volume-7/la66606
 ---
 
 Se o redator de um artigo recente na \"Quarterly\" pretendia pegar os
