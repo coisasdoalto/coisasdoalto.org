@@ -5,6 +5,7 @@ excerpt: ''
 author: J.N. Darby
 tags: []
 status: published
+translatedFrom: https://bibletruthpublishers.com/dr-capadose-and-the-dutch-reformed-church/john-nelson-darby-jnd/collected-writings-of-j-n-darby-ecclesiastical-3/la62595
 ---
 (Ao Editor do Tesouro Bíblico)
 
