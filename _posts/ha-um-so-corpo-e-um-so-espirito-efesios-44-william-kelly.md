@@ -5,6 +5,7 @@ excerpt: ""
 author: William Kelly
 tags: []
 status: published
+translatedFrom: https://bibletruthpublishers.com/there-is-one-body-and-one-spirit-ephesians-4-4/william-kelly-wk/bible-treasury-volume-5/la66050
 ---
 
 O Senhor Jesus, tanto antes da Sua morte quanto após a Sua ressurreição,
