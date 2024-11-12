@@ -5,6 +5,7 @@ excerpt: ""
 author: William Kelly
 tags: []
 status: published
+translatedFrom: https://bibletruthpublishers.com/teulons-plymouth-brethren/william-kelly-wk/w-kelly/la145431
 ---
 
 Não é correto supor (p. 142) que os separatistas antigos, e não a
