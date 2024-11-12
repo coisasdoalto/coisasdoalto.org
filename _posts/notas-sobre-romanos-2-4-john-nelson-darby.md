@@ -5,6 +5,7 @@ excerpt: ''
 author: John Nelson Darby
 tags: []
 status: published
+translatedFrom: https://bibletruthpublishers.com/notes-on-romans-2-4/john-nelson-darby-jnd/collected-writings-of-j-n-darby-expository-5/la62959
 ---
 CAPÍTULOS 2-4
 
