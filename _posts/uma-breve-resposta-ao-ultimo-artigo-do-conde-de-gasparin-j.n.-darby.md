@@ -5,6 +5,7 @@ excerpt: ''
 author: J.N. Darby
 tags: []
 status: published
+translatedFrom: https://bibletruthpublishers.com/a-short-answer-to-the-last-article-by-count-de-gasparin/john-nelson-darby-jnd/collected-writings-of-j-n-darby/la62255
 ---
 NÃO o seguirei no caminho que você tomou, senhor, ao usar expressões que
 esta controvérsia pode ter gerado: eu poderia citar algumas das suas que
