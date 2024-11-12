@@ -5,6 +5,7 @@ excerpt: ''
 author: J.N. Darby
 tags: []
 status: published
+translatedFrom: https://bibletruthpublishers.com/reply-to-two-fresh-letters-from-count-de-gasparin/john-nelson-darby-jnd/collected-writings-of-j-n-darby-ecclesiastical-2/la62254
 ---
 (Vevey, 1855.)
 
