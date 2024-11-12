@@ -5,6 +5,7 @@ excerpt: ''
 author: John Nelson Darby
 tags: []
 status: published
+translatedFrom: https://bibletruthpublishers.com/exposition-of-the-epistle-to-the-romans/john-nelson-darby-jnd/collected-writings-of-j-n-darby-expository-5/la62940
 ---
 Introdução
 
