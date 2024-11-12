@@ -7,6 +7,7 @@ excerpt: ''
 author: J.N. Darby
 tags: []
 status: published
+translatedFrom: https://bibletruthpublishers.com/remarks-on-is-modern-christianity-a-civilized-heathenism/john-nelson-darby-jnd/collected-writings-of-j-n-darby/la62751
 ---
 EU RECONHEÇO que este escrito é calculado para produzir pensamentos
 sérios; mas é como marcar o julgamento vindouro. Como um julgamento do
