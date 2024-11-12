@@ -5,6 +5,7 @@ excerpt: ''
 author: J.N. Darby
 tags: []
 status: published
+translatedFrom: https://bibletruthpublishers.com/reply-to-some-questions-on-the-lords-supper/john-nelson-darby-jnd/collected-writings-of-j-n-darby-ecclesiastical-4/la62749
 ---
 ACREDITO que o pão permanece simples e absolutamente pão, e o vinho,
 vinho --- que, fisicamente, não há mudança alguma nos elementos. Buscar
