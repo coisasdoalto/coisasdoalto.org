@@ -5,6 +5,7 @@ excerpt: ''
 author: William Kelly
 tags: []
 status: published
+translatedFrom: https://bibletruthpublishers.com/the-prophet-obadiah/william-kelly-wk/christian-truth-volume-20/la53250
 ---
 A história de Edom ao longo das Escrituras é de muito interesse, pois
 exibe os caminhos de Deus com um povo semelhante a Israel, mas com
