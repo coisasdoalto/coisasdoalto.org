@@ -5,6 +5,7 @@ excerpt: ''
 author: J.N. Darby
 tags: []
 status: published
+translatedFrom: https://bibletruthpublishers.com/a-letter-to-count-de-gasparin/john-nelson-darby-jnd/collected-writings-of-j-n-darby-ecclesiastical-2/la62253
 ---
 Em resposta a uma pergunta que ele me faz nos \"Archives Du
 Christianisme\"
