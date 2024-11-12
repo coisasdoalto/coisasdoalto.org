@@ -5,6 +5,7 @@ excerpt: ''
 author: J.N. Darby
 tags: []
 status: published
+translatedFrom: https://bibletruthpublishers.com/presbyterianism-a-reply-to-the-church-and-the-pulpit/john-nelson-darby-jnd/collected-writings-of-j-n-darby/la62593
 ---
 \" Pais e Irmãos,
 
