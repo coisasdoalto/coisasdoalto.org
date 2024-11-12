@@ -5,6 +5,7 @@ excerpt: ''
 author: J.N. Darby
 tags: []
 status: published
+translatedFrom: https://bibletruthpublishers.com/a-reply-to-defense-of-the-doctrine-of-baptismal-regeneration/john-nelson-darby-jnd/collected-writings-of-j-n-darby/la62748
 ---
 É com tristeza e pesar que publico o seguinte artigo; não o faço com
 hostilidade a ninguém. Estes não são os tempos para isso; eles são muito
