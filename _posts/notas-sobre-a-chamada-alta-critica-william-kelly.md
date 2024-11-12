@@ -5,6 +5,7 @@ excerpt: ""
 author: William Kelly
 tags: []
 status: published
+translatedFrom: https://bibletruthpublishers.com/the-higher-criticism-part-1/william-kelly-wk/bible-treasury-volume-n5/la71168
 ---
 
 O Dr. Kirkpatrick abre o primeiro desses artigos com palavras que soam
