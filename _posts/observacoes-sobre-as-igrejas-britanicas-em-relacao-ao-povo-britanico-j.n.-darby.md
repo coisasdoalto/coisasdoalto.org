@@ -7,6 +7,7 @@ excerpt: ''
 author: J.N. Darby
 tags: []
 status: published
+translatedFrom: https://bibletruthpublishers.com/remarks-upon-the-british-churches-in-relation-to-the-british-people/john-nelson-darby-jnd/la62592
 ---
 Para o meu próprio espírito, acho que o cristão tem que se cuidar para
 não ser pressionado pelo que está acontecendo ao redor, se ele prestar
