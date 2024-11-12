@@ -5,6 +5,7 @@ excerpt: ''
 author: J.N. Darby
 tags: []
 status: published
+translatedFrom: https://bibletruthpublishers.com/what-is-a-sect/john-nelson-darby-jnd/collected-writings-of-j-n-darby-ecclesiastical-3/la62596
 ---
 A palavra \"seita\" é empregada na tradução em inglês para expressar a
 palavra grega \"hairesis\". O significado desta palavra é bem conhecido.
