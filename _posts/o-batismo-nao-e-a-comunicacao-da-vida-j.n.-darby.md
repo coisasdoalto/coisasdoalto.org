@@ -5,6 +5,7 @@ excerpt: ''
 author: J.N. Darby
 tags: []
 status: published
+translatedFrom: https://bibletruthpublishers.com/baptism-not-the-communication-of-life/john-nelson-darby-jnd/collected-writings-of-j-n-darby-ecclesiastical-4/la62747
 ---
 Caro Sr.---------
 
