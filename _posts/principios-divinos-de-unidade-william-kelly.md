@@ -5,6 +5,7 @@ excerpt: ""
 author: William Kelly
 tags: []
 status: published
+translatedFrom: https://bibletruthpublishers.com/part-1/william-kelly-wk/gods-principle-of-unity/w-kelly/la185340
 ---
 
 Caro irmão,
