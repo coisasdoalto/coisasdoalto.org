@@ -5,7 +5,7 @@ excerpt: ""
 author: G.V. Wigram
 tags: []
 status: published
-translatedFrom: https://bibletruthpublishers.com/bethesda-related-papers-1-volume-1/g-v-wigram/lbd15135
+translatedFrom: https://bibletruthpublishers.com/bethesda-related-papers-1-volume-1/g-v-wigram/lbd15135#ch4
 ---
 
 Um Cristão tem o Espírito (assim como fé e moralidade) e uma companhia
