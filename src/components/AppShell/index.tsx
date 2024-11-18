@@ -81,7 +81,7 @@ export default function AppShell({ children }: PropsWithChildren) {
 				<VerticalNavigation onNavigation={close} />
 			</MantineAppShell.Navbar>
 
-			<MantineAppShell.Main>
+			<MantineAppShell.Main mb="md">
 				{children}
 				<BackToTopButton />
 			</MantineAppShell.Main>
