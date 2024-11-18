@@ -11,6 +11,7 @@ import markdownToHtml from "~/lib/markdownToHtml";
 import type { Post as PostType } from "~/types/post";
 
 import { Article } from "../Article";
+import { ReviewAlert } from "../ReviewAlert";
 import classes from "./styles.module.css";
 
 type PostProps = {
@@ -22,6 +23,8 @@ export async function PostView({ post }: PostProps) {
 
 	return (
 		<Container pt="md">
+			<ReviewAlert link={post.translatedFrom} />
+
 			<Breadcrumbs component="nav" className={classes.breadcrumb} mb="md">
 				<Anchor href="/">Início</Anchor>
 
@@ -45,6 +48,7 @@ export async function PostView({ post }: PostProps) {
 							href={post.translatedFrom}
 							target="_blank"
 							rel="noopener noreferrer"
+							c="blue"
 						>
 							{post.translatedFrom}
 						</Anchor>
