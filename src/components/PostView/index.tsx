@@ -34,26 +34,6 @@ export async function PostView({ post }: PostProps) {
 			<Box component="header">
 				<Title order={1}>{post.title}</Title>
 				<Text my={2}>Autor: {post.author}</Text>
-				{post.translatedFrom && (
-					<Text
-						my={2}
-						style={{
-							textOverflow: "ellipsis",
-							overflow: "hidden",
-							whiteSpace: "nowrap",
-						}}
-					>
-						Traduzido de:{" "}
-						<Anchor
-							href={post.translatedFrom}
-							target="_blank"
-							rel="noopener noreferrer"
-							c="blue"
-						>
-							{post.translatedFrom}
-						</Anchor>
-					</Text>
-				)}
 
 				<Divider my="md" />
 
