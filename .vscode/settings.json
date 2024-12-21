@@ -11,5 +11,6 @@
 		"source.fixAll": "explicit",
 		"source.addMissingImports": "always",
 		"source.organizeImports.biome": "explicit"
-	}
+	},
+	"typescript.tsdk": "node_modules/typescript/lib"
 }
